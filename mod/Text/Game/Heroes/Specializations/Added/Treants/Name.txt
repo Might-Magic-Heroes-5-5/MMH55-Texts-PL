@@ -1,0 +1,1 @@
+﻿Klasa: Łowca<br>Specjalizacja: Opiekun Natury<br><br><body_bright>Bohater zaczyna z +2 Obrony na stałe, a wszystkie Drzewce, Drzewców Mędrców i Dzikich Drzewców w armii bohatera otrzymają możliwość natychmiastowego działania, gdy rozpocznie się walka.<br><br><color=orange>Zaczyna z Obrona.

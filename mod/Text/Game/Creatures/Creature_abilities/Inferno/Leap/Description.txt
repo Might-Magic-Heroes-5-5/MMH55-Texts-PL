@@ -1,0 +1,1 @@
+﻿Jednostka ta może skoczyć na dowolny wrogi cel, na dużą odległość, otrzymując premię do ataku 10% + 10% za każde pole, nad którym przeskoczy. Po skoku demon ląduje na polu obok celu i jest narażony na odwet o 50% potężniejszy + 5% więcej za każde przeskoczone pole. Skok nie może być dłuższy niż 7 pól, a także nie może być krótszy niż 3 pola.

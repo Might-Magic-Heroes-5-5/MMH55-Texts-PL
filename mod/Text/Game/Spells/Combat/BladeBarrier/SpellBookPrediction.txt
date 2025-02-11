@@ -1,0 +1,1 @@
+﻿Punkty Życia każdej sekcji bariery:<value=health><br>Czas trwania: <value=duration> tur(y).

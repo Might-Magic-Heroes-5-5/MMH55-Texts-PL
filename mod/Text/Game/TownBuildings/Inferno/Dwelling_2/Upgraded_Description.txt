@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Wieża Demonów.<br>
+<color_bright>Bastion Demonów Pozwala rekrutować Rogatych Nadzorców i Rogate Bestie.

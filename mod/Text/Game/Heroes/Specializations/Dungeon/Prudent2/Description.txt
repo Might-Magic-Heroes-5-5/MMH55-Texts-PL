@@ -1,0 +1,1 @@
+﻿Dręczyciel: Jednostki wroga otrzymują karę do Inicjatywy, zależną od poziomu bohatera. Inicjatywa wroga jest zmniejszona o 2% + 0,2% za poziom bohatera.

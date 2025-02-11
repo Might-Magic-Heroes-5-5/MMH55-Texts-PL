@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszony Taras Tańców Wojennych.<br>
+<color_bright>Arena Tańców Wojennych pozwala rekrutować Tancerzy Wojny i Tancerzy Wiatru.

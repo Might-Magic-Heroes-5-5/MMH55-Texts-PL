@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Otchłań Cyklopów.<br>
+<color_bright>Czeluść Cyklopów pozwala rekrutować Dzikie Cyklopy i Krwawe Cyklopy.

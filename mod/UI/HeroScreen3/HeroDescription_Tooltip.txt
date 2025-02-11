@@ -1,0 +1,1 @@
+﻿Klasa bohatera określa jego talenty i atrybuty początkowe. Poziom bohatera wpływa na jego atrybuty. Zdobycie nowego poziomu pozwala na uzyskanie nowych Talentów i Zdolności, oraz ulepszenie atrybutów bohatera.

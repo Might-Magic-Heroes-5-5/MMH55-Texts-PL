@@ -1,0 +1,1 @@
+﻿Bohater poświęca artefakt, aby użyć zawartej w nim magicznej energii do uzdrowienia i wskrzeszenia jednostek w walce.<br><color_default>Liczba przywróconych PŻ jest równa 10 * (Poziom Bohateral) * (1 + X), gdzie X to liczba efektów spreparowanych w poświęconym artefakcie. Bohater traci 50% swojej tury na poświęcenie artefaktu.

@@ -1,0 +1,1 @@
+﻿Ta istota ma szansę przerazić cel i jego sąsiadów (małe istoty są bardziej podatne na strach). W przypadku sukcesu, zwiększa Morale o 1 oraz Punkty Życia atakującego o 10%.

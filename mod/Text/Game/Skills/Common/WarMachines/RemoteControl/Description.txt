@@ -1,0 +1,1 @@
+﻿Na początku walki bohater przejmuje kontrolę nad jedną losową Machiną Wojenną przeciwnika, z wyjątkiem Katapulty.

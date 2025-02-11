@@ -1,0 +1,1 @@
+﻿Młody Khan: Wszystkie Córy Słońca, Córy Nieba i Córy Ziemi będą mogły działać natychmiast po rozpoczęciu walki. Ponadto na początku każdego tygodnia więcej tych jednostek dołączy do armii bohatera (pod warunkiem, że niektóre z tych jednostek są obecne w armii bohatera). Ilość ta jest równa 0,2*Poziom bohatera. Żadne dodatkowe jednostki nie dołączą przed 3 poziomem.

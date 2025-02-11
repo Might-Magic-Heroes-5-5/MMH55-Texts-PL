@@ -1,0 +1,1 @@
+﻿Wybranie tej opcji włączy trwałe niekończące jednoczesne tury. Jednoczesne tury nie zostaną przerwane, gdy bohaterowie znajdą się blisko siebie. Atakowanie innych graczy, podczas gdy są oni na ekranie miasta spowoduje utratę punktów ruchu.

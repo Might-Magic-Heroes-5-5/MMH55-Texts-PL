@@ -1,0 +1,1 @@
+﻿Wybrana jednostka będzie regenerować swoje punkty życia za każdym razem, gdy zaczyna swoją turę. Nie działa na Nieumarłych, Żywiołaki i Jednostki Mechaniczne.

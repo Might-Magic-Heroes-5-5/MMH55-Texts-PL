@@ -1,0 +1,1 @@
+﻿Obniża maksymalne obrażenia celu w kierunku jego minimalnych obrażeń. Jeśli cel jest pod wpływem zaklęcia Boska Siła, zostanie oczyszczony. Efekt nie może przekroczyć 100%.

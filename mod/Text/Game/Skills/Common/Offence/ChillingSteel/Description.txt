@@ -1,0 +1,1 @@
+﻿Podczas ataku istoty w armii bohatera zadają dodatkowe obrażenia od Zimna, równe 10% zadanych obrażeń.<br>Działa również na ataki istot żywych.

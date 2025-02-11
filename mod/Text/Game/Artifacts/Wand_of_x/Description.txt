@@ -1,0 +1,3 @@
+﻿+2 Siła Czarów<br>
+Daje możliwość rzucania zaklęć <value=spell_name> z tej różdżki na zaawansowanym poziomie mistrzostwa (chyba że poziom mistrzostwa bohatera jest wyższy). Różdżka ma ograniczoną liczbę zastosowań i można ją naładować w Gildii Magów (użycia <value=charges_cur>/<value=charges_max>)
+<br><color_default>Wodzowie nie mogą rzucać zaklęcia, ale otrzymują premię do Siły Czarów.

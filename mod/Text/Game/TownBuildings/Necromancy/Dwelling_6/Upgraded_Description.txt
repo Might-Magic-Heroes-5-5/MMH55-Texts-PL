@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszony Opuszczony Kościół.<br>
+<color_bright>Opuszczona Katedra pozwala rekrutować Kostuchy i Banshee.

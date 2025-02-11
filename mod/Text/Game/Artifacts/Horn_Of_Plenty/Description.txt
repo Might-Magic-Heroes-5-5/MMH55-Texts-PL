@@ -1,0 +1,5 @@
+﻿+W*75 Złota co dzień<br><color_default>
+(W=Wiedza bohatera, na przykład 1500 złota dziennie dla 20 Wiedzy)<br><br><color=orange>
+Złota Gęś<color_default><br>
+Zbierz wszystkie trzy artefakty i odwiedź Tajemną Bibliotekę, aby otrzymać unikatową nagrodę.<br><br><color=yellow>
+Plecak<color_default><br>Ten artefakt działa również w plecaku, ale jego działanie jest ograniczone do tylko jednego artefaktu na bohatera.

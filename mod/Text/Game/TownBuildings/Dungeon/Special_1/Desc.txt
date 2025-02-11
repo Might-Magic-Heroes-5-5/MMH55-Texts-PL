@@ -1,0 +1,1 @@
+﻿Wspiera umiejętność Wizja Żywiołów. Wyświetla elementy na własnych jednostkach, co pozwala zaplanować ataki zadające większe obrażenia. Jednostki z przeciwnymi żywiołami zadają wrogowi większe obrażenia.<br><br><color=0099FF>Governance<color_default><br>Przyznaje gubernatorowi tego miasta premię do Ataku +1.

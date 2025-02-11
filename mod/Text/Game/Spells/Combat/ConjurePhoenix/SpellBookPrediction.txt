@@ -1,0 +1,1 @@
+﻿Punkty Życia Feniksa: <value=health>.<br>Zadawane obrażenia: <value=min_damage> - <value=max_damage>.

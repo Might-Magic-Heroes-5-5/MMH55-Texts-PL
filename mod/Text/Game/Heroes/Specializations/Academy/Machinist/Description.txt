@@ -1,0 +1,1 @@
+﻿Mistrz Golemów: Wszystkie Żelazne Golemy, Stalowe Golemy i Magnetyczne Golemy w armii bohatera otrzymują możliwość działania natychmiast po rozpoczęciu walki. Wszystkie Żelazne Golemy i ich ulepszenia w armii bohatera zyskują także +1 do swojego Ataku i Obrony za każde dwa poziomy bohatera, zaczynając od pierwszego poziomu.

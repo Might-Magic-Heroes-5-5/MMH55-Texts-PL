@@ -1,0 +1,1 @@
+﻿Bohater otrzymuje +2 do Ataku. Ponadto, podczas ataku istoty w armii bohatera zadają dodatkowe obrażenia od Ognia, równe 10% obrażeń zadanych w tym ataku. Przeciwnicy posiadający "Odporność na Ogień" nie otrzymują dodatkowych obrażeń.

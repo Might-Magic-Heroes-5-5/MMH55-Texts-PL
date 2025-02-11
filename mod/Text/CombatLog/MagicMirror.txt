@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> odbija zaklęcie <value=spell> w stronę <value=target>.

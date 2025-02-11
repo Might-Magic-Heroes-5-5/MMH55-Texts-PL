@@ -1,0 +1,1 @@
+﻿ Pozwala na odświeżenie wcześniej umieszczonej Runy (losowo wybranej, jeśli jest ich wiele) na wybranym stworzeniu. Bohater poświęca tylko pół tury, aby odświeżyć runę. Po odświeżeniu na stworzeniu, Runa staje się ponownie dostępna po normalnym koszcie.

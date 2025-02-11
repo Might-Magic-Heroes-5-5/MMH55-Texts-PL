@@ -1,0 +1,1 @@
+﻿Klasa: Czarnoksiężnik<br>Specjalizacja: Magia Siedmiu Miast<br><br><body_bright>Wiedza bohatera zwiększa się o +1 na każde 7 poziomów, dodatkowo doświadczenie zdobyte po walkce zwiększa się o 2% na poziom bohatera.<br><br><color=orange>Zaczyna z Mistrz Przywołania.

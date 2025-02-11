@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszone Płonące Stajnie.<br>
+<color_bright>Gorejące Stajnie pozwalają rekrutować Zmory i Koszmary.

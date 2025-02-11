@@ -1,0 +1,1 @@
+﻿Zwierzchnik: Wszyscy Piechurzy, Zbrojni i Fanatycy w armii bohatera otrzymują możliwość działania natychmiast po rozpoczęciu walki. Bohater dodaje także codziennie 250 sztuk złota do skarbca królestwa, a koszty szkolenia są zmniejszone o 1% + 1% za każde 2 poziomy bohatera.

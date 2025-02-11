@@ -1,0 +1,1 @@
+﻿<value=source_color>Arcydiabeł przywołuje oddział Czarcich Lordów z truchła <value=target> (przywołano <value=dead>).

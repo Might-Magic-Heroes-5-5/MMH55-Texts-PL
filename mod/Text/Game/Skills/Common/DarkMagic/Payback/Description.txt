@@ -1,0 +1,1 @@
+﻿Regeneracja many bohatera zostaje zwiększona o 5, a bohater nigdy nie traci many w walce. Bohater odzyskuje całą manę zużytą na zaklęcia, któe odparł, a jego Gotowość Bojowa zostaje zresetowana do 0,2/0,3/0,4/0,5 w zależności od biegłości w zdolności Talent Magiczny po nieudanym rzuceniu. Nie działa w przypadku zaklęć częściowo odpornych.

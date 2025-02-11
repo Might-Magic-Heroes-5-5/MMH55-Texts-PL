@@ -1,0 +1,1 @@
+﻿Przelewając krew swoich wrogów, bohater znacznie zwiększa szał swoich orkowych oddziałów, a wrogi cel zostaje ogłuszony (Gotowość Bojowa zostaje zmniejszona o 0,01 * poziom bohatera i dodatkowo o 0,2, jeśli bohater posiada zdolność Ogłuszający Cios). Ten Okrzyk nie działa na wrogów, którzy nie mogą krwawić (Nieumarli, Żywiołaki i Jednostki Mechaniczne).

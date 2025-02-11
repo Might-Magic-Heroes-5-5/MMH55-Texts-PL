@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Krypta.<br>
+<color_bright>Odrażająca Krypta pozwala rekrutować Ropiejące Zombie i Gnijące Zombie.

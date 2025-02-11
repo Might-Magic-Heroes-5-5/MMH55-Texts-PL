@@ -1,0 +1,1 @@
+﻿Zadaje duże obrażenia murom miejskim i wieżom podczas oblężenia oraz niewielkie obrażenia fizyczne wszystkim jednostkom (przyjaciołom i wrogom). Obrażenia zadane jednostkom są równe 20 + (2 * Siła Czarów), niezależnie od poziomu mistrzostwa.

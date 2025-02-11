@@ -1,0 +1,1 @@
+﻿<color=red>Nie masz wystarczającej ilości złota, by postawić zakład!

@@ -1,0 +1,1 @@
+﻿Poziom mistrzostwa wszystkich zaklęć Magii Mroku od pierwszego do czwartego kręgu, rzucanych przez przeciwnika, jest obniżony o jeden (Ekspercki do Zaawansowanego, itd.). Również Siła Czarów zostaje obniżona o 15% za każdy poziom mistrzostwa kończący się w efekcie poniżej poziomu żadnego.

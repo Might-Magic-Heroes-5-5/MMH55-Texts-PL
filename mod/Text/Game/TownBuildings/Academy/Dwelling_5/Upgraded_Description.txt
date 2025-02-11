@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszony Ołtarz Życzeń.<br>
+<color_bright>Iglica Życzeń pozwala rekrutować Dżiny Sułtańskie i Dżinów Wizjonerów.

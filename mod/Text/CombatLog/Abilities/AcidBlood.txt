@@ -1,0 +1,1 @@
+﻿<value=source_color>Kwas z ran Hydry trafia <value=target>, zadając <value=damage> pkt. obrażeń (zabito <value=dead>).

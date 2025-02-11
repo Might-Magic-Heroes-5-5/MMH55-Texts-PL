@@ -1,0 +1,8 @@
+﻿-------------------------------------------------------------------------------
+STANOWISKO HANDLOWE
+-------------------------------------------------------------------------------
+
+Wybierz żądany typ Mikstury:
+
+OK = Kup Miksturę Many (5000 złota)
+Anuluj = Kup Miksturę Energii (10000 złota)

@@ -1,0 +1,3 @@
+﻿+2 Morale<br>
++2 do Szczęście<br>
++6% Odporność na Magię

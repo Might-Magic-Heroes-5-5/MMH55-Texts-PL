@@ -1,0 +1,1 @@
+﻿W tym oknie wyświetlane są informacje o talenty klasowe bohatera oraz wszystkich zdolności drugorzędnych nabytych w trakcie gry.

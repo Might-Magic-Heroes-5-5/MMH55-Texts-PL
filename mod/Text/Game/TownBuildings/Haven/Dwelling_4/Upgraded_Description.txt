@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Wieża Gryfów.<br>
+<color_bright>Bastion Gryfów pozwala rekrutować Gryfy Królewskie i Gryfy Bojowe.

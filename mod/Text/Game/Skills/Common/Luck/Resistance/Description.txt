@@ -1,0 +1,1 @@
+﻿Odporność na magię bohatera zwiększa się o 12%, dzięki czemu istoty w jego armii mają szansę na (całkowite) odparcie wrogiej magii, z wyjątkiem magicznej pięści, rozpadu i rozdarcia.

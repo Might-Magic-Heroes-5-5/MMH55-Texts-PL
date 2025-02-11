@@ -1,0 +1,1 @@
+﻿<value=target_color><value=source> nie zdołał(a) ukraść pocisków od <value=target>.

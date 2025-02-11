@@ -1,0 +1,1 @@
+﻿Czas działania zaklęcia (w akcjach): <value=duration>. Zwiększa obrażenia zadawane przez cel o <value=enchant>%.

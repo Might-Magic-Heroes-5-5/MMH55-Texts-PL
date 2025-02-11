@@ -1,0 +1,1 @@
+﻿Ten strzelec zadaje pełne obrażenia, nawet strzelając w cel znajdujący się dalej niż za połową pola bitwy.

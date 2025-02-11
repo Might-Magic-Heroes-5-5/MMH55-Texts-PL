@@ -1,0 +1,5 @@
+﻿+1 Obrona<br>
++1 Wiedza<br><br>
+Wskrzesza po walce pewną ilość rodzimych stworzeń 4 Poziomu. Ilość ta jest równa 30% + 1%*W wszystkich poległych lub alternatywnie 130 + 10*W wszystkich utraconych Punktów Życia (w zależności od tego, które z nich spowoduje większą ilość wskrzeszonych stworzeń). Wskrzeszenie wymaga 10 many.<color_default>W = Wiedza bohatera, a liczba jest zaokrąglana w dół. Nieumarli, Żywiołaki i Jednostki Mechaniczne nie mogą zostać wskrzeszone.
+<br><color=purple>Szaty Świętego<color_default><br>
+-2 Koszt many za każdy wyposażony artefakt wskrzeszający (3/7)

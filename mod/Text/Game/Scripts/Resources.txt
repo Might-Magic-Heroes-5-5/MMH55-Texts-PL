@@ -1,0 +1,1 @@
+﻿<color=yellow>Pewien zasób (<TextType>) w ilości <TextAmount> zostaje dostarczony do królewskiego magazynu.

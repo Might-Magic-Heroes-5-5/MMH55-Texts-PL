@@ -1,0 +1,1 @@
+﻿Otrzymałeś <value=amount> <value=resource> od gracza <push><value=player><pop>

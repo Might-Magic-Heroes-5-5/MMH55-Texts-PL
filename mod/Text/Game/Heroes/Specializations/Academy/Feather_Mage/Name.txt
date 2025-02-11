@@ -1,0 +1,1 @@
+﻿Klasa: Czarodziej<br>Specjalizacja: Rozmawiający z Wiatrem<br><br><body_bright>Tury bohatera w walce będą następowały szybciej w zależności od jego poziomu. Inicjatywa bohatera będzie wynosić 11,5 + 0,025 * poziom bohatera (zamiast 11).<br><br><color=orange>Zaczyna z Kapryśna Mana.

@@ -1,0 +1,4 @@
+﻿+1 Onrona<br>
++5 Wiedza obliczona dla wszystkich aktywnych artefaktów<br>
++5 Obrona obliczona dla wszystkich aktywnych artefaktów<br><color_default>
+(Wpływa na wszystkie artefakty aktywne na tym bohaterze dające zasoby, oddziały lub wskrzeszające stworzenia)

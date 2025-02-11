@@ -1,0 +1,4 @@
+﻿Właściciel Fabryki Maszyn Wojennych oferuje Ci kontrakt na dostawy, w zamian za <value=num> złota dostarczy Ci losową ilość (3-7) drewna co tydzień. 
+
+OK = Podpisz umowę (<value=num> złota)
+Anuluj = Sprawdź jego magazyn

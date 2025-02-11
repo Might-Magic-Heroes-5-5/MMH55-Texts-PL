@@ -1,0 +1,1 @@
+﻿<color=yellow><value=amount> z <value=total> obelisków jest aktywnych.

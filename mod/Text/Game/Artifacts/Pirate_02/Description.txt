@@ -1,0 +1,7 @@
+﻿+1 Atak<br>
++1 Obrona<br>
++100-300 Złota plądrowanego po każdej bitwie<br><br><color=purple>
+Odzież Pirata<color_default><br>
++6 Atak (3/6)<br>
++12 Atak (6/6)<br>
+*Premia jest stosowana po zamknięciu ekranu ekwipunku.

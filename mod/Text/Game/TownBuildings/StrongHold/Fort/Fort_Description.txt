@@ -1,0 +1,2 @@
+﻿Fort zapewnia Twojemu miastu mury obronne.<br><br>
+<color=0099FF>Zarządzanie<color_default><br>Przyznaje gubernatorowi tego miasta premię do obrony +1.

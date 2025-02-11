@@ -1,0 +1,1 @@
+﻿Bohater zyskuje +2 Siły Czarów i Specjalną zdolność bojową, która zadaje duże obrażenia wszystkim przyzwanym istotom i istotom z bram, obrażenia wynoszą 120 + (40 * Poziom Bohatera). Umiejętność kosztuje 20 many i resetuje Gotowość Bojową bohatera do 0,24 po użyciu.

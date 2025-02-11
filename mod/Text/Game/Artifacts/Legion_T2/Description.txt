@@ -1,0 +1,6 @@
+﻿+1 Morale (Jeśli założony)<br><br>
+Wzmacnia armię bohatera o rodzime stworzenia 2 poziomu na początku każdego tygodnia, pod warunkiem, że niektóre z nich są już obecne. Ilość zależy od Wiedzy bohatera W/1.5 (lub 1).
+<br><color=orange>Legion Regalii<br><color_default>
+Ofiaruj wszystkie 7 artefaktów Legionu Regalii na Ołtarzu Ofiarnym, aby otrzymać unikalną nagrodę.
+<br><color=yellow>Plecak<color_default><br>
+Wzmocnienia zyskuje się również, gdy artefakt jest niewyposażony, ale nie wtedy, gdy artefakt Regalii wyższego poziomu jest wyposażony lub znajduje się w plecaku.

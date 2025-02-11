@@ -1,0 +1,3 @@
+﻿Pula Energii Mroku jest zwiększona o dodatkowe 100 punktów.<br><br>Zwiększa efektywność umiejętności Nekromancja o 5%. (kumuluje się z wieloma miastami)<br><br>
+Rycerze Śmierci i Magowie zaświatów bez zdolnośći Nekromancja otrzymają +2 regeneracji Many na dzień (kumuluje się z wieloma miastami).
+<br><br><color=0099FF>Zarządzanie<color_default><br>Gubernator miasta zyskuje 2 Wiedzy.

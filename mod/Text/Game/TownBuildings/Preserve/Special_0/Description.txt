@@ -1,0 +1,2 @@
+﻿Pozwala Mścicielom wybrać swoich ulubionych wrogów i zwiększa wiedzę wszystkich Mścicieli o 1. (kumuluje się z wieloma miastami i nie wymaga odwiedzania miasta)<br><br>
+<color=0099FF>Zarządzanie<color_default><br>Gubernator miasta zyskuje +1 Wiedzy.

@@ -1,0 +1,3 @@
+﻿+2 Siła Czarów<br>
++4 Siła Czarów podczas rzucania zaklęć Przywołania Żywiołów<br><color_default>
+Przyznaje zaklęcie Przywołanie Żywiołów, jeśli nie zostało ono jeszcze poznane.

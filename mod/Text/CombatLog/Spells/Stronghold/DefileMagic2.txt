@@ -1,0 +1,1 @@
+﻿<value=target_color>Plugawienie Magii: <value=target>: Siła Czarów uległa redukcji o 50% przez ostatni czar.

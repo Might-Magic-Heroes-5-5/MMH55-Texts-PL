@@ -1,0 +1,1 @@
+﻿Rycerz Księstwa Wilka: Bohater będzie otrzymuje +1 Morale na tak długo, jak długo jakiekolwiek Wilki znajdują się w jego armii, a bohater będzie miał 10 Kryształów Smoczej Krwi na poziomie 1 w celu ich przywołania (więcej Kryształów można zdobyć z zdolności Magii Zniszczenia i Magii Przywołania). Ta specjalizacja nie działa, jeśli bohater jest zatrudniony przez inną frakcję.

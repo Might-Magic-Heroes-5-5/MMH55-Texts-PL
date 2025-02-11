@@ -1,0 +1,1 @@
+﻿To jest mapa losowa MMH5.5 bazująca na szablonie 8P-Square-Hu stworzona przez Zaawansowany Generator Map Losowych v2.0 z ustawieniami: rozmiar olbrzymi, z podziemiami, z wodą, z bardzo silnymi potworami. Mapa jest stworzona dla 8 graczy, startowe zasoby to 1565620373

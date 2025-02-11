@@ -1,0 +1,1 @@
+﻿Zwiększa Obronę wskazanego sojuszniczego oddziału. Czas działania zaklęcia uzależniony jest od Siły Czarów.

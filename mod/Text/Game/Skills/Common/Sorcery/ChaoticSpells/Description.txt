@@ -1,0 +1,1 @@
+﻿Koszt każdego zaklęcia rzuconego przez bohatera (w tym zaklęć przygodowych) zostanie zmniejszony o losową wartość między 10% a 30%.

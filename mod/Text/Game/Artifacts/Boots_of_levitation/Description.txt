@@ -1,0 +1,3 @@
+﻿+33% Dystans ruchu na dzień w każdym terenie (oprócz dróg)<br>
+Przyznaje zdolność do chodzenia po wodzie i całkowitego ignorowania kar terenowych.<br><br><color=red>
+Lewitacja<color_default><br>Zdolności Logistyka i Znajdowanie Drogi nie dają żadnego efektu.

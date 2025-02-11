@@ -1,0 +1,2 @@
+﻿-1 Morale dla wrogich istot<br>
+-1 Szczęście dla wrogich istot

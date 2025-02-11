@@ -1,0 +1,3 @@
+﻿+1 Morale
++400 ruchu
+Ofiaruj Klejnot, a Smoczy Bóg wysłucha twojego wezwania.<color_default><br>Ofiarę można złożyć tylko raz, a jego efekt zmniejsza się po tygodniu.

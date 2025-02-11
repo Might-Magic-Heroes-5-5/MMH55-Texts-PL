@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszenie Komnaty Gniewu.<br>
+<color_bright>Komnata Gniewu pozwala na rekrutację Oprawców i Hersztów.

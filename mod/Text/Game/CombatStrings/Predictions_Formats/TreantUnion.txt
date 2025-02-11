@@ -1,0 +1,1 @@
+﻿Wylecz <value=target_hits> pkt. życia celu (wskrześ <value=target_resurrected>) i <value=caster_hits> pkt. życia rzucającego (wskrześ <value=caster_resurrected>).

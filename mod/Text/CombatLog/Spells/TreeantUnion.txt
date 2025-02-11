@@ -1,0 +1,1 @@
+﻿<value=source_color>(Symbioza) <value=source> łączy się w symbiozie z <value=target> i przywraca tej istocie <value=damage> pkt. życia (wskrzeszono <value=dead>).

@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszone Centrum Piekieł.<br>
+<color_bright>Środek Otchłani pozwala rekrutować Czarcich Lordów i Czarci Pomiot.

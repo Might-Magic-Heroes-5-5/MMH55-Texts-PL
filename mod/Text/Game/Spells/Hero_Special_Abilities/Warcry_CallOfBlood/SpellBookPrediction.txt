@@ -1,0 +1,1 @@
+﻿Przyznaje celowi <value=target_rp> punktów Szału.

@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Posiadłość Wampirów.<br>
+<color_bright>Pałac Wampirów pozwala rekrutować Wampirzych Lordów i Książęta Wampirów.

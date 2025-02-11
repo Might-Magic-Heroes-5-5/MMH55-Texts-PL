@@ -1,0 +1,1 @@
+﻿Zadaje obrażenia od żywiołu Powietrza istotom stojącym w pobliżu celu (maks. 4), począwszy od pierwszej objętej istoty. Każda następna jednostka otrzymuje połowę obrażeń zadanych poprzedniej (Łańcuch może uderzyć w sojuszników).

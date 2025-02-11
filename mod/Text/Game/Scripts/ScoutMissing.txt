@@ -1,0 +1,7 @@
+﻿W Twojej armii nie ma obecnie rodzimych stworzeń poziomu 1, które pozwoliłyby na zwiad tego obiektu, czy chciałbyś zaatakować strażników bez zwiadu?
+-------------------------------------------------------------------------------
+
+OK = Atak
+Anuluj = Zostaw
+
+-------------------------------------------------------------------------------

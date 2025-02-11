@@ -1,0 +1,1 @@
+﻿Zaklęcie umieszcza <value=duration> min(y), które zadają <value=damage> pkt. obrażeń.

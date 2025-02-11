@@ -1,0 +1,1 @@
+﻿<value=source_color>Przywołanie nieudane: <body_bright><value=target> nie może otworzyć Bramy, ze względu na brak miejsca na polu walki.

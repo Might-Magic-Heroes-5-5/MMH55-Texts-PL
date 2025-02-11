@@ -1,0 +1,1 @@
+﻿Klasa: Wódz<br>Specjalizacja: Rzeźnik<br><br><body_bright>Bohater losowo atakuje wrogą jednostkę zaraz na początku walki. Ponadto wszystkie ataki bohatera zadają +1% obrażeń za każdy poziom bohatera.<br><br><color=orange>Zaczyna z Sztuki Walki.

@@ -1,0 +1,1 @@
+﻿Ta istota zmniejsza Atak o 4, Obronę o 4 i morale o 2 wszystkich sąsiednich oddziałów, bez względu na przynależność jednostek. Nieumarli są odporni na ten efekt.

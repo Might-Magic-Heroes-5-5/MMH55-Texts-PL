@@ -1,0 +1,1 @@
+﻿Wrogie istoty sąsiadujące z tą jednostką będą otrzymywały co turę obrażenia od Ognia w zależności od liczby istot z tą zdolnością. Na początku ich tury otrzymają obrażenia od Ognia w ilości równej Liczbie istot × 6.

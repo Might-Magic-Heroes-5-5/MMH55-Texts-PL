@@ -1,0 +1,1 @@
+﻿Klasa: Czarodziej<br>Specjalizacja: Badacz<br><br><body_bright>Wiedza bohatera zwiększa się o +1 na każde 7 poziomów, a całe doświadczenie zdobyte po walce jest zwiększone o 2% na poziom bohatera.<br><br><color=orange>Zaczyna z Uczony.

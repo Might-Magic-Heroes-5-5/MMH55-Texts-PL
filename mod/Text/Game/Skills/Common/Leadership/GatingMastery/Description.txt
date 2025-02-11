@@ -1,0 +1,1 @@
+﻿Zwiększa ilość istot przyzwanych za pomocą zdolności "Brama" o 5%.

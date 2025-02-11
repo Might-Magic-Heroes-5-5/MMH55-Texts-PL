@@ -1,0 +1,1 @@
+﻿Wszystkie jednostki broniące to miasto otrzymują premię +2 do Obrony.

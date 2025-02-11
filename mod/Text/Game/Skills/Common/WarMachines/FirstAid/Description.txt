@@ -1,0 +1,1 @@
+﻿Umożliwia ręczną kontrolę Namiotu Pierwszej Pomocy i wskrzeszanie martwych Istot.<color_default><br>Przywraca Namiot Pierwszej Pomocy po bitwie, jeśli został zniszczony, moc leczenia Namiotu Pierwszej Pomocy jest zwiększona trzykrotnie.

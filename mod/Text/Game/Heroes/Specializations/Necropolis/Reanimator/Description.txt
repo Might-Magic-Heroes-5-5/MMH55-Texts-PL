@@ -1,0 +1,1 @@
+﻿Powrót z Zaświatów: Zaklęcie Reanimacja otrzymuje zwiększony efekt. Siła tego zaklęcia zwiększa się o +1 na każde 3 poziomy bohatera, począwszy od pierwszego poziomu.

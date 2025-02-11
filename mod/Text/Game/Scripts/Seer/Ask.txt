@@ -1,0 +1,1 @@
+﻿Przynieś mi <value=qty> <value=type>, a sowicie cię wynagrodzę.

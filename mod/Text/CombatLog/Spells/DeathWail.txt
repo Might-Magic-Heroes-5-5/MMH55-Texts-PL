@@ -1,0 +1,1 @@
+﻿<value=source_color>(Upiorne Zawodzenie) <value=source> wydaje z siebie upiorny krzyk, zadając <value=damage> pkt. obrażeń <value=target> (zabito <value=dead>).

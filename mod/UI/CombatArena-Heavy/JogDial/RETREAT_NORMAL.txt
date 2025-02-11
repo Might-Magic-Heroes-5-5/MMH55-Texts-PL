@@ -1,0 +1,1 @@
+﻿Ucieczka/Kapitulacja <hotkey=input_Combat_Retreat>

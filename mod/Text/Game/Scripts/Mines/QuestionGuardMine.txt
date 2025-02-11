@@ -1,0 +1,3 @@
+﻿Ta kopalnia jest niestrzeżona, czy chciałbyś ją strzec w zamian za jednorazową sumę <value=num> złota?
+
+(Liczebność oddziałów w tej kopalni będzie automatycznie rosła, ale nie będzie można ich przyłączyć do armii bohatera. Jeśli kopalnia zostanie zaatakowana, strażnicy będą kontrolowani przez właściciela kopalni.)

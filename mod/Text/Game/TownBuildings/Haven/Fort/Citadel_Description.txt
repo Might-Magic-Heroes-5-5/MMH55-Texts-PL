@@ -1,0 +1,3 @@
+﻿<color_default>Ulepszenie Fortu<br>
+<color_bright>Cytadela zwiększa bazowy przyrost stworzeń o 50%, dodaje do obrony miasta twierdzę i przeszkody terenowe w postaci fosy.<br><br>
+<color=0099FF>Zarządzanie<color_default><br>Przyznaje gubernatorowi tego miasta premię do obrony +2. 

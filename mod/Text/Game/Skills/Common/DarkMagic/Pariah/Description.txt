@@ -1,0 +1,1 @@
+﻿Żywy bohater zyskuje zaklęcie Wampiryzm, a bohater z Nekropolii - zaklęcie Wskrzeszenie Umarłych. Bohater zyskuje również +5 Siły Czarów podczas rzucania zaklęć Magii Mroku, ale to poświęcenie czyni go Wygnańcem wśród własnego gatunku skutkując karą -1 Morale.<color_default><br>Kara morale jest trwała, nawet mentor pamięci nie będzie w stanie jej usunąć.

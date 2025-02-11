@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Aula Klanów.<br>
+<color_bright>Pałac Klanów pozwala rekrutować Władców Płomienia i Władców Burz.

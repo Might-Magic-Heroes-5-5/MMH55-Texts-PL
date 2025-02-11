@@ -1,0 +1,1 @@
+﻿Tworzy wokół celu magiczną barierę, która zmniejsza obrażenia otrzymywane z dystansu (nie ma wpływu na zaklęcia).

@@ -1,0 +1,1 @@
+﻿<color_default>-<value=atack> ataku, -<value=defense> obrony

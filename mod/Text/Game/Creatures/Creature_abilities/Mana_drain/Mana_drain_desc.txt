@@ -1,0 +1,1 @@
+﻿To stworzenie może wyssać manę z jednostek, które atakuje i dzięki temu odzyskać Punkty Życia (ze wskrzeszeniem).

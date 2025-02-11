@@ -1,0 +1,1 @@
+﻿Klasa: Druid<br>Specjalizacja: Pani Jednorożców<br><br><body_bright>Wszystkie Jednorożce, Srebrne Jednorożce i Białe Jednorożce w armii bohatera zyskują +1 do swojego Ataku i Obrony za każde dwa poziomy bohatera, zaczynając od pierwszego poziomu.<br><br><color=orange>Zaczyna z Mistrz Gniewu.

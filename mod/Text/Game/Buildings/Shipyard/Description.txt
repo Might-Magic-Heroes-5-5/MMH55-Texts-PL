@@ -1,0 +1,1 @@
+﻿Buduje łodzie, aby przemierzać morza. Ruch przez wodę kosztuje tylko 75 punktów za pole.

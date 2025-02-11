@@ -1,0 +1,1 @@
+﻿Specjalna zdolność bojowa, która zadaje ciężkie obrażenia wszystkim przyzwanym lub przyzwanym z bram oddziałom, obrażenia są równe 120 + (40 * poziom bohatera). Gotowość Bojowa bohatera resetuje się do 0,33 po użyciu.

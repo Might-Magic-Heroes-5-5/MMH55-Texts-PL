@@ -1,0 +1,1 @@
+﻿<br>Odporność na: <value=element1>, <value=element2>.

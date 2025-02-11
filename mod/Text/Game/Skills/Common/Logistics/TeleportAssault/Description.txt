@@ -1,0 +1,1 @@
+﻿Bohater przyswaja zaklęcie Teleportacja oraz możliwość użycia go do zwiększenia Inicjatywy teleportowanej istoty.<br><color_default>Celu nie można przeteleportować za mury miasta, chyba że bohater ma "Ekspercką Magię Mroku". Gotowość Bojowa (ATB) teleportowanego oddziału zwiększa się o wartość 0,5 (ale nie może przekroczyć wartości 1,0).

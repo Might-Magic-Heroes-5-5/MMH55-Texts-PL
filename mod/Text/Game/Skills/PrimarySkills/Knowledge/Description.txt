@@ -1,0 +1,1 @@
+﻿Wiedza bohatera zwiększa maksymalny poziom Many dla bohatera: maksymalna Mana = 10 × Wiedza. Zwiększa obrażenia zadawane przez Balistę oraz poprawia także efektywność wielu artefaktów, a także niektórych drugorzędnych umiejętności.

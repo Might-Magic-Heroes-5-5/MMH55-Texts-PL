@@ -1,0 +1,4 @@
+﻿Choć praktyka wymazywania pamięci jest obecnie zakazana na tych ziemiach, mentor jest w stanie dać ci pewne podstawowe szkolenie magiczne.
+ 
+OK = Zwiększ Siłę Czarów o 2.
+Anuluj = Zwiększ Wiedzę o 2.

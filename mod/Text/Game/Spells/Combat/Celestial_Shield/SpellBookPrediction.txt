@@ -1,0 +1,1 @@
+﻿Zmniejsza obrażenia otrzymywane przez cel o <value=damage>%.<br>Wytrzymałość osłony: <value=enchant> pkt. obrażeń.

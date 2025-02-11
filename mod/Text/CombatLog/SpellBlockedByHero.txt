@@ -1,0 +1,1 @@
+﻿<value=source_color><value=target><body_bright>Zaklęcie <value=spell> bohatera <value=source> zostaje zablokowane na czas trwania bitwy za pomocą specjalizacji Wyżymacz Czarów.

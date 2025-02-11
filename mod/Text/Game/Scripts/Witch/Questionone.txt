@@ -1,0 +1,1 @@
+﻿Wchodzisz do kuriozalnej siedziby. Mieszkająca w niej stara wiedźma pragnie wspomóc cię w podróży i chce przekazać ci <value=mastery> wiedzę w zdolności <value=skill>. Czy przyjmiesz jej ofertę?

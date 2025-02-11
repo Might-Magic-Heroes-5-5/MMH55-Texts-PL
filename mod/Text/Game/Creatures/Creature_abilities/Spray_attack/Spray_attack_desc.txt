@@ -1,0 +1,1 @@
+﻿Jednostka równocześnie atakuje trzy sąsiadujące ze sobą pola zajmowane przez wroga.

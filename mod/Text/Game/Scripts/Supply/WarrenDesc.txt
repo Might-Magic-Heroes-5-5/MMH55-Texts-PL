@@ -1,0 +1,1 @@
+﻿Dostarcza graczowi losową (3-7) ilość dowolnego zasobu na tydzień, wyłączając Drewno i Złoto.

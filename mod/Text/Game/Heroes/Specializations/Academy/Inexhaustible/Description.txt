@@ -1,0 +1,1 @@
+﻿Mistyk: Bohater jest w stanie sam stopniowo odnawiać manę w walce. Szybkość odnawiania zależy od poziomu bohatera. Bohater odzyskuje poziom/4 (zaokrąglony w górę) many przed każdą turą.

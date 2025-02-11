@@ -1,0 +1,1 @@
+﻿Klasa: Rycerz<br>Specjalizacja: Łamacz Zaklęć<br><br><body_bright>Wszystkie jednostki w armii bohatera zyskują 5% odporności na magię i + 1% na poziom bohatera.<br><br><color=orange>Zaczyna z Lepsza Obrona.

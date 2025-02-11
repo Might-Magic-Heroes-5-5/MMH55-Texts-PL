@@ -1,0 +1,1 @@
+﻿Bohater może ożywić 10% zabitych żywych istot przeciwnika jako Nieumarłych żołnierzy, gdzie na przestrzeni tygodnia liczbę tę reguluje zasób Energii Mroku.<br><color_default>Podstawowa ilość Energii Mroku to 450, natomiast Nekromancja zwiększa jej zasób o wartość równą 1 × (Poziom bohatera - 5) ^ 1,4.

@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Szepcząca Grota.<br>
+<color_bright>Grzechocząca Grota pozwala rekrutować Hydry z Głębin i Kwasowe Hydry.

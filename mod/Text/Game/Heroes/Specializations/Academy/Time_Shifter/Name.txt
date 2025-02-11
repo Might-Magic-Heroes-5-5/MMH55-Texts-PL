@@ -1,0 +1,1 @@
+﻿Klasa: Czarodziej<br>Specjalizacja: Zaklinacz Czasu<br><br><body_bright>Rzucający zaklęcie zmienia ciągłość czasu lokalnego, zaburzając tym samym kolejność ruchów poszczególnych jednostek na początku bitwy. Skuteczność zmiany Gotowości bojowej (ATB) istot na polu bitwy zależy od poziomu bohatera.

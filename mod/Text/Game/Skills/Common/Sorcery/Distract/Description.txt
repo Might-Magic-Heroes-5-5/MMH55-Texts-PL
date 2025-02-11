@@ -1,0 +1,1 @@
+﻿Za każdym razem gdy wrogi bohater rzuci zaklęcie, jego Gotowość Bojowa (ATB) zmniejszy się o 0,15.

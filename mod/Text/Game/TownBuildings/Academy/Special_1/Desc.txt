@@ -1,0 +1,2 @@
+﻿Zwiększa o 1 liczbę dostępnych zaklęć każdego poziomu gildii magów.<br><br>
+<color=0099FF>Zarządzanie<color_default><br>Gubernator miasta zyskuje +2 Wiedzy.

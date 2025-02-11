@@ -1,0 +1,1 @@
+﻿Bohater strzeże wybraną istotę, atakując w odwecie dowolnego przeciwnika, który zada obrażenia obranemu celowi w walce wręcz lub na dystans.<br><color_default>Zadane obrażenia są takie same jak obrażenia bezpośrednie bohatera, z premią +3 do jego poziomu. Gotowość bojowa bohatera spada do wartości 0,25 po wybraniu celu.

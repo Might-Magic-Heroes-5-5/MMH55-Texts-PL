@@ -1,0 +1,1 @@
+﻿Ta istota zawsze ma pozytywne morale (nie mniejsze niż 1).

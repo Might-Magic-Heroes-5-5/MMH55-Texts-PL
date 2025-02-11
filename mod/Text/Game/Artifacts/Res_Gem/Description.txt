@@ -1,0 +1,6 @@
+﻿+1 Wiedza (Jeśli założony)<br>
++W/2 Klejnotów co tydzień<br><color_default>
+(W=Wiedza bohatera, na przykład 10 Klejnotów tygodniowo za 20 Wiedzy)<br><br><color=orange>
+Róg Obfitości<color_default><br>Zbierz po jednym artefakcie dla każdego zasobu (oprócz złota) i odwiedź Tajemną Bibliotekę, aby otrzymać unikatową nagrodę.<br><br><color=yellow>
+Plecak<color_default><br>
+Ten artefakt działa również w plecaku, ale jego działanie jest ograniczone do tylko jednego artefaktu na bohatera.

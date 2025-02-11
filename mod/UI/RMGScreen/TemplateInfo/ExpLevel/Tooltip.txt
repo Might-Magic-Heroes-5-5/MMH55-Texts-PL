@@ -1,0 +1,1 @@
+﻿To ustawienie reguluje jak wiele obiektów zainteresowania jest umieszczonych w strefach skarbów. Ustaw niższy, aby utrudnić znalezienie rzadkich artefaktów lub wyższy, aby uzyskać efekt odwrotny.

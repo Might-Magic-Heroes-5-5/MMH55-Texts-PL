@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszony Ołtarz Światła.<br>
+<color_bright>Ołtarz Niebios pozwala rekrutować Archanioły i Serafy.

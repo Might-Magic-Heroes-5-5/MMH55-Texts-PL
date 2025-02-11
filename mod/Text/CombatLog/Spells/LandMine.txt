@@ -1,0 +1,1 @@
+﻿<value=target_color>Mina wybucha pod <value=target>, zadając <value=damage> pkt. obrażeń (zabito <value=dead>).

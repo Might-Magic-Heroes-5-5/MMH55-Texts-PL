@@ -1,0 +1,1 @@
+﻿<value=source_color>(Wygnanie) Bohater stara się wygnać przywołane istoty, zadając <value=damage> pkt. obrażeń (odesłano <value=dead>).

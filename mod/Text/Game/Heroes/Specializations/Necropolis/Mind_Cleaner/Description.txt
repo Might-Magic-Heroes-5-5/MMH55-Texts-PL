@@ -1,0 +1,1 @@
+﻿Wyżymacz Czarów: Szczęście bohatera jest większe o 1. Ponadto, gdy wrogi bohater rzuci zaklęcie, może ono zostać zablokowane w jego księdze magicznej, przez co nie będzie ono dostępne na czas trwania tej bitwy. Szansa na zablokowanie wzrasta proporcjonalnie do poziomu bohatera.

@@ -1,0 +1,1 @@
+﻿Bohater zyskuje +2 do Siły Czarów i dodatkowo zwiększa ją o 1 na każde 10 poziomów. Bohater uczy się również nowego losowego zaklęcia poziomu 1-3, do którego ma wymagane talenty.

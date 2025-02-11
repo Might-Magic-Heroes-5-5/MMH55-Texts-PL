@@ -1,0 +1,1 @@
+﻿Przyznaje bohaterowi zdolność jednoczesnego atakowania wszystkich wrogich jednostek, które znajdują się na jego liście ulubionych wrogów. Obrażenia zadawane każdemu z celów są niższe od normalnych obrażeń bezpośrednich bohatera, z karą -3 do ich poziomu przy obliczaniu obrażeń.

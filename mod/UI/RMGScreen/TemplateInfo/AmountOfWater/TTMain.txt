@@ -1,0 +1,1 @@
+﻿Jeżeli  tworzona jest mapa z wyspami, używany jest większy rozmiar mapy niż wskazuje na to szablon, gdyż inaczej wyspy mogłyby być zbyt małe. Pamiętaj, aby przetworzyć mapy z pomocą aplikacji Mapmixer!

@@ -1,0 +1,1 @@
+﻿Pędziwiatr: Punkty ruchu bohatera zostają zwiększone o 5% natychmiast i o 1% na każde 4 poziomy. Koszt zaklęcia Teleport jest zmniejszony o połowę.

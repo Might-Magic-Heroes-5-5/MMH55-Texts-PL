@@ -1,0 +1,1 @@
+﻿Strażnik Graniczny: Bohater otrzymuje bonus do obrony (+1 obrona za każde 2 poziomy bohatera), jeśli walczy w odległości jednego dnia od posiadanego miasta.

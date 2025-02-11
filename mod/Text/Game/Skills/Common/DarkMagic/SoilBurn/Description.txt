@@ -1,0 +1,1 @@
+﻿Bohater wzywa siły natury, aby wpłynąć na glebę, po której chodzą wrogie jednostki. Za każdym razem, gdy nielatająca wroga jednostka poruszy się, otrzyma obrażenia równe poziomowi bohatera * 8.<br><color_default>Obrażenia nie są zadawane co pole i nie działają, jeśli jednostka tylko się obraca. 

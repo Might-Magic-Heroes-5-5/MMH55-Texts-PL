@@ -1,0 +1,1 @@
+﻿Ta istota strzela obszarową 3x3 Chmurą Śmierci: oprócz normalnych obrażeń głównego celu, Chmura Śmierci zadaje połowę obrażeń wszystkim nieumarłym stworzeniom, które są nią objęte.

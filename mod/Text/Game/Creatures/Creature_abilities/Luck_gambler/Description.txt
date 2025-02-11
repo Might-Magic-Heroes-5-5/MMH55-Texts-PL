@@ -1,0 +1,1 @@
+﻿Trzy razy na walkę ta jednostka może zwiększyć wartość Szczęścia na wybranym przyjaznym oddziale lub zmniejszyć ją na wybranym wrogim oddziale o losową wartość między 1 a 3.

@@ -1,0 +1,1 @@
+﻿Bohater uczy się Runy Berserka i może odświeżyć wcześniej umieszczoną Runę (losowo wybraną, jeśli jest ich wiele na wybranej jednostce. Bohater wykorzystuje tylko połowę tury, aby odświeżyć Runę. Po odświeżeniu na jednostce, Runa staje się ponownie dostępna po normalnym koszcie.

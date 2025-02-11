@@ -1,0 +1,1 @@
+﻿Balista zyskuje dwa dodatkowe strzały, zadając 4 strzały w swojej turze.

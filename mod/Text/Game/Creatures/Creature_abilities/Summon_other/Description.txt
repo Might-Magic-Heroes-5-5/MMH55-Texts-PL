@@ -1,0 +1,1 @@
+﻿Jednostka może obrać na cel każdy oddział w promieniu 7 pól, bez względu na to, kto nim dowodzi i teleportować go na niezajęte pole możliwie najbliższe swojej pozycji.

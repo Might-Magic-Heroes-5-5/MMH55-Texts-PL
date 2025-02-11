@@ -1,0 +1,1 @@
+﻿<color=yellow>Znalazłeś kilka ciał w krypcie pod sanktuarium! (+<value=num> <value=upgtype>)

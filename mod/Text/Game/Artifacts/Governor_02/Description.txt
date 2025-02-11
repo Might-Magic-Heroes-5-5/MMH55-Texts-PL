@@ -1,0 +1,7 @@
+﻿+6 Wiedza (Jeśli założony)br>
++W/2 Losowych zasobów co dzień<br><color_default>
+(W=Wiedza bohatera, jeśli losowym zasobem jest złoto, kwota zostanie pomnożona przez 1000)<br><br><color=orange>
+Phoenixes<color_default><br>
+Wrzuć ten artefakt do Fontanny Szczęścia, a przyzwie on oddział Feniksów. Wielkość oddziału jest równa 2*ilość tygodni, które upłynęły.<br><br><color=yellow>
+Plecak<color_default><br>
+Ten artefakt działa również w plecaku, ale jego działanie jest ograniczone do tylko jednego artefaktu na bohatera.

@@ -1,0 +1,1 @@
+﻿Po wybraniu tej opcji dla każdej jednostki na pasku inicjatywy w walce wyświetlana jest wartość Gotowości Bojowej. Gdy Gotowość Bojowa jednostki osiągnie 1, będzie ona działać w walce. Wartością Gotowości Bojowej można manipulować w walce za pomocą zdolności.

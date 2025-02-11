@@ -1,0 +1,1 @@
+﻿Bohater zyskuje +8 pól do zasięgu zwiadu oraz możliwość zobaczenia dokładnej liczby stworzeń w neutralnych oddziałach, wrogich bohaterów, miast i garnizonów w zasięgu zwiadu. Szansa na to, że jednostka poziomu 1 zginie podczas zwiadów w miejscu bitwy, zmniejsza się o 50%.<br><color_default>Podstawowy zasięg zwiadu bohaterów wynosi 16 pól.

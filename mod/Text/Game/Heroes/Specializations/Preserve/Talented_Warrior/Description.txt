@@ -1,0 +1,1 @@
+﻿Zahartowany w Boju: Wiedza bohatera zwiększa się o +1 na każde 7 poziomów, a całe doświadczenie zdobyte po walce jest zwiększone o 2% na poziom bohatera.

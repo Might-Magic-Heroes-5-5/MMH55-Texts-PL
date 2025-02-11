@@ -1,0 +1,1 @@
+﻿Bohater uczy się zaklęcia Przywołanie Żywiołaków i za każdym razem, gdy wróg przywoła Żywiołaki, bohater natychmiast przywoła taką samą liczbę przeciwnych cech. Jeśli przyzwany jest Feniks, bohater przywołuje idealnego klona.

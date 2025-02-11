@@ -1,0 +1,1 @@
+﻿<color=yellow>W twojej księdze czarów pojawia się zaklęcie <value=name>.

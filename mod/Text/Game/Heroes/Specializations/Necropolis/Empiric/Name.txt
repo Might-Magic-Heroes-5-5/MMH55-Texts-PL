@@ -1,0 +1,1 @@
+﻿Klasa: Rycerz Śmierci<br>Specjalizacja: Balsamista<br><br><body_bright>Namiot Pierwszej Pomocy leczy 4 dodatkowe punktów życia za każdy punkt Obrony bohatera. Zwiększają się również obrażenia w przypadku zdolności Namiot Zarazy.<br><br><color=orange>Zaczyna z Pierwsza Pomoc.

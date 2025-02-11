@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszone Cmentarzysko Smoków.<br>
+<color_bright>Grobowiec Smoków pozwala rekrutować Widmowe Smoki i Upiorne Smoki.

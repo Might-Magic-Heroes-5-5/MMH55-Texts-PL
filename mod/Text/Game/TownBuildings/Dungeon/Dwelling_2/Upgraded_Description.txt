@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszony Krwawy Głaz.<br>
+<color_bright>Krwawy Pomnik pozwala rekrutować Krwawe Furie i Krwawe Siostry.

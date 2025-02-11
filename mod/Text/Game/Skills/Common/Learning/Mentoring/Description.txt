@@ -1,0 +1,1 @@
+﻿Bohater staje się mentorem dla innych bohaterów. Gdy spotka on innego przyjaznego bohatera, ten drugi otrzymuje równowartość 10% punktów doświadczenia zgromadzonych do tej pory przez swojego mentora (jeśli oczywiście sam posiada ich mniej).

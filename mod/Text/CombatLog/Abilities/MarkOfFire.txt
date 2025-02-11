@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> nakłada Znamię Ognia na <value=target>.

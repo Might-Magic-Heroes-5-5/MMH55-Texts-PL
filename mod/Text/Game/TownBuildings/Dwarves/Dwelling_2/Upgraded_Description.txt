@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszone Koszary Włóczników.<br>
+<color_bright>Aula Włóczników pozwala rekrutować Harcowników i Harpunników.

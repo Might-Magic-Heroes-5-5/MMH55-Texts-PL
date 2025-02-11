@@ -1,0 +1,1 @@
+﻿Bohater uczy się zaklęcia Trzęsienie Ziemi i wzywa siły natury, aby ukarać wrogie jednostki rzucające zaklęcia. Za każdym razem, gdy wroga jednostka rzuci zaklęcie, otrzyma obrażenia 30-krotności poziomu bohatera.<br><color_default>Wodzowie nie mogą nauczyć się zaklęcia.

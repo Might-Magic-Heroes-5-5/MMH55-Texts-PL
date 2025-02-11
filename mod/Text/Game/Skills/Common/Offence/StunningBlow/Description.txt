@@ -1,0 +1,1 @@
+﻿Każdy standardowy atak bohatera przesuwa cel trochę do tyłu na pasku inicjatywy. Gotowość Bojowa celu zmniejsza się o 0,2.

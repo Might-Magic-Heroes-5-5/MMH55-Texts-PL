@@ -1,0 +1,1 @@
+﻿Rzeźnik: Bohater losowo atakuje wrogą jednostkę zaraz na początku walki. Ponadto wszystkie ataki bohatera zadają +1% obrażeń za każdy poziom bohatera.

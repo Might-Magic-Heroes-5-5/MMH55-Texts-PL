@@ -1,0 +1,1 @@
+﻿Inicjatywa celu jest zmodyfikowana o <value=enchant>%. Czas działania zaklęcia (w turach): <value=duration>.

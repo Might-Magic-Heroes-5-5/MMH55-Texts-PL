@@ -1,0 +1,1 @@
+﻿Bohater będzie mógł zobaczyć żywioły związane z poszczególnymi stworzeniami wroga, dzięki czemu zaklęcia Magii Zniszczenia o przeciwnym żywiole będą mogły zadawać dodatkowe obrażenia. Dodatkowe obrażenia wynoszą 5% za każdy poziom mistrzostwa Okultyzmu i dodatkowe 5% za każdy wybudowany Ołtarz Żywiołów.

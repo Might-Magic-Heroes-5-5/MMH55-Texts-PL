@@ -1,0 +1,4 @@
+﻿+3 Siła Czarów<br>
++20% Zdobywanego doświadczenia<br><br>
+<color=purple>Szata Oświecenia<color_default><br>
+Bohater otrzymuje codziennie pewną ilość doświadczenia za noszenie artefaktu. Ilość ta jest równa ilości dni, które upłynęły * 10.

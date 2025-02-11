@@ -1,0 +1,1 @@
+﻿Bohater otrzymuje zdolność bojową, dzięki której może zachęcać przyjazne istoty do walki, podnosząc ich gotowość bojową (ATB). Gotowość Bojowa celu zostaje zwiększona o 0,5, maksymalnie do 1. Gotowość Bojowa bohatera po użyciu resetuje się do 0,33.

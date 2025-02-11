@@ -1,0 +1,1 @@
+﻿Zwiększa liczbę obrażeń zadawanych w czasie kontrataku przez oddziały bohatera. Pozwala Rycerzom awansować wojska ludzi na kolejny, wyższy poziom. Działa tylko w miastach Przystani, gdzie wybudowano Plac Ćwiczeń.

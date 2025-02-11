@@ -1,0 +1,1 @@
+﻿Zmniejsza prędkość istot przeciwnika o 1.

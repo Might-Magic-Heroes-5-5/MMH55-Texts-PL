@@ -1,0 +1,1 @@
+﻿Bohater zyskuje +3 do Obrony i zwiększa losową zdolność podstawową o 1 na każde 4 poziomów, wliczając poziomy już zdobyte. Bohater zdobywa też doświadczenie o 15% szybciej.

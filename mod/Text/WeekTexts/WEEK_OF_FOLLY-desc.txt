@@ -1,0 +1,1 @@
+﻿Liczba punktów doświadczenia zdobywanych podczas bitew zredukowana do połowy.

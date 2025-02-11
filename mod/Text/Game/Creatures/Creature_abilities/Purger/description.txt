@@ -1,0 +1,1 @@
+﻿Ta jednostka ma szansę usunąć pozytywny efekt z każdego wroga, którego zaatakuje. Szansa jest oparta na własnych Punkach Życia (PŻ) istoty, biorąc pod uwagę cały oddział. Jeśli PŻ celu jest niższe po trafieniu to szansa jest równa 40% + (5% * (PŻ/PŻ Celu)). Jeśli PŻ celu jest wyższe lub równe po trafieniu, szanse są równe 40% - (5% * (PŻ Celu/PŻ)).

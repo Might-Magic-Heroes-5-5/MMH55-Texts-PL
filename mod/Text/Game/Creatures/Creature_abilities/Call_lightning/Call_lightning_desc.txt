@@ -1,0 +1,1 @@
+﻿Ta istota może uderzyć wskazany cel błyskawicą, zadając obrażenia magiczne równe 40 × ilość jednostek w oddziale. Zdolność ta może zostać użyta nawet wtedy, gdy przy istocie znajdują się przeciwnicy.

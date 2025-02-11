@@ -1,0 +1,1 @@
+﻿Mistrz Ostrzy: Oddział Tancerzy Ostrzy dołącza do armii bohatera na początku walki, jego ilość jest równa 25% wszystkich Tancerzy Ostrzy, Tancerzy Wojny i Tancerzy Wiatru, których bohater posiada w swojej armii. Ponadto, wszyscy Tancerze Ostrzy i ich ulepszenia w armii bohatera zyskują +1 do swojego Ataku i Obrony za każde dwa poziomy bohatera, zaczynając od pierwszego poziomu.

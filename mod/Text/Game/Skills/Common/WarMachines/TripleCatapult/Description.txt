@@ -1,0 +1,1 @@
+﻿Katapulta zyskuje dwa dodatkowe strzały, zadając 3 strzały w swojej turze. Bohater otrzymuje również premie do ataku dzięki Wozowi z Amunicją, które normalnie przyznawane są tylko jednostkom dystansowym w armii.

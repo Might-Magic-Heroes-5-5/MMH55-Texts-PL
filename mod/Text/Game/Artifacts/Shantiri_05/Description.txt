@@ -1,0 +1,3 @@
+﻿+6 Wiedza<br>
++6 Wiedza<br><br><color=yellow>Pierwotni Strażnicy<br><color_default>
+Przywołuje Feniksa co tydzień w garnizonie każdego posiadanego miasta, które jest tej samej linii co bohater, efekt ten działa również, gdy artefakt znajduje się w plecaku.

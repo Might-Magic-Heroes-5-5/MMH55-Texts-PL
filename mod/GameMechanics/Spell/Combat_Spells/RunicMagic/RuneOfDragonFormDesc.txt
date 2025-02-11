@@ -1,0 +1,1 @@
+﻿Podwaja podstawowy Atak i Obronę objętej istoty na jedną turę. Runa ta nie ma wpływu na smoki.

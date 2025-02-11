@@ -1,0 +1,1 @@
+﻿<value=source_color>Trafiając w <value=target>, <value=source> zadaje dodatkowe <value=damage> pkt. obrażeń od Ognia.

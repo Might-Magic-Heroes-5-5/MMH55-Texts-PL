@@ -1,0 +1,5 @@
+﻿+3 Szczęście (Jeśli założony)<br>
++W*200 Złota co dzień<br><color_default>
+(W=Wiedza bohatera, na przykład 4000 złota dziennie dla 20 Wiedzy)<br><br><color=yellow>
+Plecak<color_default><br>
+Zasoby są również zdobywane, gdy artefakt znajduje się w plecaku, ale funkcjonalność jest ograniczona do jednego artefaktu na bohatera.

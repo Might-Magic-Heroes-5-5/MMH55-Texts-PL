@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> pożera truchło <value=target> i odzyskuje <value=damage> pkt. życia.

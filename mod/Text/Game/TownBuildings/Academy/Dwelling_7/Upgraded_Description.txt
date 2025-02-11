@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Świątynia Obłoków.<br>
+<color_bright>Świątynia Burz pozwala rekrutować Tytanów oraz Kolosów.

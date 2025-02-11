@@ -1,0 +1,1 @@
+﻿Bohater zyskuje +2 Morale, a wszystkie jednostki rzucające zaklęcia armii bohatera wydają tylko połowę wymaganej Many na rzucanie zaklęć.

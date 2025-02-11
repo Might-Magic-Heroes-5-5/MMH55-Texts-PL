@@ -1,0 +1,1 @@
+﻿Królowa Roju: Zaklęcie Rój Os jest bardziej skuteczne, a bohater nauczy się zaklęcia Przywołanie Gniazda Os na poziomie 15. Obrażenia są zwiększone o 5% na poziom bohatera. Bazowe zmniejszenie Gotowości Bojowej jest pomnożone przez (1+0.02*Poziom/3).

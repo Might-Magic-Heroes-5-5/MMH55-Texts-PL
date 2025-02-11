@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Rudera Goblinów.<br>
+<color_bright>Chata Goblinów pozwala rekrutować Goblińskich Sidlarzy i Goblińskich Znachorów.

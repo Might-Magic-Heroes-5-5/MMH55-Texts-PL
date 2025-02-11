@@ -1,0 +1,21 @@
+﻿Zmieniono zachowanie Gracza SI. Domyślnie sztuczna inteligencja otrzymuje co tydzień kilka dodatkowych stworzeń i złota, aby nadążyć za ludzkim graczem podczas korzystania z „Szybkiej walki”, tryb Zwykły wyłącza tę opcję.
+<br><color=white>Normalny<color_default><br>
+Zasoby Gracza: 25000/12/25
+Zasoby SI: 20000/10/20
+Jed. Neutralne: 1 + (*1.11 co tydzień)
+Doświadczenie: x/1
+<br><color=white>Trudny<color_default><br>
+Zasoby Gracza: 20000/10/20
+Zasoby SI: 20000/10/20
+Jed. Neutralne: 1.1 + (*1.13 co tydzień)
+Doświadczenie: x/1.1
+<br><color=white>Heroiczny<color_default><br>
+Zasoby Gracza: 15000/7/15
+Zasoby SI: 30000/15/30
+Jed. Neutralne: 1.2 + (*1.14 co tydzień)
+Doświadczenie: x/1.2
+<br><color=white>Niemożliwy<color_default><br>
+Zasoby Gracza: 10000/5/10
+Zasoby SI: 30000/15/30
+Jed. Neutralne: 1.3 + (*1.15 co tydzień)
+Doświadczenie: x/1.3

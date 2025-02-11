@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Chata Myśliwych.<br>
+<color_bright>Domek Myśliwych pozwala rekrutować Wielkich Łowczych i Zaklinaczy Strzał.

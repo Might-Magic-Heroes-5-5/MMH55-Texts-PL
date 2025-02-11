@@ -1,0 +1,1 @@
+﻿Zwiększa Szał armii bohatera o <value=army_rp>.

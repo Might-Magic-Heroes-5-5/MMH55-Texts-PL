@@ -1,0 +1,1 @@
+﻿Odstęp czasu pomiędzy rzuceniem dwóch kolejnych czarów jest zmniejszony o 16%. Nie wpływa na zaklęcia grupowe.<br><color_default>Podstawowa Inicjatywa bohatera wynosi 11 i wzrasta do równowartości 13 pod warunkiem, że rzucane są zaklęcia.

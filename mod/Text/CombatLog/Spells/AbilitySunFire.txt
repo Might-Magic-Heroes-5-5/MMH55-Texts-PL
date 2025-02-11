@@ -1,0 +1,1 @@
+﻿<value=target_color>Zdolność <value=spell> trafia w <value=target>, zadając <value=damage> pkt. obrażeń (zabito <value=dead>).

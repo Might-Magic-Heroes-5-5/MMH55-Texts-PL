@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszenie Mrocznego Pastwiska<br>
+<color_bright>Mroczne Pastwisko pozwala na rekrutację Posępnych Jeźdźców i Czarnych Jeźdźców.

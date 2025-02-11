@@ -1,0 +1,3 @@
+﻿Czy chciałbyś wygenerować mieszane oddziały neutralne przed rozpoczęciem gry?
+
+(UWAGA: Generowanie będzie kontynuowane niezależnie od rozmiaru tej mapy i może zamrozić grę na kilka minut)

@@ -1,0 +1,1 @@
+﻿Niszczy pancerz wybranego oddziału wroga, zmniejszając jego Obronę i zadając niewielką ilość magicznych, nieelementalnych obrażeń. Obrażenia są równe 10 * Siła Czarów. Może być rzucony kilka razy na wybrany oddział, ale jego Obrona nigdy nie spadnie poniżej zera.

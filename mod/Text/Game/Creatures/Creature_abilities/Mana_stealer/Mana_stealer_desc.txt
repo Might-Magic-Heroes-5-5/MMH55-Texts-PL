@@ -1,0 +1,1 @@
+﻿Na początku walki stworzenie zabiera przeciwnikowi część jego many i oddaje ją własnemu bohaterowi. Ilość zabranej many zależy od liczebności tych stworzeń w oddziale.

@@ -1,0 +1,1 @@
+﻿Daje odporność na zaklęcia 1-<value=enchant> poziomu przez <value=duration> tur(y).

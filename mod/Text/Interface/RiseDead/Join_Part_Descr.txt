@@ -1,0 +1,5 @@
+﻿Możesz ożywić <body_bright><value=allowed_count> z <value=count> <value=name><body><br>
+
+To będzie kosztować <body_bright><value=energy_needed> pkt.<body> Energii Mroku.
+
+<body_bright>Czy chcesz ożywić istoty?

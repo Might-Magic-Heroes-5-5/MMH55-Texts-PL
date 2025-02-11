@@ -1,0 +1,1 @@
+﻿Obrońca Lasu: Bohater zaczyna z +1 Obrony i zwiększa ją o +1 na każde 7 poziomów.

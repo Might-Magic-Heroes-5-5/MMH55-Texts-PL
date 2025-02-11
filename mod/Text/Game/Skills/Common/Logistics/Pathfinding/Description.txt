@@ -1,0 +1,1 @@
+﻿Bohater nie jest już obciążony karami terenowymi podczas eksploracji.

@@ -1,0 +1,7 @@
+﻿+1 Morale<br>
++1 Szczęście<br>
++250 pkt. ruchu po każdej bitwie morskiej<br><br><color=purple>
+Odzież Pirata<color_default><br>
++6 Atak (3/6)<br>
++12 Atak (6/6)<br>
+*Premia jest stosowana po zamknięciu ekranu ekwipunku.

@@ -1,0 +1,1 @@
+﻿Zwiększa tymczasowo Atak i Obronę istoty o 6, jeśli celem jej ataku jest Duża istota.

@@ -1,0 +1,1 @@
+﻿Bohater nie zużywa punktów ruchu na pomniejsze akcje na mapie przygody (takie jak zbieranie zasobów, odwiedzanie budynków itp.). Efekt ten działa również na morzu; załadunek na statek nie zużywa punktów ruchu, ale zejście na ląd kosztuje standardową ilość punktów ruchu.

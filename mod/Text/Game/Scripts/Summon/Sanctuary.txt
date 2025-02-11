@@ -1,0 +1,1 @@
+﻿<color=yellow>Kilku uchodźców schroniło się tutaj i postanowiło walczyć dla waszej sprawy (+<value=num> <value=upgtype>)

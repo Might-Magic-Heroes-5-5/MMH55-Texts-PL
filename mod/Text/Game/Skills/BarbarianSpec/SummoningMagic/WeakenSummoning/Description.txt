@@ -1,0 +1,1 @@
+﻿Siła Czarów bohatera jest zwiększona o 2, a jeśli ktokolwiek rzuci zaklęcie Magii Przywołania, jego siła jest niższa o 15%.

@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Kaplica Runiczna.<br>
+<color_bright>Świątynia Runiczna pozwala rekrutować Patriarchów Run i Strażników Run.

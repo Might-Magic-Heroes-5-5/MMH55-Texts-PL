@@ -1,0 +1,1 @@
+﻿Mistrz Polowania: Wszyscy Myśliwi, Wielcy Łowczy i Zaklinacze Strzał w armii bohatera zyskują +1 do swojego Ataku i Obrony za każde dwa poziomy bohatera, zaczynając od pierwszego poziomu.

@@ -1,0 +1,1 @@
+﻿Bohater uczy się Runy Zmartwychwstania i zyskuje +2 Obrony. Ponadto, do armii bohatera dołącza codziennie dwóch Obrońców, Strażników lub Strażników Gór, pod warunkiem, że bohater ma już w swojej armii kilka z tych jednostek.

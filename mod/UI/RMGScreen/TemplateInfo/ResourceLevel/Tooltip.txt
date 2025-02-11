@@ -1,0 +1,1 @@
+﻿To ustawienie reguluje ilość stosów wolnych zasobów w startowych obszarach gracza.

@@ -1,0 +1,1 @@
+﻿Przebudowuje posiadane miasto na miasto frakcji bohatera (koszt zależy od poziomu miasta). Bohater musi stać w bramie miasta. Nie można przebudować miast z Kapitolem. Wszystkie budynki miasta zostaną przekształcone, z wyjątkiem budynków specjalnych.

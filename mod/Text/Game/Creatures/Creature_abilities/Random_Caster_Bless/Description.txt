@@ -1,0 +1,1 @@
+﻿(Umiejętność Specjalna) Ta istota rzuca losowe Błogosławieństwo lub losową Klątwę na wybrany cel. Zaklęcie można rzucać zarówno na przyjazne jednostki (czary z efektem pozytywnym) jak i na istoty (czary z efektem negatywnym) wroga.

@@ -1,0 +1,4 @@
+﻿<color=yellow>Domyślny<color_default><br>
+* Gracze SI nie są sojusznikami, ale ich wzajemna agresja spada na wyższych trudnościach.
+* Bohaterowie SI mogą uciekać z walki.
+* Miejsca bitew mają +10% przyrostu w grach bez graczy SI.

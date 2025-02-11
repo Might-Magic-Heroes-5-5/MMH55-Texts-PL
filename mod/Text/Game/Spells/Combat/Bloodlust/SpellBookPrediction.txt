@@ -1,0 +1,1 @@
+﻿Zwiększa współczynnik Ataku celu o <value=enchant>. Czas trwania: <value=duration> tur(y).

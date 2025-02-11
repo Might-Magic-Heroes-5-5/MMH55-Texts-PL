@@ -1,0 +1,1 @@
+﻿Ta istota może przyspieszyć turę wybranej przyjaznej jednostki, zwiększając jej Gotowość Bojową o 0,01 * WO (= Wielkość Oddziału tej jednostki), ale nie więcej niż o 0,6. Jednocześnie zostaną zadane obrażenia równe WO (Umiejętność Specjalna).

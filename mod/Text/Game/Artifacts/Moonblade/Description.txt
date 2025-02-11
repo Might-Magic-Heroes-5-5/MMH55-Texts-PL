@@ -1,0 +1,2 @@
+﻿+5 Atak<br><br><color=orange>
+Mantykora<color_default><br>Poświęć ten artefakt w świątyni, a przyzwie on oddział Mantykor. Wielkość oddziału jest równa 2*ilość tygodni, które upłynęły.

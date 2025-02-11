@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Smocza Baszta.<br>
+<color_bright>Smocza Wieża pozwala rekrutować Czarne Smoki i Czerwone Smoki.

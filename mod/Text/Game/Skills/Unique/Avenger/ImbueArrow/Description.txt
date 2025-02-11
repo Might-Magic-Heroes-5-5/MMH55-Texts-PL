@@ -1,0 +1,1 @@
+﻿Bohater staje się zdolny do wzmocnienia swoich strzał zaklęciami. Nasycone strzały wyczerpują manę bohatera.<br><color_default>Impregnowana Strzała trwa do końca walki lub do wyczerpania całej Many. Tylko jedno zaklęcie może być nasycone w tym samym czasie. Bohater nie wykorzystuje swojej tury na nasycenie strzały.

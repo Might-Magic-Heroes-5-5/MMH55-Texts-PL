@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> rzuca <value=spell> na <value=target>, przywracając <value=font><value=damage> pkt. życia (wskrzeszono <value=dead>).

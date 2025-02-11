@@ -1,0 +1,1 @@
+﻿Specjalna zdolność bojowa wpływająca na wszystkie przyjazne stworzenia, która zwiększa Atak, Obronę i Morale o 2, a Inicjatywę o 10%. Czas trwania efektu to 2+0,5*(Poziom bohatera) tur (nie działa na Nieumarłych i Jednostki Mechaniczne). Gotowość bojowa bohatera po użyciu resetuje się do 0,1.<br><color_default>Bohaterowie Nekropolii zyskują również zaklęcie Grupowa Boska Biła.

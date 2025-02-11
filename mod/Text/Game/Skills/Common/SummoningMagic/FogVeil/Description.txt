@@ -1,0 +1,1 @@
+﻿Bohater wzywa siły natury, aby wpłynęły na wrogie istoty atakujące z dystansu. Inicjatywa wszystkich wrogich strzelców zostaje zmniejszona o 10%, a zadawane przez nich obrażenia o 25%.

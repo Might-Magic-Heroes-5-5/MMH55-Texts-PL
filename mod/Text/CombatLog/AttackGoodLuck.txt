@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> trafia w <value=target> z udanym rzutem na Szczęście, zadając<value=font> <value=damage> pkt. obrażeń (zabito <value=dead>).

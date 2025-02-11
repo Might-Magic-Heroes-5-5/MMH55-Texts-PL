@@ -1,0 +1,1 @@
+﻿Wszystkie istoty broniące to miasto otrzymują premię +1 do Ataku oraz Obrony.

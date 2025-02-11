@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> ulega efektowi negatywnego Morale przez zestaw Lwi Zapał.

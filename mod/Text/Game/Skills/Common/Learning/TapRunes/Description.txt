@@ -1,0 +1,1 @@
+﻿Bohater uczy się Runy Nietykalności i za każdym razem, gdy rzucona zostanie runa, bohater odzyskuje część Many, równą Wiedzy/2 (zaokrąglonej w dół).

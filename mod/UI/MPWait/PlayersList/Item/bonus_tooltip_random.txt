@@ -1,0 +1,8 @@
+﻿<br><color=white>Ważne: <color_default>
+To tylko tekst pomocniczy, nie uruchamiaj mapy na tym ustawieniu bo trudność będzie losowa!
+<br><color=white>Bonus Startowy: <color_default>
+Niezależnie od tego, jaki tryb tutaj wybierzesz, bohaterowie startowi zawsze otrzymają losowy pomniejszy artefakt oraz premię do stworzenia w armii. Bohaterowie tawerny mają słabsze armie.
+<br><color=white>Scenariusz: <color_default>
+Scenariusze mogą być rozgrywane tylko w trybie Zwykły lub Domyślny, jeśli wybierzesz Okrutny lub Koszmar gra powróci do trybu Domyślnego. Konwersja miasta, zarządzanie i kontrola kopalń są zawsze wyłączone na tych mapach.
+<br><color=white>Multiplayer: <color_default>
+W grach bez SI gra powróci do trybu Domyślnego. Nowo wygenerowane mapy ARMG nie działają w Hotseat lub LAN bez aktywacji skryptu (w tym celu należy użyć dostarczonej aplikacji mapmixer, skrót w menu start).

@@ -1,0 +1,1 @@
+﻿Bohater wiąże się Znamieniem Czarodzieja z wyznaczonym celem do końca bitwy. Każde kolejne zaklęcie trafiające w ten cel zadaje mu podwójną liczbę obrażeń i pochłania dwukrotnie więcej Many. Co więcej, każde zaklęcie rzucone na inną istotę będzie miało wpływ na wybrany wcześniej cel.

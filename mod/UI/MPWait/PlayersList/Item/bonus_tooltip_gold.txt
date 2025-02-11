@@ -1,0 +1,5 @@
+﻿<color=orange>Okrutny<color_default><br>
+* Wszyscy gracze SI połączą się w drużynę przeciwko graczowi ludzkiemu, czas w którym to nastąpi jest zmniejszony na mapach z wieloma graczami SI.
+* Jeśli jest wielu ludzkich graczy, będą oni walczyć przeciwko graczom SI.
+* Bohaterowie SI nigdy nie uciekają przed walką i walczą na śmierć i życie.
+* Miejsca bitew mają +5% przyrostu.

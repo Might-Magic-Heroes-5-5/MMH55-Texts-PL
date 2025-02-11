@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> wysysa <value=damage> pkt. many z (<value=target>).

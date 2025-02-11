@@ -1,0 +1,1 @@
+﻿Buntownik Umysłów: Bohater zyskuje +1 Siły Czarów za każde 7 poziomów, a zaklęcie Dezorientacja ma dodatkowy efekt zmniejszenia many celu o jeden punkt na każdy poziom bohatera.

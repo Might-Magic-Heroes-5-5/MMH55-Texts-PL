@@ -1,0 +1,1 @@
+﻿<value_name>Planowanie SI: <value_value><value=EE_lookahead>

@@ -1,0 +1,1 @@
+﻿<color_default><value=chance>% szansy na strzał<br> w cel zaklęciem bohatera

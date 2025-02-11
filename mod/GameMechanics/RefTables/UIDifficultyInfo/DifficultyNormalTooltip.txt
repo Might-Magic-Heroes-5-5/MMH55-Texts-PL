@@ -1,0 +1,4 @@
+﻿Zasoby Gracza: 20000/10/20
+Zasoby SI: 20000/10/20
+Jed. Neutralne: 1.1 + (*1.13 co tydzień)
+Doświadczenie: x/1.1

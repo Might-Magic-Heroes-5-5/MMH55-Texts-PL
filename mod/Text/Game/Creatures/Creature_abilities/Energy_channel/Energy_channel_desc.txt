@@ -1,0 +1,1 @@
+﻿Istota z tą zdolnością sprawia, że przyjazny bohater potrzebuje 10% mniej Many do rzucania zaklęć. Redukcja kosztu jest zaokrąglana w górę, w wyniku czego zawsze koszt jest zmniejszany zawsze o min. 1 pkt many.

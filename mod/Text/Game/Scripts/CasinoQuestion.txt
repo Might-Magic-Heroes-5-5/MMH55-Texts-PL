@@ -1,0 +1,10 @@
+﻿Witamy w naszym kasynie, czy chciałbyś postawić zakład w jednej z naszych gier?
+
+-------------------------------------------------------------------------------
+
+OK = Postaw <value=bet> złota na wszystkie parzyste liczby (<value=chance>% szans na <value=reward> złota)
+Anuluj = Opuść
+
+-------------------------------------------------------------------------------
+
+W każdym kasynie można postawić tylko jeden zakład. W każdym kolejnym kasynie, które znajdziesz na mapie przygody, możesz postawić większy zakład, niezależnie od tego, czy wygrałeś, czy przegrałeś poprzedni zakład.

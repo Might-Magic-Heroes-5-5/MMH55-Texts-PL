@@ -1,0 +1,3 @@
+﻿+2 Wiedza<br>
++2 Szczęście<br><br><color=orange>
+Mistyczne Orły<color_default><br>Spal ten artefakt w Świątyni, a przyzwie on oddział Mistycznych Orłów. Wielkość oddziału jest równa 2*ilość tygodni, które upłynęły.

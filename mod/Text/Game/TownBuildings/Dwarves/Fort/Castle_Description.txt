@@ -1,0 +1,3 @@
+﻿<color_default>Ulepszona Cytadela.<br>
+<color_bright>Budowa Zamku zapewnia dwie dodatkowe wieże strzelnicze, umacnia mury i podwaja tygodniowy przyrost istot.<br><br>
+<color=0099FF>Zarządzanie<color_default><br>Gubernator miasta zyskuje 3 Obrony.

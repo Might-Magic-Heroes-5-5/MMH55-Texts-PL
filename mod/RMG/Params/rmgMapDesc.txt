@@ -1,0 +1,1 @@
+﻿Oto losowa mapa do MMH5.5 oparta na szablonie <value=template>stworzona przez Zaawansowane RMG v2.78 z opcjami: <value=mapsize> rozmiar, <value=underground>, <value=water>, z <value=monsterstrenght> potwory. Mapa jest dla <value=playerscount> graczy, startowe zasoby to <value=startseed>

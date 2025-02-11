@@ -1,0 +1,8 @@
+﻿<color=green>Tryb Zwykły<br><color_default>
+* SI nie otrzymuje żadnych dodatkowych jednostek ani złota, aby zmniejszyć straty w "Szybkiej walce".
+* Zasoby startowe SI zostają zmniejszone o 10000/5/10 na wszystkich poziomach trudności.
+* Gracze SI nie są sojusznikami, ale ich wzajemna agresja spada na wyższych poziomach trudności.
+* SI Komputera mogą uciekać.
+* Miejsca bitew mają -10% przyrostu.
+<br><color=white>Uwaga!<br><color_default>
+* Nie używaj 'restart misji' po załadowaniu mapy, bo Komputer powróci do NIE zwykłego, czasem nawet jednego z bardzo trudnych trybów!

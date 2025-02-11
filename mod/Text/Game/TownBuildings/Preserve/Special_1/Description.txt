@@ -1,0 +1,3 @@
+﻿<color_default>Ulepszenie Gildii Mścicieli.<br>
+<color_bright>Mściciele i Druidzi otrzymują +1 Ataku oraz zwiększoną szansa na zadanie krytycznego trafienia ulubionym wrogom, która zwiększa się o +10% (kumuluje się z wieloma miastami i nie wymaga wizyty w mieście).<br><br>
+<color=0099FF>Zarządzanie<color_default><br>Przyznaje gubernatorowi tego miasta premię do wiedzy +2.

@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszony Krąg Walki.<br>
+<color_bright>Plac Walki pozwala rekrutować Berserkerów i Pogromców.

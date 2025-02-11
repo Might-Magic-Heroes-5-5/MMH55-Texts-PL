@@ -1,0 +1,6 @@
+﻿+1 Szczęście (Jeśli założony)<br><br>
+Wzmacnia armię bohatera o rodzime stworzenia 1 poziomu na początku każdego tygodnia, pod warunkiem, że niektóre z nich są już obecne. Ilość jest równa Wiedzy bohatera.
+<br><color=orange>Legion Regalii<br><color_default>
+Ofiaruj wszystkie 7 artefaktów Legionu Regalii na Ołtarzu Ofiarnym, aby otrzymać unikalną nagrodę.
+<br><color=yellow>Plecak<color_default><br>
+Wzmocnienia zyskuje się również, gdy artefakt jest niewyposażony, ale nie wtedy, gdy artefakt Regalii wyższego poziomu jest wyposażony lub znajduje się w plecaku.

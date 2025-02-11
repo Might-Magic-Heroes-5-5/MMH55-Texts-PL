@@ -1,0 +1,1 @@
+﻿Bohater może wykorzystywać połączenia żywiołów między jednostkami w celu zadania dodatkowych obrażeń.

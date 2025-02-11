@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszony Warsztat Gremlinów.<br>
+<color_bright>Manufaktura Gremlinów pozwala rekrutować Gremlinów Dowódców i Gremlinów Sabotażystów.

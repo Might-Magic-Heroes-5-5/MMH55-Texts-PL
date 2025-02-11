@@ -1,0 +1,1 @@
+﻿Poświęcaj jednostki, aby zwiększyć przyrost Krwawych Dziewic i Minotaurów. Progi dla uzyskania +1 wzrostu to 30PŻ, 90PŻ, PŻHP, 810PŻ, 2430PŻ, 7290PŻ, 21870PŻ... (dla Minotaurów próg zaczyna od 90PŻ).

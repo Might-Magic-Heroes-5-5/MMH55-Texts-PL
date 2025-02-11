@@ -1,0 +1,1 @@
+﻿Władca Zombie: Wszystkie Zombie, Ropiejący Zombie i Gnijące Zombie w armii bohatera zawsze będą działać natychmiast po tym, jak bohater zacznie swoją turę, skutecznie zwiększając ich inicjatywę do takiej samej jak bohatera (10) i czyniąc je odpornymi na Spowolnienie.

@@ -1,0 +1,1 @@
+﻿Czy chcesz przebudować to miasto?<br>Koszt = Złoto: <value=gold>, Drewno: <value=wood>, Ruda: <value=ore>, Rtęć: <value=mercury>, Kryształ: <value=crystal>, Siarka: <value=crystal>, Klejnoty: <value=gem><br><br>UWAGA: Jesli w garnizonie będą znajdowały się jakiekolwiek istoty, przepadną one po przebudowie miasta.

@@ -1,0 +1,1 @@
+﻿Ukryj Okno Dziennika <hotkey=input_switch_atb_log>.

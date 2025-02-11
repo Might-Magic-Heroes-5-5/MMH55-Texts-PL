@@ -1,0 +1,1 @@
+﻿Oślepia wybrany oddział wroga tak, że nie może on się poruszać, atakować, ani używać żadnych zdolności. Oślepienie znika, jeśli oddział zostaje zaatakowany. Czas trwania zaklęcia zależy od Siły Czarów bohatera.<br><color_default>Zaklęcie nie działa na Nieumarłych, Żywiołaki i Jednostki Mechaniczne. 

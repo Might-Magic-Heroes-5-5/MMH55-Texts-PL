@@ -1,0 +1,1 @@
+﻿Atakowanie czarami opartymi na żywiole Ognia zadaje tej istocie 50% mniej obrażeń.

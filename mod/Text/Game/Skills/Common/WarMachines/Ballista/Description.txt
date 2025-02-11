@@ -1,0 +1,2 @@
+﻿Pozwala na ręczne sterowanie Balistą. Balista zyskuje jeden dodatkowy strzał.<br><color_default>
+Przywraca Balistę po walce, jeśli została zniszczona. Obrażenia Balisty są zwiększone trzykrotnie.

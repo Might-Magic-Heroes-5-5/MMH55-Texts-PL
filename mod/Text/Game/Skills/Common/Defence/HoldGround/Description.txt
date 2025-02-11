@@ -1,0 +1,1 @@
+﻿Istoty w armii bohatera wykonujące rozkaz obrony zwiększą swoją Obronę o 30%.<br><color_default> Premia wynikająca ze zdolności "Zapuszczenie korzeni" zostaje podwojona i zwiększa Obronę Entów o 100%.

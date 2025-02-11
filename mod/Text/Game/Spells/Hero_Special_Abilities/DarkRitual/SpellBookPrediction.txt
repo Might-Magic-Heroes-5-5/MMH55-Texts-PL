@@ -1,0 +1,1 @@
+﻿Mistyczna specjalizacja pozwala ci zdobyć <value=extra_mana> many poza normalnym maksymalnym limitem many.

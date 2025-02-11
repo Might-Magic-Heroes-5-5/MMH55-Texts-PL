@@ -1,0 +1,1 @@
+﻿Przywrócenie <value=hits_received> pkt. życia (naprawionych <value=resurrected>).

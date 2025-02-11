@@ -1,0 +1,1 @@
+﻿Dowódca Piechoty: Na początku walki oddział przyjaznych Piechurów, Zbrojnych lub Fanatyków użyje zdolności Pośpiech, podwajając swoją inicjatywę na 3 tury (oddział musi być większy niż jedna jednostka). Wszyscy Piechurzy, Zbrojni i Fanatycy w armii bohatera zyskują również +1 do swojego Ataku i Obrony za każde dwa poziomy bohatera, zaczynając od pierwszego poziomu.

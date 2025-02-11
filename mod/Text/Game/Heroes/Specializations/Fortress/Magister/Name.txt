@@ -1,0 +1,1 @@
+﻿Klasa: Piastun Ognia<br>Specjalizacja: Patriarcha<br><br><body_bright>Na początku walki dodatkowa mana będzie dostępna dla wszystkich przyjaznych Kapłanów Runów (+7), Patriarchów Runów (+23) i Strażników Runów (+11). Dodatkowo zyskują +1 do Ataku i Obrony za każde dwa poziomy bohatera, zaczynając od pierwszego poziomu.<br><br><color=orange>Zaczyna z Szczęście Żołnierza.

@@ -1,0 +1,1 @@
+﻿Zmniejsza Morale i Szczęście wrogich istot o <value=enchant>, a także ich Inicjatywę o <value=initiative_bonus>%. Czas trwania: <value=duration> tur(y).

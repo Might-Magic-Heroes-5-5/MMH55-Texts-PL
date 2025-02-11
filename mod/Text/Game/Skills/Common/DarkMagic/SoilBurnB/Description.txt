@@ -1,0 +1,1 @@
+﻿Matka Ziemia przeklina ziemię, po której chodzą wrogie istoty. Za każdym razem, gdy nielatająca wroga istota poruszy się, otrzyma obrażenia równe 8 × Poziom bohatera.<br><color_default>Obrażenia nie zależą od przebytych pól i nie są zadawane, jeśli istota tylko się obraca.

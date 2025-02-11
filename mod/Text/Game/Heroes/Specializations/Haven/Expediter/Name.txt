@@ -1,0 +1,1 @@
+﻿Klasa: Rycerz<br>Specjalizacja: Paragon<br><br><body_bright>Bohater zaczyna z +2 Wiedzy, a efekt zaklęcia Przyspieszenie jest zwiększany o 0,15% za każdy poziom bohatera.<br><br><color=orange>Zaczyna z Podstawowa Magia Światła.

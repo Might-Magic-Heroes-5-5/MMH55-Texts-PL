@@ -1,0 +1,1 @@
+﻿Istota wykonuje opóźniony atak powietrzny na wybrane pole na polu bitwy zadając 50% więcej obrażeń niż zwykle, nawet jeśli pole jest zajęte przez przyjazną jednostkę. Po ataku jednostka wraca do losowo wybranego miejsca w pobliżu pola które zaatakowano.

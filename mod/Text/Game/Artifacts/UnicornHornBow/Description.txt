@@ -1,0 +1,5 @@
+﻿-1 Szczęście<br>
+Znosi kary za zasięg dla wszystkich przyjaznych istot strzelających.<br><br><color=purple>
+Marzenie Łucznika<color_default><br>
++1 Szczęście (2/2)<br>
+*Premia jest stosowana po zamknięciu ekranu ekwipunku.

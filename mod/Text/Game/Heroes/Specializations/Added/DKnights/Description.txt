@@ -1,0 +1,1 @@
+﻿Mroczny Jeździec: Wszystkie gildie magów w posiadanych miastach Nekropolii będą przywoływać Czarnych Rycerzy zamiast Mumii, a bohater otrzyma 10 Kryształów Smoczej Krwi na poziomie 1 w celu przywołania Czarnych Rycerzy. Ta specjalizacja działa tylko wtedy, gdy bohater był obecny na mapie w pierwszym dniu i nie działa, gdy bohater był zatrudniony w tawernie.

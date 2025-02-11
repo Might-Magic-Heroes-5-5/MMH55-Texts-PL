@@ -1,0 +1,1 @@
+﻿Tworzy na wybranym miejscu pola bitwy kryształ, który uniemożliwia wykonanie ataków dystansowych strzelcom, znajdującym się na polach przyległych do kryształu. Zniszczenie kryształu zada pewną ilość obrażeń wszystkim przylegającym do niego istotom.

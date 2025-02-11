@@ -1,0 +1,1 @@
+﻿Pięść Khana: Oddział Wojowników dołącza do armii bohatera na początku walki, a ich liczba jest równa 25% Wojowników, Rębaczy i Podżegaczy, których bohater ma już w swojej armii. Wojownicy i ich ulepszenia w armii bohatera zyskują również +1 do swojego Ataku i Obrony za każde dwa poziomy bohatera, począwszy od pierwszego poziomu.

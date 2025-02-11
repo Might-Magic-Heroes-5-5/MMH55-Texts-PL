@@ -1,0 +1,3 @@
+﻿+3 Atak<br>
++3 Obrona<br>
+-1 Szybkość

@@ -1,0 +1,8 @@
+﻿+6 Wiedza<br>
++6 Many na dzień, jeśli artefakt jest noszony nieprzerwanie<br><br><color=purple>
+Sar-Issus<color_default><br>
++50% Siła Czarów i many dla przyjaznych istot (2/4)<br>
++100% Siła Czarów i many dla przyjaznych istot(4/4)<br>
+*Premia jest stosowana po zamknięciu ekranu ekwipunku.<br><br><color=orange>
+Zadanie<color_default><br>
+Przynieś wszystkie 4 artefakty Sar-Issus do Astrologa, a otrzymasz unikalną nagrodę.

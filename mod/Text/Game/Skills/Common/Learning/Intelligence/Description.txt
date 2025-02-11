@@ -1,0 +1,1 @@
+﻿Maksymalną ilość many bohatera zwiększa się o 40%.<br><color_default>Nie wpływa to na prędkość regeneracji many.

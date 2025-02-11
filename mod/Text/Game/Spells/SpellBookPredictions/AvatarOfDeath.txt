@@ -1,0 +1,1 @@
+﻿Życie Widmowego Smoka: <value=health><br>Obrażenia: <value=min_damage> - <value=max_damage>.

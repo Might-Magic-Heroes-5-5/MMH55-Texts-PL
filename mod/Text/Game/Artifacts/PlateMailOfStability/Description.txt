@@ -1,0 +1,9 @@
+﻿+4 Atak<br>
++4 Obrona<br>
++8% Odporność na magię<br><br><color=purple>
+Kirys Zapomnianego Bohatera<color_default><br>
++1 Do wszystkich podstawowych atrybutów (2/4)<br>
++2 Do wszystkich podstawowych atrybutów (4/4)<br>
+*Premia jest stosowana po zamknięciu ekranu ekwipunku.<br><br><color=orange>
+Zadanie<color_default><br>
+Przynieś wszystkie 4 części Kirysu Zapomnianego Bohatera do Kupca Artefaktów, a otrzymasz unikalną nagrodę.

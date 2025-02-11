@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszone Kamienne Blanki.<br>
+<color_bright>Obsydianowe Blanki pozwalają rekrutować Obsydianowe Gargulce i Marmurowe Gargulce.

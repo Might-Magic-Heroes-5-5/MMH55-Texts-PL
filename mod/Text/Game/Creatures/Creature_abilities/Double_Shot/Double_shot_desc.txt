@@ -1,0 +1,1 @@
+﻿Stworzenie zawsze oddaje dwa strzały w kierunku wroga zamiast tylko jednego.

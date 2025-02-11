@@ -1,0 +1,1 @@
+﻿Zwiększa obszar, na którym bohater może przegrupować swoje istoty przed walką, oddając do jego dyspozycji trzeci rząd. Jeśli przeciwnik również posiada Taktykę, oba efekty niwelują się.

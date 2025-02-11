@@ -1,0 +1,1 @@
+﻿<color=yellow>Odszyfrowałeś kod z Obelisku, który ujawnił ci lokalizację Zapomnianej Krypty. Czy zechcesz do niej wejść?<br><br>(Poziom zagrożenia: Wyzwanie)<br><br>OK = Wejdź do Krypty.<br>ANULUJ = Zrezygnuj.<br><br>Jeżeli zrezygnujesz z wejścia do Krypty, możesz podjąć wyzwanie później.

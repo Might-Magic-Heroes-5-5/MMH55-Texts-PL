@@ -1,0 +1,1 @@
+﻿Pozwala bohaterowi uczyć się zaklęć rzucanych przez nieprzyjaciół w czasie bitwy (bohater musi spełniać wymagania do nauki odpowiedniego zaklęcia) oraz przejrzeć zawartość ekwipunku wrogiego bohatera.

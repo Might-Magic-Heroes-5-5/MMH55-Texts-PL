@@ -1,0 +1,5 @@
+﻿+5 Ataku dla ras Światła<br>
+-1 Obrony dla ras Światła<br>
++5 Obrony dla ras Mroku<br>
+-1 Ataku dla ras Mroku<br><color_default>
+Twierdza jest uważana za rasę Mroku

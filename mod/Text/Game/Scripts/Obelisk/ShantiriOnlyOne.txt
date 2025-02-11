@@ -1,0 +1,1 @@
+﻿Ten dysk Shantiri został mocno uszkodzony przez lokalną grupę zbirów i nie możesz go odczytać. Czy chcesz zaatakować bandytów?<br><br>(Poziom zagrożenia: Wyzwanie)<br><br>OK = Zaatakuj zbirów.<br>ANULUJ = Zrezygnuj.<br><br>Jeżeli zrezygnujesz, możesz podjąć wyzwanie później.

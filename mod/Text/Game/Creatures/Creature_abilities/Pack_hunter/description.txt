@@ -1,0 +1,1 @@
+﻿Gdy ta istota atakuje jakieś stworzenie, wszystkie inne grupy tych samych istot sąsiadujące z celem również go atakują.

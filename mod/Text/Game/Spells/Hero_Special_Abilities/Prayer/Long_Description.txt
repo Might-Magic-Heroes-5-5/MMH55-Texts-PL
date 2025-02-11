@@ -1,0 +1,1 @@
+﻿Specjalna zdolność bojowa oddziałująca na wszystkie przyjazne stworzenia, która zwiększa Atak, Obronę i Morale o 2, a Inicjatywę o 10%. Czas trwania efektu to 2+0,1*(poziom bohatera) tur (nie działa na Nieumarłych i Jednostki Mechaniczne). Gotowość Bojowa bohatera po użyciu resetuje się do 0,15.

@@ -1,0 +1,1 @@
+﻿Bohater zyskuje +2 do Wiedzy, a wszyscy rzucający zaklęcia w armii bohatera będą wydawać tylko połowę wymaganej many do rzucania zaklęć.

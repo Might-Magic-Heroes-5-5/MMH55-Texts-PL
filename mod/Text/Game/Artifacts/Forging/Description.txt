@@ -1,0 +1,4 @@
+﻿-1 Morale<br>
+-2 Morale (Jeśli nie założony)<br><br><color=red>
+Przeklęty Artefakt<br><color_default>
+Ten artefakt mocno trzyma się bohatera.

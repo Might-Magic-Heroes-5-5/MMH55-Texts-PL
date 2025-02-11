@@ -1,0 +1,4 @@
+﻿+1 Morale
++400 Ruch
+
+<color_default>W tym miejscu można poświęcić niektóre artefakty.

@@ -1,0 +1,1 @@
+﻿Jeśli w armii bohatera znajduje się Wóz z Amunicją, codziennie do jego armii przyłączy się jeden Goblin i bohater, a ponadto bohater dostarczy 0,5 szt. złota dziennie za każdego goblina w swojej armii.<br><color_default>Ulepszone gobliny przyłączą się tylko wtedy, gdy są obecne w armii bohatera; domyślnie będą to Goblińscy Sidlarze.

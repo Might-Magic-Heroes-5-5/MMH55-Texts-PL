@@ -1,0 +1,1 @@
+﻿Ta istota może wzbić się do góry i zaatakować wroga na sąsiednim polu, zadając o 50% większe obrażenia i nie ryzykując kontrataku.

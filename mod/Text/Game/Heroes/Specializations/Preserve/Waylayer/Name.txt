@@ -1,0 +1,1 @@
+﻿Klasa: Łowca<br>Specjalizacja: Błyskawiczny Napastnik<br><br><body_bright>Jednostki w armii bohatera otrzymują premię +0,5% na poziom bohatera do inicjatywy na początku walki.<br><br><color=orange>Zaczyna z Lepsza Logistyka.

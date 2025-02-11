@@ -1,0 +1,1 @@
+﻿Strażnik Graniczny<br><br><body_bright>Zwiększa Obronę bohatera o 1 i o kolejne 1 co każde dwa poziomy doświadczenia, jeśli toczy on walkę o dzień drogi od posiadanego miasta.

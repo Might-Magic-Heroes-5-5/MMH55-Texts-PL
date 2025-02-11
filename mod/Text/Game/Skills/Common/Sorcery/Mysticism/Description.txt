@@ -1,0 +1,1 @@
+﻿Podwaja regenerację many bohatera opartą na Wiedzy.<br><color_default>Regeneracja many z artefaktów, zdolności lub specjalizacji nie jest podwajana.

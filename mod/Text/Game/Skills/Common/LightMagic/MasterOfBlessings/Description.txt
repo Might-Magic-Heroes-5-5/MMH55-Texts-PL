@@ -1,0 +1,1 @@
+﻿Bohater uczy się zaklęcia Boska Siła i otrzymuje efekty grupowe do Boskiej Siły oraz efekty obszarowe do zaklęć Oczyszczających.<br><color_default>Grupowe zaklęcia działają na wszystkie wrogie cele z efektem słabszym o 33% i kosztują cztery razy więcej many, ale zawsze są rzucane tak szybko, jak gdyby bohater posiadał Ekspercki Talent Magiczny.

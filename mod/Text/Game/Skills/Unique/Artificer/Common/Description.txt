@@ -1,0 +1,1 @@
+﻿Bohater może tworzyć mini-artefakty dla jednostek w swojej armii korzystając z Kuźni Artefaktów.

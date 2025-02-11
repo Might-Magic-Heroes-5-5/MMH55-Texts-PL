@@ -1,0 +1,1 @@
+﻿Minimalna i maksymalna liczba obrażeń, jakie mogą zadać stworzenia znajdujące się pod kontrolą bohatera, zwiększa się o 1. Jest to szczególnie efektywne w przypadku armii składających się ze stworzeń niskiego poziomu.

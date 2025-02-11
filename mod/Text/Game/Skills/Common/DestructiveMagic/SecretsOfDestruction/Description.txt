@@ -1,0 +1,1 @@
+﻿Bohater zyskuje +2 Wiedzy i zwiększa ją dodatkowo o 1 na każde 10 poziomów. Bohater nabywa także jedno losowe zaklęcie Magii Zniszczenia od 1 do 3 kręgu, którego nie ma jeszcze w jego księdze zaklęć.

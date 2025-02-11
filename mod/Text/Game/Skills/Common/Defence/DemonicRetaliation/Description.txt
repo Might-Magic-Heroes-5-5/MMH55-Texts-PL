@@ -1,0 +1,1 @@
+﻿Atak bohatera zwiększa się o 2 i od teraz zdolność "Demoniczny Ogień" sprawia, że oddziały wroga mają szansę na otrzymanie dodatkowych obrażenia od Ognia także w czasie kontrataku.

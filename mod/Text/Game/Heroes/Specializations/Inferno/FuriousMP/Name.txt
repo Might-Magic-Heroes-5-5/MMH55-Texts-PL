@@ -1,0 +1,1 @@
+﻿Klasa: Czarownik<br>Specjalizacja: Fanatyk<br><br><body_bright>Bohater zaczyna ze zdolnością Brama (zdolnością, której Czarodzieje normalnie nie mogą się nauczyć), a inicjatywa wszystkich istot w armii bohatera zostaje zwiększona o 2,5% + 0,25% na poziom bohatera.<br><br><color=orange>Zaczyna z Brama.

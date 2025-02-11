@@ -1,0 +1,1 @@
+﻿Raz na bitwę ta istota może eksplodować w jak kula ognia, zadając obrażenia od ognia wszystkim istotom na sąsiednich polach, nie raniąc siebie.

@@ -1,0 +1,1 @@
+﻿Sztuka Czarowania: Siła Czarów bohatera wzrasta o +1 za każde 8 poziomów, a zdolność Magiczne Lustro jest bardziej efektywna. Istnieje większa szansa, że przekierowane wrogie zaklęcia trafią w jedną z wrogich jednostek, zamiast polecieć w losowym kierunku. Zwiększone szanse wynoszą 40%+poziom bohatera*1%. 

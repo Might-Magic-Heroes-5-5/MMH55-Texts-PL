@@ -1,0 +1,1 @@
+﻿(Umiejętność Specjalna) Ta istota może wyłączyć każdego mechanicznego przeciwnika na czas jednej tury, jeżeli ilość Punktów Życia celu jest mniejsza niż ilość punktów życia tej istoty.

@@ -1,0 +1,1 @@
+﻿Wszystkie jednostki Inferno zdobywają zdolność, dzięki której mogą otworzyć portal do wymiaru piekieł i sprowadzić stamtąd posiłki na pole bitwy. Każda istota może otworzyć portal tylko raz w trakcie walki. Nowo przybyłe stworzenia stanowią część liczebności przyzywającego i znikają po zakończeniu walki.

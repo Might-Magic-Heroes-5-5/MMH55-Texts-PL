@@ -1,0 +1,1 @@
+﻿Za każdym razem, gdy efekt Morale zostanie wywołany u jednostki w armii bohatera, zyskuje ono 80 punktów Szału.

@@ -1,0 +1,1 @@
+﻿Przeciwnik zaatakowany przez to stworzenie zostaje oplątany jego korzeniami i unieruchomiony. Istota może unieruchomić jednocześnie kilka oddziałów wroga, ale muszą się one znajdować się na sąsiadujących polach.

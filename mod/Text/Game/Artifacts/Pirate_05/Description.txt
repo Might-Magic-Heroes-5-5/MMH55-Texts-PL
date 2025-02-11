@@ -1,0 +1,6 @@
+﻿+50 pkt. ruchu po każdej bitwie na lądzie<br><color_default>
+Bohater nie traci również ruchu za udział w walce. Ta część premii nie kumuluje się z umiejętnościami Łupieżca i Włóczęga.<br><br><color=fioletowy>
+Odzież Pirata<color_default><br>
++6 Atak (3/6)<br>
++12 Atak (6/6)<br>
+*Premia jest stosowana po zamknięciu ekranu ekwipunku.

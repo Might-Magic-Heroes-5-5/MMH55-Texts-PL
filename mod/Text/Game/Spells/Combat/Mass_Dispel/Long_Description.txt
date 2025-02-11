@@ -1,0 +1,1 @@
+﻿Usuwa z sojuszniczych oddziałów czary mające negatywne działanie oraz z wrogich oddziałów czary mające negatywne działanie. Bohater musi mieć Siłę Czarów odpowiednio 30, 20, 15 lub 10 w zależności od poziomu mistrzostwa, aby osiągnąć 100% szansę na sukces przeciwko wrogowi na takim samym poziomie. W przeciwnym razie szansa spada o 3% za każdy poziom lub brakującą Siłę Czarów.

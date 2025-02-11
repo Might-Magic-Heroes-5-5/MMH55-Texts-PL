@@ -1,0 +1,1 @@
+﻿<value=source_color>(Naprawa) Gremlin Dowódca przywraca <value=damage> pkt. życia <value=target>(naprawiono <value=dead>).

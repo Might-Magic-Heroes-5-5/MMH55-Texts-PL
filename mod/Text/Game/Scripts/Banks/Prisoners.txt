@@ -1,0 +1,1 @@
+﻿<color=yellow>Uwalniasz pewną liczbę więźniów: <value=num>(<value=upgtype>).

@@ -1,0 +1,1 @@
+﻿Wybrany cel zostaje otoczony magiczną tarczą, która pochłonie pewną ilość obrażeń otrzymanych przez ten oddział. Skuteczność tego zaklęcia zależy od Siły Czarów, a tarcza pochłonie pełną ilość otrzymanych obrażeń, jeśli rzucający zaklęcie posiada jej  wartość wynoszącą =>60.

@@ -1,0 +1,1 @@
+﻿Klasa: Kapłan Runów<br>Specjalizacja: Runiczny Artysta<br><br><body_bright>Bohater zaczyna z +1 Wiedzy, a szanse na sukces z zdolnością Recykling zwiększają się o +1% na każdy poziom bohatera.<br><br><color=orange>Zaczyna z Magia Przywołania.

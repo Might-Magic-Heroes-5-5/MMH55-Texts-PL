@@ -1,0 +1,1 @@
+﻿<color=yellow>Do armii bohatera przyłącza się pewna ilość posiłków: <value=num>.

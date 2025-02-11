@@ -1,0 +1,1 @@
+﻿Obszar ataku tej jednostki obejmuje również 4 sąsiednie pola w okół trafionego celu (w kształcie krzyża).

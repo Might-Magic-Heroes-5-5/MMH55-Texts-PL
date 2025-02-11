@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszony Ołtarz Smoków.<br>
+<color_bright>Świątynia Smoków pozwala rekrutować Szmaragdowe Smoki i Kryształowe Smoki.

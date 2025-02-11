@@ -1,0 +1,8 @@
+﻿+4 Obrona<br>
++5% Inicjatywy dla przyjaznych istot (Małych)<br><br><color=purple>
+Potęga Smoków<color_default><br>
++2 Do wszystkich atrybutów (4/8)<br>
++4 Do wszystkich atrybutów (8/8)<br>
+*Premia jest stosowana po zamknięciu ekranu ekwipunku.<br><br><color=orange>
+Zadanie<color_default><br>
+Ofiaruj wszystkie 8 kawałków Potęgi Smoków na Ołtarzu Ofiarnym, aby otrzymać unikalną nagrodę.

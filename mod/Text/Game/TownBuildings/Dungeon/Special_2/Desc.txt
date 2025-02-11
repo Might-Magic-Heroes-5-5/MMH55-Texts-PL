@@ -1,0 +1,3 @@
+﻿<color_default>Ulepszenie Ołtarza Żywiołów<br><br>
+<color_bright>Zwiększa Atak wszystkich bohaterów Lochu o 1 i zwiększa obrażenia łańcuchów żywiołów o +5% (kumuluje się z wieloma ołtarzami i nie wymaga odwiedzania miasta).<br><br>
+<color=0099FF>Zarządzanie<color_default><br>Przyznaje gubernatorowi tego miasta premię do Ataku +2.

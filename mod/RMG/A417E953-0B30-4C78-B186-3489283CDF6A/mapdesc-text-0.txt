@@ -1,0 +1,1 @@
+﻿To jest mapa losowa MMH5.5 bazująca na szablonie 8P-Window-I/XLu stworzona przez Zaawansowany Generator Map Losowych v2.0 z ustawieniami: extra rozmiar duży, z podziemiami, bez wody, z średnimi potworami. Mapa jest stworzona dla 8 graczy, startowe zasoby to 1565477489

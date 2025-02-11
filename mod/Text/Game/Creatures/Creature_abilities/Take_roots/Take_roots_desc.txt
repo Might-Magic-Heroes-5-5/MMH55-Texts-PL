@@ -1,0 +1,1 @@
+﻿Wykonując rozkaz Obrony lub Czekaj, współczynnik Obrony tej istoty wzrasta o 50% może także kontratakować za każdym razem, gdy zostanie zaatakowana (aż do następnej tury).

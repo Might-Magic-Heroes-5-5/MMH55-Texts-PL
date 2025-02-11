@@ -1,0 +1,1 @@
+﻿Klasa: Inżynier<br>Specjalizacja: Indywidualista<br><br><body_bright>Bohater zaczyna z +1 Ataku i -1 Obrony, a Inicjatywa wszystkich jednostek w armii bohatera zostaje zwiększona o 2,5% + 0,25% na poziom bohatera.<br><br><color=orange>Zaczyna z Dowodzenie.

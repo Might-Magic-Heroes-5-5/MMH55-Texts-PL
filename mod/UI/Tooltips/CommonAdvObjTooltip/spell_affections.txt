@@ -1,0 +1,1 @@
+﻿<br><tooltip_bright><br>Pod wpływem:<br><color_positive><value=our_affections><br><color_negative><value=enemy_affections>

@@ -1,0 +1,1 @@
+﻿Bohater uczy się Okrzyku Zew Krwi i za każdym razem, gdy jednostka w armii bohatera zyskuje Szał, zyskuje go o 33% więcej niż zwykle. Jednakże, jeśli jednostka traci Szał, to również traci go o 33% więcej niż zwykle.

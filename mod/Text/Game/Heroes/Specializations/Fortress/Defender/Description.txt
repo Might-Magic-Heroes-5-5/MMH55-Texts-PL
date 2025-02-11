@@ -1,0 +1,1 @@
+﻿Protektor: Wszyscy Obrońcy, Strażnicy i Strażnicy Gór w armii bohatera zyskują +1 do swojego Ataku i Obrony za każde dwa poziomy oraz +1 do swoich Punktów Trafienia za każde 10 poziomów bohatera.

@@ -1,0 +1,1 @@
+﻿Mury tego miasta są trudniejsze do zniszczenia. Każda struktura obronna (mury, wieże i brama) otrzymuje 50 Punktów Życia.

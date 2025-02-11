@@ -1,0 +1,3 @@
+﻿<color_bright>Pozwala odwiedzającemu bohaterowi nauczyć się zaklęć przechowywanych w środku. Przechowuje 3 zaklęcia z drugiego kręgu.<br><br>
+<color=orange>Mistyczne Orły<color_default><br>Ten budynek może przywołać Mistyczne Orły i dodać je do garnizonu miasta co tydzień. Ilość Mistycznych Orłów zależy od ilości zebranych przez bohaterów kryształów Smoczej Krwi (A) oraz poziomu doświadczenia tych bohaterów (B). Wzór = Pierwiastek(sum(A*B))/30 * (3+poziom gildii), w którym suma(A*B) nie może przekroczyć 600. Suma wynosi zero, jeśli nie zebrano żadnych kryształów.<br><br>
+<color=0099FF>Zarządzanie<color_default><br>Przyznaje gubernatorowi tego miasta premię +2 do Siły Czarów.

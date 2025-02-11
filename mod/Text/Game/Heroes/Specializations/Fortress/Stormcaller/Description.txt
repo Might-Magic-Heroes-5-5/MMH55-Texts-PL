@@ -1,0 +1,1 @@
+﻿Mistyczny Łucznik: Bohater awansując na 10 poziom uczy się zaklęcia Wzmocniona Błyskawica i Wzmocniony Łańcuch Błyskawic na poziomie 30, mimo że nie może nauczyć się zdolności Wzmocnione Zaklęcia. Zaklęcia błyskawic rzucane przez tego bohatera ignorują odporność na magię (z wyjątkiem jednostek odpornych na magię Powietrza lub magię w ogóle).

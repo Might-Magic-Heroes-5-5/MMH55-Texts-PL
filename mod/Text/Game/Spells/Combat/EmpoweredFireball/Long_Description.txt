@@ -1,0 +1,1 @@
+﻿Zadaje obrażenia od ognia wszystkim oddziałom znajdującym się na wskazanym obszarze.

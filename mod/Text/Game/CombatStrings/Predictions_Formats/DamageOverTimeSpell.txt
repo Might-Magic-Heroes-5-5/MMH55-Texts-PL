@@ -1,0 +1,1 @@
+﻿Użyj: <value=spell>. Obrażenia: <value=damage> pkt. przez <value=duration> tur(y).

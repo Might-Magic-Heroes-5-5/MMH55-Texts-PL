@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszony Kamienny Krąg.<br>
+<color_bright>Kromlech pozwala rekrutować Starszych Druidów i Wielkich Druidów.

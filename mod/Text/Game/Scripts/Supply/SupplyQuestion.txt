@@ -1,0 +1,4 @@
+﻿Właściciel tego budynku oferuje Ci kontrakt na dostawy w zamian za <value=num> złota, jeśli się zgodzisz, Twoje królestwo będzie otrzymywać wszelkie zasoby, które wyprodukuje automatycznie na początku każdego tygodnia.
+
+OK = Podpisz umowę (<value=num> złota)
+Anuluj = Wykonaj tylko jedną wizytę.

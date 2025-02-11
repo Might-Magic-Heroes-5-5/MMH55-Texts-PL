@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Kuźnia Golemów.<br>
+<color_bright>Odlewnia Golemów pozwala rekrutować Stalowe Golemy i Magnetyczne Golemy.

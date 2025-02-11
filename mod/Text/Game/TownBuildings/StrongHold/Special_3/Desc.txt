@@ -1,0 +1,3 @@
+﻿Zapewnia Wodzom Talizman, który pozwoli im rzucać zaklęcia na Mapie Przygód. Szamani i Czarownicy będą mogli spontanicznie uczyć się zaklęć Przygody i zyskają +2 obrony (nie kumuluje się z wieloma miastami)<br><br>
+<color=green>Brama Miejska<color_default><br>Pozwala wszystkim bohaterom na Teleportację do tego miasta z dowolnego miejsca na mapie. (wymaga Sala Mocy)<br><br>
+<color=0099FF>Zarządzanie<color_default><br>Przyznaje gubernatorowi tego miasta premię do Siły Czarów +2.

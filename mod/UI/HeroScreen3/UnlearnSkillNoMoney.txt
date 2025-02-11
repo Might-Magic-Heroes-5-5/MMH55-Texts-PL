@@ -1,0 +1,1 @@
+﻿Przepraszam, ale widzę, że nie masz <value=price> złota do zapłaty za wymazanie <value=skill_name> z twojej pamięci!

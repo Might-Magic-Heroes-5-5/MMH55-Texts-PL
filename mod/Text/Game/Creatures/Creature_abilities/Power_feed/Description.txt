@@ -1,0 +1,1 @@
+﻿Ta jednostka może zwiększyć Siłę Czarów bohatera o własną wartość Siły Czarów, ale nie większą niż 2/3 Wiedzy bohatera. Na polu bitwy potrzebna jest inna istota ze zdolnością Złodziej Many, aby zaspokoić duży koszt many. Efekt trwa do końca walki lub do śmierci jednostki i nie kumuluje się.

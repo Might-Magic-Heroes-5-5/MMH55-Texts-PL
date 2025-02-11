@@ -1,0 +1,1 @@
+﻿Klasa: Wódz<br>Specjalizacja: Dowódca Centaurów<br><br><body_bright>Centaury, Centaury Koczownicze i Centaury Grasanty w armii bohatera zyskują +1 do swojego Ataku i Obrony za każde dwa poziomy bohatera, zaczynając od pierwszego poziomu. Ponadto otrzymują +0,25% do ich początkowej inicjatywy za każdy poziom bohatera.<br><br><color=red>Khan<color=orange><br>Zaczyna z Krzyk.

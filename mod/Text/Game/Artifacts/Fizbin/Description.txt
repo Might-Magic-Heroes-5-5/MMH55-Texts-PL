@@ -1,0 +1,4 @@
+﻿-1 Szczęście<br>
+-2 Szczęście (Jeśli niezałożony)<br><br><color=red>
+Przeklęty Artefakt<br><color_default>
+Ten artefakt mocno trzyma się bohatera.

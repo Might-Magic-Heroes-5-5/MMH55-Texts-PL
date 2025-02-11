@@ -1,0 +1,1 @@
+﻿Klasa: Wódz<br>Specjalizacja: Duchowy Łowca<br><br><body_bright>Za każdym razem, gdy oddział wrogich jednostek ginie, zastępuje ją oddział przyjaznych Duchów na czas trwania walki. Liczba Duchów jest równa poziomowi bohatera.<br><br><color=orange>Zaczyna z Lepszy Szał Krwi.

@@ -1,0 +1,1 @@
+﻿Atakując główny cel, istota ta zadaje mu pełne obrażenia i wysyła falę ognia w trzech kierunkach, która zadaje 75% obrażeń innym przeciwnikom w promieniu 2 pól.

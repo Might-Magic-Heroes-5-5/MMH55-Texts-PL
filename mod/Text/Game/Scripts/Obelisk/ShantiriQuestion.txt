@@ -1,0 +1,2 @@
+﻿Udało ci się odczytać wszystkie z <value=total> dysków. Ukazuje się przed tobą droga do Starożytnej Świątyni Shantiri, w której spoczywa potężny artefakt. Czy chcesz otworzyć portal i stawić czoła strażnikom świątynnym?<br><br>(Poziom zagrożenia: Wysoki)<br><br>OK = Wejdź do świątyni.<br>ANULUJ = Zrezygnuj.<br><br>Jeżeli zrezygnujesz z wejścia do świątyni, możesz podjąć wyzwanie później, odwiedzając którykolwiek z dysków.
+

@@ -1,0 +1,1 @@
+﻿Podnosi obrażenia wszystkich przyjaznych jednostek o ilość zależną od Siły Czarów. Jeśli jednostki znajduje się pod wpływem zaklęcia Cierpienie, oba efekty pozostaną aktywne, a o wyniku zadecyduje różnica w sile rzucających.

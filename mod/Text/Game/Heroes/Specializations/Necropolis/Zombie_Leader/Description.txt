@@ -1,0 +1,1 @@
+﻿Władca Zombie: Na początku walki Gotowość Bojowa zostanie wyzerowana dla wszystkich przyjaznych Zombie, Ropiejących Zombie i Gnijących Zombie, powodując ich natychmiastowe działanie. Wszystkie Zombie i ich ulepszenia w armii bohatera zyskują również +1 do swojego Ataku i Obrony za każde dwa poziomy bohatera, zaczynając od pierwszego poziomu.

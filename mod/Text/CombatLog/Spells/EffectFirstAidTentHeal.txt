@@ -1,0 +1,1 @@
+﻿<value=source_color>Namiot Medyka przywraca <value=damage> pkt. życia <value=target> (wskrzeszono <value=dead>).

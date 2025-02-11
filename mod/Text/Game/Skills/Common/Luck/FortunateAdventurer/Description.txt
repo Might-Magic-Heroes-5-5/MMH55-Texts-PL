@@ -1,0 +1,1 @@
+﻿Bohater będzie losowo odnajdował od 5% do 25% więcej zasobów i złota na mapie przygody. Skrzynie ze skarbami zawierają o 25%-50% więcej złota. Przychody z wydobycia są zwiększone o średnio 1 surowiec lub 500 szt. złota tygodniowo na dostawcę.

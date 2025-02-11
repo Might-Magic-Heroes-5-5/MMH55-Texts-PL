@@ -1,0 +1,1 @@
+﻿Tancerz Cienia: Armia bohatera otrzymuje mniej obrażeń od ataków z dystansu, redukcja obrażeń wynosi 15% + 0,5% na poziom bohatera.

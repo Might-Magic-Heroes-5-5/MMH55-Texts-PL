@@ -1,0 +1,1 @@
+﻿Dodaje 4 do wszystkich atrybutów bohatera i daje premię +5 do Ataku i Obrony wszystkim istotom 7. poziomu w armii bohatera oraz zwiększa ich Punkty Życia o 20. Każdego dnia zwiększa armię bohatera o jedną istotę 5. poziomu. 

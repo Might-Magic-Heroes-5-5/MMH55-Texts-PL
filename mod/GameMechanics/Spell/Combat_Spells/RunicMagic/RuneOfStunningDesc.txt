@@ -1,0 +1,1 @@
+﻿Wybrane istoty będą miały szansę wywołać jeden raz efekt Wyładowanie podczas ataku (trafiona wroga istota utraci zgromadzoną gotowość bojową).

@@ -1,0 +1,1 @@
+﻿Nie udało się załadować mapy RMG, ten błąd wystąpił, ponieważ 'RMGmap' jest ustawiony na true w 'sRMGProps' na liście właściwości mapy, podczas gdy mapa nie jest całkowicie niezmodyfikowana, aby naprawić ten problem ustaw go na false w edytorze map i udostępnij innym graczom kopię.

@@ -1,0 +1,1 @@
+﻿Żelazna Dziewica: Strzały Balisty pod dowództwem bohatera mają efekt Kuli Ognia. Obrażenia kuli ognia są równe 24*Moc, gdzie moc jest równa -2,33 + poziom bohatera/3. Umiejętności bohatera (jak Mistrz Ognia) nie są brane pod uwagę.

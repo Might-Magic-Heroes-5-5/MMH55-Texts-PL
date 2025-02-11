@@ -1,0 +1,1 @@
+﻿Klasa: Strażnik Piekieł<br>Specjalizacja: Zwodziciel<br><br><body_bright>Za każdym razem, gdy bohater rzuca zaklęcie Magii Światła na przyjazną jednostkę, istnieje szansa, że dodatkowo zostanie na nią nałożone zaklęcie Prawa Moc. Szansa wynosi 40%+Poziom*1%.<br><br><color=orange>Zaczyna z Magia Światła.

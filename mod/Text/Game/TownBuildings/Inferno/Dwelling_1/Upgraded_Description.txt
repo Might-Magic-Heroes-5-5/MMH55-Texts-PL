@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszone Urodzisko Impów.<br>
+<color_bright>Urodzisko Chowańców pozwala rekrutować Chowańce i Szkodniki.

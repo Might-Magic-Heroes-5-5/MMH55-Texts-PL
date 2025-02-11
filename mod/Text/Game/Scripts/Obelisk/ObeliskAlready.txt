@@ -1,0 +1,1 @@
+﻿<color=yellow>Ten obelisk jest już aktywny. Okryto <value=amount> z <value=total> obelisków.

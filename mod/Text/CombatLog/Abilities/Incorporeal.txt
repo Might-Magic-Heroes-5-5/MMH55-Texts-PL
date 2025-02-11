@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> nie trafia w <value=target> ze względu na jego niematerialność.

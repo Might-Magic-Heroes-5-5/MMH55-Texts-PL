@@ -1,0 +1,3 @@
+﻿+4 Wiedza<br>
+Likwiduje odporność na Kontrolę Umysłu wrogich jednostek.<br><br><color=orange>
+Czarni Rycerze<color_default><br>Spal ten artefakt w świątyni, a przyzwie on oddział Czarnych Rycerzy. Wielkość oddziału jest równa 2*ilość tygodni, które upłynęły.

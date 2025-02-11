@@ -1,0 +1,1 @@
+﻿Wybrany wróg otrzymuje obrażenia równe liczbie jednostek w armii bohatera * 0,8, a wszystkie jednostki z Twierdzy w armii bohatera zyskują dodatkowe punkty Szału. Obrażenia mogą być zmniejszone przez Magiczne Lustro.

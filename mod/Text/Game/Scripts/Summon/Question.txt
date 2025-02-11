@@ -1,0 +1,1 @@
+﻿Czy złożyć w ofierze <value=qty> <value=type>?

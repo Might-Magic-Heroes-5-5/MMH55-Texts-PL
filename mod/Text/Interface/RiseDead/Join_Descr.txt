@@ -1,0 +1,5 @@
+﻿Możesz przywrócić <body_bright><value=count> <value=name><body> do życia.<br>
+
+Będzie to kosztować <body_bright><value=energy_needed> pkt.<body> Energii Mroku.
+
+<body_bright>Ożywić istoty?

@@ -1,0 +1,1 @@
+﻿Klasa: Druid<br>Specjalizacja: Mędrzec<br><br><body_bright>Siła Czarów bohatera zwiększa się o +1 na każde 6 poziomów.<br><br><color=orange>Zaczyna z Magia Zniszczenia.

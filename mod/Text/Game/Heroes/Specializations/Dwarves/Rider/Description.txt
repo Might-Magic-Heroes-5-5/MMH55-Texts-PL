@@ -1,0 +1,1 @@
+﻿Jeździec: Na początku walki Gotowość Bojowa zostanie zresetowana dla wszystkich przyjaznych Jeźdźców Niedźwiedzi, Niedźwiedzich Rycerzy i Niedźwiedzich Wojowników, powodując ich natychmiastowe działanie. Wszyscy Jeźdźcy Niedźwiedzi i ich ulepszenia w armii bohatera zyskują również +1 do swojego Ataku i Obrony za każde dwa poziomy bohatera, zaczynając od pierwszego poziomu.

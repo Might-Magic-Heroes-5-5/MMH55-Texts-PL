@@ -1,0 +1,1 @@
+﻿Podczas ataku, ta istota zadaje obrażenia nie tylko bezpośredniemu celowi, ale także każdej innej jednostce znajdującej się bezpośrednio za nim. Drugorzędne cele otrzymują tylko 50% obrażeń.

@@ -1,0 +1,1 @@
+﻿Teleportuje bohatera i całą jego armię w inne miejsce na mapie przygody. Zasięg wynosi 8 pól i kosztuje 20% maksymalnych punktów ruchu bohatera.<color_default><br>To zaklęcie wymaga 20 poziomu bohatera. Nie jest wymagana żadna zdolność magiczna.

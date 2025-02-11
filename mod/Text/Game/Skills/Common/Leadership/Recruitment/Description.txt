@@ -1,0 +1,1 @@
+﻿Tygodniowy przyrost jednostek Poziomu 1, 2 i 3 w dowolnym posiadanym mieście zwiększa się o kolejno 3, 2 i 1. Aby przyrost ten miał miejsce, bohater musi stacjonować w sojuszniczym mieście w ostatni dzień tygodnia. Ponadto, jeżeli bohater posiada jakikolwiek artefakt z zestawu Regalia Legionu, jego efekty obliczane są tak, jakby Wiedza bohatera była wyższa o 5.

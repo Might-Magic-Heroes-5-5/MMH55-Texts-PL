@@ -1,0 +1,1 @@
+﻿Specjalna zdolność bojowa pozwalająca na wezwanie w walce samej śmierci. Wszystkie wrogie żywe istoty otrzymują -2 do Morale i Szczęścia oraz -10% Inicjatywy. Czas trwania efektu to 2 + 0,1*(poziom bohatera) tur. Gotowość Bojowa bohatera resetuje się do 0.15 po użyciu.

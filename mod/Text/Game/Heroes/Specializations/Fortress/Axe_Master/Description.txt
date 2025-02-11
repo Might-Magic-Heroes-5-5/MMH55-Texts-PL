@@ -1,0 +1,1 @@
+﻿Brzytwa: Wszyscy Włócznicy, Harcownicy i Harpunnicy w armii bohatera zyskują +1 do Ataku i Obrony za każde dwa poziomy bohatera, zaczynając od pierwszego poziomu.

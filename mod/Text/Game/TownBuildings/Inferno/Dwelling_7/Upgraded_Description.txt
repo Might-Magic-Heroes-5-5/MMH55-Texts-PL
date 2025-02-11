@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Świątynia Upadłych.<br>
+<color_bright>Świątynia Wyklętych pozwala rekrutować Arcydiabły i Arcydemony.

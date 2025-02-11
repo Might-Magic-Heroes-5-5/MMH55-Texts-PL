@@ -1,0 +1,1 @@
+﻿<value_name>Dwór Decyzji: <value_value><value=EE_decisionhall> nigdy

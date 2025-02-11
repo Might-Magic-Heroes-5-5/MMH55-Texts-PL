@@ -1,0 +1,1 @@
+﻿Klasa: Wódz<br>Specjalizacja: Ostrze Khana<br><br><body_bright>Siepacze, Oprawcy i Herszty w armii bohatera zyskują +1 do swojego Ataku i Obrony za każde dwa poziomy bohatera, zaczynając od pierwszego poziomu.<br><br><color=orange>Zaczyna z Atak.

@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszone Koszary Obrońców.<br>
+<color_bright>Aula Obrońców pozwala rekrutować Tarczowników i Strażników Gór.

@@ -1,0 +1,1 @@
+﻿Klasa: Czarownik<br>Specjalizacja: Pogromca Płomieni<br><br><body_bright>Efektywna Siła Czarów bohatera jest zwiększona podczas rzucania zaklęć Kuli Ognia lub Wzmocnionej Kuli Ognia. Wzrost ten jest równy poziomowi bohatera/3.<br><br><color=orange>Zaczyna z Mistrz Ognia.

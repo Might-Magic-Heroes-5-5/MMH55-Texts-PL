@@ -1,0 +1,1 @@
+﻿Miecz Sylanny: Bohater zaczyna z Magią Przywoływania (umiejętność, której Mściciele normalnie nie mogą się nauczyć), a wszystkie jednostki Sylwanu pod dowództwem bohatera zadają ulubionym wrogom +0.5% więcej obrażeń za każdy poziom doświadczenia.

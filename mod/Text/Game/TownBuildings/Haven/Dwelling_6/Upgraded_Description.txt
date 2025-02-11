@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Arena Walk.<br>
+<color_bright>Katedra pozwala rekrutować Paladynów i Czempionów.

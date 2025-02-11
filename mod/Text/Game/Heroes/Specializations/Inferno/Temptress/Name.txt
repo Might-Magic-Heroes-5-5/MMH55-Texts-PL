@@ -1,0 +1,1 @@
+﻿Klasa: Strażnik Piekieł<br>Specjalizacja: Kusicielka<br><br><body_bright>Wszystkie Sukkuby, Mistrzynie Sukkubów i Uwodzicielki Sukkubów w armii bohatera zyskują +1 do swojego Ataku i Obrony za każde dwa poziomy bohatera, zaczynając od pierwszego poziomu.<br><br><color=orange>Zaczyna z Lepsza Brama.

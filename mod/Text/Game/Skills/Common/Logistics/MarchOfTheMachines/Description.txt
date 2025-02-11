@@ -1,0 +1,1 @@
+﻿Prędkość wszystkich Golemów w armii bohatera zwiększa się o 2, a Inicjatywa Golemów i Stalowych Golemów również zwiększa się o 2. Ponadto, na poziomie 10, jeden Golem, Stalowy Golem lub Magnetyczny Golem dołączy do armii bohatera każdego dnia (pod warunkiem, że bohater posiada już przynajmniej jedną z tych jednostek w swojej armii).

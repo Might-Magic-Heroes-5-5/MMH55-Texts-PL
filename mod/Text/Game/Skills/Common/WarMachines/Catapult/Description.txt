@@ -1,0 +1,2 @@
+﻿Pozwala na ręczne sterowanie Katapultą, a Katapulta zyskuje jeden dodatkowy strzał. Bohater otrzymuje również premie do ataku dzięki Wozowi z Amunicją, które normalnie przyznawane są tylko jednostkom dystansowym w armii.<br><color_default>
+Przywraca Wóz z Amunicją po bitwie, jeśli został on zniszczony. Obrażenia Katapuly i Wozu z Amunicją są zwiększone trzykrotnie.

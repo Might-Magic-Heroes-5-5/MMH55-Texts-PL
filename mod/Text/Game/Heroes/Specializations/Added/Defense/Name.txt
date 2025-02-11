@@ -1,0 +1,1 @@
+﻿Klasa: Inżynier<br>Specjalizacja: Architekt Wojenny<br><br><body_bright>Bohater otrzymuje +1 Obrony i zwiększa ją o +1 na każde 7 poziomów.<br><br><color=orange>Zaczyna z Witalność.

@@ -1,0 +1,1 @@
+﻿Namiot Pierwszej Pomocy otrzymuje zdolność zadawania obrażeń wrogim stworzeniom. Zadane obrażenia są takie same jak moc leczenia. Ponadto, skuteczność wszystkich artefaktów wskrzeszających (w tym zestawy pomocy) wyposażonych przez bohatera będzie obliczana tak jakby Wiedza lub Obrona bohatera była wyższa o 10.

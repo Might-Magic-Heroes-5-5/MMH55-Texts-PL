@@ -1,0 +1,1 @@
+﻿Za każde pole przebyte przez to stworzenie przed atakiem Obrona celu jest redukowana o 7,5% (aż do wartości zero).

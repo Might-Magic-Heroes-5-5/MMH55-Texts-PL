@@ -1,0 +1,1 @@
+﻿Przyznaje bohaterowi 5000 pkt. doświadczenia pomnożone przez liczbę Śpiących Strażników, których odwiedził bohater.

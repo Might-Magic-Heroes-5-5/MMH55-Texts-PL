@@ -1,0 +1,1 @@
+﻿<color=yellow>Poświęciłeś kilku uchodźców, a demony przyłączyły się z zachwytu! (+<value=num> <value=upgtype>)

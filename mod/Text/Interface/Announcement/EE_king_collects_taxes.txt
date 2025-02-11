@@ -1,0 +1,1 @@
+﻿Król zebrał <value=number> złota z podatku dochodowego.

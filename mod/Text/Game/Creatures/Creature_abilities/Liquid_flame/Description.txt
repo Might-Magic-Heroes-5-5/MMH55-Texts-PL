@@ -1,0 +1,1 @@
+﻿Ta istota atakując zadaje pełne obrażenia nie tylko swojemu celowi, ale również jakiejkolwiek innej jednostce wroga ustawionej bezpośrednio za nią, a także pozostawia ogniste opary na dwóch polach w kierunku ataku. Obrażenia od Płynnego Ognia są równe Ilości istot × 10 dowolnemu celowi (również przyjaznemu) i efekt ściany ognia utrzymuje się przez 2 tury.

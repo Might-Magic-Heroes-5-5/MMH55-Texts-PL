@@ -1,0 +1,1 @@
+﻿<body_bright><center>Koło Umiejętności<br><br><color_default>Wyświetla szczegółowy schemat Talentów i Zdolności dostępnych dla każdej klasy bohatera wraz z atrybutami klasy bohatera i wyjaśnieniem wszystkich Talentów i Zdolności w MMH5.5.

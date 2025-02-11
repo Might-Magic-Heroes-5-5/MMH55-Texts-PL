@@ -1,0 +1,1 @@
+﻿Poziom mistrzostwa wszystkich zaklęć Magii Zniszczenia, rzucanych przez przeciwnika, jest obniżony o 2 (Ekspercki do Zaawansowanego, itd.). Również Siła Czarów zostaje obniżona o 15% za każdy poziom mistrzostwa kończący się w efekcie poniżej poziomu żadnego.

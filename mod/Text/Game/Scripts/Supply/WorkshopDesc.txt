@@ -1,0 +1,1 @@
+﻿Sprzedaje Machiny Wojenne i dostarcza graczowi losową (3-7) ilość drewna tygodniowo. 

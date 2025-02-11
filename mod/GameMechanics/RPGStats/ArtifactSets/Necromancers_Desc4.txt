@@ -1,0 +1,1 @@
+﻿Zmniejsza prędkość istot przeciwnika o 1. Wrogie istoty, które nie przejdą pozytywnie testu morale otrzymują karę -20% do Ataku i Obrony do początku następnej tury. Rycerze Śmierci, Żniwiarze i Nekromanci otrzymują 4 do Siły Czarów.

@@ -1,0 +1,3 @@
+﻿<color_default>Ulepszony Ratusz.<br>
+<color_bright>Kapitol dostarcza królestwu 4000 szt. złota dziennie.<br><br>
+<color=0099FF>Zarządzanie<color_default><br>Gubernator miasta otrzymuje dodatkowe 100 pkt. doświadczenia dziennie.

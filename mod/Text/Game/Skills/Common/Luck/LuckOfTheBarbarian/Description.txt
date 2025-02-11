@@ -1,0 +1,1 @@
+﻿Wszystkie Istoty w armii bohatera otrzymują dodatkowo 40% odporności na magię, ale tylko tak długo, jak szczęście bohatera jest pozytywne.

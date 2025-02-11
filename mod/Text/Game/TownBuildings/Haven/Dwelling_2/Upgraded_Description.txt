@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Wieża Łuczników.<br>
+<color_bright>Wieża Kuszników pozwala rekrutować Strzelców Wyborowych i Kuszników.

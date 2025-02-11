@@ -1,0 +1,3 @@
+﻿-1 Morale dla wrogich istot<br>
+-1 Sczęście dla wrogich istot<br><br>
+Artefakty nie mogą zostać skradzione noszącemu ten płaszcz, nawet po porażce.

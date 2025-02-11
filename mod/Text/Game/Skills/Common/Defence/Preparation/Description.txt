@@ -1,0 +1,1 @@
+﻿Bohater starannie przygotowuje pozycję swojej armii na polu bitwy. Wszystkie przyjazne jednostki podczas wykonania rozkazu Obrona dokonują kontrataku jeszcze przed atakiem (ale raz jak zwykle) na każdym wrogu, który ich atakuje, ale nie jeśli wróg posiada zdolność "Brak Kontrataku Wroga".

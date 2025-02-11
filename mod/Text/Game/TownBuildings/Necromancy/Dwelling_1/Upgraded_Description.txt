@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszony Cmentarz.<br>
+<color_bright>Cmentarzysko pozwala rekrutować Kościanych Łuczników i Kościanych Wojowników.

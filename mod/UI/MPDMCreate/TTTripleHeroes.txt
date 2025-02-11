@@ -1,0 +1,1 @@
+﻿Tryb Szachów rozgrywa się w formacie 3x3, gdzie każdy z graczy dysponuje trzema armiami i może się między nimi przełączać podczas walki.

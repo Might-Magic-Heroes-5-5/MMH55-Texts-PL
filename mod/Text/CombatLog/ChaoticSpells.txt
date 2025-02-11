@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> zmniejsza koszt rzucenia zaklęcia za pomocą zdolności Kapryśna Mana o <value=damage>.

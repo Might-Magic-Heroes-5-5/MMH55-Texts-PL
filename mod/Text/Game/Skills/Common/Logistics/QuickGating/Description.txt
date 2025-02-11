@@ -1,0 +1,1 @@
+﻿Istoty z frakcji Inferno stracą tylko 50% swojej normalnej gotowości bojowej (ATB) po użyciu zdolności "Brama" (zamiast 75%).

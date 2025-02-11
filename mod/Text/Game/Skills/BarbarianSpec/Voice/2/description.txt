@@ -1,0 +1,1 @@
+﻿Użycie Okrzyków przyspiesza następną turę bohatera o 22% ale morale jest zmniejszone o -2, jeśli bohater posiada zdolność Empatia.<br><color_default>Podstawowa inicjatywa bohatera wynosi 10 i jest zwiększona do równowartości 12.85, dopóki używane są Okrzyki Wojenne.

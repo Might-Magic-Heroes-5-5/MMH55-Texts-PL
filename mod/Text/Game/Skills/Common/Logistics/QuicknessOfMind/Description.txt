@@ -1,0 +1,1 @@
+﻿Gotowość Bojowa (ATB) bohatera zwiększa się o 0,2 wartości początkowej na początku każdej walki, co pozwala mu na wcześniejsze działanie.

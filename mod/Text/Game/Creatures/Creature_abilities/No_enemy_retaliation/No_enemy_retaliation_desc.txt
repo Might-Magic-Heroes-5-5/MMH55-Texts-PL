@@ -1,0 +1,1 @@
+﻿Ta istota nigdy nie aktywuje kontrataku atakowanych wrogich istot.

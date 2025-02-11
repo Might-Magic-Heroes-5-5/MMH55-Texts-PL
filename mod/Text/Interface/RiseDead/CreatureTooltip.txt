@@ -1,0 +1,1 @@
+﻿<h4>Koszt ożywienia tej istoty: <body_bright><value=needed_energy> punktów<h4> Energii Mroku.

@@ -1,0 +1,6 @@
+﻿+2 Do wszystkich atrybutów<br><br><color=purple>
++1 Do wszystkich atrybutów (2/4)<br>
++2 Do wszystkich atrybutów (4/4)<br>
+*Premia jest stosowana po zamknięciu ekranu ekwipunku.<br><br><color=orange>
+Zadanie<color_default><br>
+Przynieś wszystkie 4 części Pancerza Zapomnianego Bohatera do Kupca Artefaktów, a otrzymasz unikalną nagrodę.

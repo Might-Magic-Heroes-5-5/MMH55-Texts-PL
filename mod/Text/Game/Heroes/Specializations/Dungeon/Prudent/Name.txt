@@ -1,0 +1,1 @@
+﻿Klasa: Czarnoksiężnik<br>Specjalizacja: Dręczyciel<br><br><body_bright>Jednostki wroga otrzymują karę do Inicjatywy, zależną od poziomu bohatera. Inicjatywa wroga jest zmniejszona o 2% + 0,2% za poziom bohatera.<br><br><color=orange>Zaczyna z Magia Zniszczenia.

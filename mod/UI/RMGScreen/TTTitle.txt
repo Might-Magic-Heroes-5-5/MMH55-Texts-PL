@@ -1,0 +1,1 @@
+﻿UWAGA! Używaj tylko "MMH55_Utility.exe" lub "MMH55_Editor.exe" do generowania map losowych, ale korzystaj z "MMH55.exe" lub "MMH55_64.exe" w celu ich rozgrywania. Jeśli nie możesz użyć ustawień Zasoby/Doświadczenie, oznacza to, że używasz nieodpowiedniego klientu gry do tworzenia map (ale odpowiedniego do grania na nich).

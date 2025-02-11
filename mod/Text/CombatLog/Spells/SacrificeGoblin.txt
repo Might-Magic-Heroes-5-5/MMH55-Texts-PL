@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> składa <value=target> w ofierze i zyskuje <value=damage> pkt. many.

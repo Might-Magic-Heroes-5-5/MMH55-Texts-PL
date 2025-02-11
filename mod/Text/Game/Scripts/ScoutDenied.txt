@@ -1,0 +1,7 @@
+﻿Nie ma możliwości wysłania zwiadowców do tego obiektu, czy chcesz zaatakować strażników?
+-------------------------------------------------------------------------------
+
+OK = Atak
+Anuluj = Zostaw
+
+-------------------------------------------------------------------------------

@@ -1,0 +1,1 @@
+﻿Obrona wszystkich istot Przystani, Sylwan i Akademii jest zmniejszona o 10% podczas walki.

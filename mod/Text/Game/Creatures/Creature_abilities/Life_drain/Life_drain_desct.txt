@@ -1,0 +1,1 @@
+﻿Atakując wrogie jednostki, jednostka może wyssać 40% ich zdrowia i wykorzystać je do odbudowy własnego, a nawet do wskrzeszenia niektórych zabitych jednostek.

@@ -1,0 +1,8 @@
+﻿Dzień 1: +3 do Ataku
+Dzień 2: +1 Morale
+Dzień 3: +3 Obrony
+Dzień 4: +1 Szczęścia
+Dzień 5: +1 Inicjatywy
+Dzień 6: +2 Ataku i Obrony
+Dzień 7: +1 Szybkości
+Wszystkie dni: +400 do ruchu

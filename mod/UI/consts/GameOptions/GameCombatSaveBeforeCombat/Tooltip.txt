@@ -1,0 +1,1 @@
+﻿Gra będzie zapisywać się automatycznie przed każdą walką

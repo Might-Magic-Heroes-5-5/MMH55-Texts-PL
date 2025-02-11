@@ -1,0 +1,1 @@
+﻿Tryb szachowy w formacie 3x3, gdzie każdy z graczy posiada trzy armie i może się między nimi przełączać podczas walki. 

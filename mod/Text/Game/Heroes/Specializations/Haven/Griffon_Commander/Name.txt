@@ -1,0 +1,1 @@
+﻿Klasa: Rycerz<br>Specjalizacja: Treser Gryfów<br><br><body_bright>Wszystkie Gryfy, Gryfy Królewskie i Gryfy Bojowe w armii bohatera zyskują +1 do swojego Ataku i Obrony za każde dwa poziomy bohatera, zaczynając od pierwszego poziomu. Nieulepszone Gryfy otrzymują umiejętność Pikowanie.<br><br><color=orange>Zaczyna z Lepsza Obrona.

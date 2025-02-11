@@ -1,0 +1,2 @@
+﻿Bohater zyskuje 50 punktów ruchu po każdej walce na lądzie<br><color_default>
+Bohater nie traci także punktów ruchu za walkę. Ta część premii nie łączy się z umiejętnością Włóczęga ani artefaktami.

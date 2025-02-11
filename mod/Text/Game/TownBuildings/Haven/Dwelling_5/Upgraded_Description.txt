@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszony Klasztor.<br>
+<color_bright>Katedra umożliwia rekrutowanie Inkwizytorów i Zelotów.

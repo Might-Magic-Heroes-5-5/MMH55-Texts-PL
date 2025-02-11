@@ -1,0 +1,1 @@
+﻿Zadaje poważne obrażenia od ognia wszystkim stworzeniom i machinom wojennym na polu bitwy oraz dodatkowe miejscowe obrażenia fizyczne w miejscu uderzenia.<br><color_default>Formuła dla dodatkowych obrażeń fizycznych jest taka sama jak w przypadku Wzmocnionej Błyskawicy.

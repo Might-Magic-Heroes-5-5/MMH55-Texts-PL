@@ -1,0 +1,1 @@
+﻿Dowódca Centaurów: Centaury, Centaury Koczowników i Centaurów Grasantów w armii bohatera zyskują +1 do swojego Ataku i Obrony za każde dwa poziomy bohatera, zaczynając od pierwszego poziomu. Ponadto otrzymują +0,25% do ich początkowej inicjatywy za każdy poziom bohatera.

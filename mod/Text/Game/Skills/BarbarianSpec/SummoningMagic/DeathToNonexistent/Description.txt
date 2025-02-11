@@ -1,0 +1,1 @@
+﻿Atak bohatera zwiększa się o 4, a wszystkie jednostki w jego armii zadają podwójne obrażenia przyzwanym istotom.

@@ -1,0 +1,1 @@
+﻿<color_default>Odbij <value=damage>% obrażeń od wody zadawanych atakującym w walce wręcz

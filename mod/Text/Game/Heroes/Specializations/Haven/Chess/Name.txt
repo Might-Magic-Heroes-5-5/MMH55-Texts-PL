@@ -1,0 +1,1 @@
+﻿Klasa: Rycerz<br>Specializacja: Szachowy Rycerz<br><br><body_bright>Bohater zaczyna z podstawową wiedzą na temat Ataku, Obrony i wszystkich szkół magii.

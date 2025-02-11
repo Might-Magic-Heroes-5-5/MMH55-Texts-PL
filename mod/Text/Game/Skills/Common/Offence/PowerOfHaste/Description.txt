@@ -1,0 +1,1 @@
+﻿Bohater przyswaja zaklęcie Grupowe Przyśpieszenie na Poziomie Eksperckim.<br><color_default>Po użyciu dowolnego zaklęcia grupowego gotowość bojowa bohatera spada do wartości 0,24.

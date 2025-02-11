@@ -1,0 +1,1 @@
+﻿Podnosi minimalne obrażenia wszystkich przyjaznych jednostek w kierunku ich maksymalnych obrażeń. Jeśli jednostki są pod wpływem zaklęcia Osłabienie, zostaną oczyszczone. Efekt nie może przekroczyć 100%.

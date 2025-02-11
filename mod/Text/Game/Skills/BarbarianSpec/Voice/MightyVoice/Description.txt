@@ -1,0 +1,1 @@
+﻿Kiedy efekt z Okrzyku jest obliczany, bohater jest traktowany jako wyższy o 10 poziomów.

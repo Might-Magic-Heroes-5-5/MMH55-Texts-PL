@@ -1,0 +1,1 @@
+﻿Jednostki znajdujące się pod kontrolą bohatera mają 66% szans na zadanie w trakcie ataku dodatkowych obrażeń od Ognia. Za każdym razem gdy ten efekt zadziała, Piekielny Ogień zada 7 + 7 × Siła Czarów obrażeń od Ognia i zużyje 2 pkt. many bohatera.

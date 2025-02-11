@@ -1,0 +1,1 @@
+﻿Jednostka atakuje równocześnie przeciwników rozmieszczonych na ośmiu sąsiednich polach. Wybrane stworzenie z armii wroga otrzymuje normalne obrażenia, a wszystkie pozostałe połowę normalnych obrażeń.

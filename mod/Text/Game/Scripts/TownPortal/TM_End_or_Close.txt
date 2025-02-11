@@ -1,0 +1,29 @@
+﻿-------------------------------------------------------------------------------
+NASTĘPNA CZYNNOŚĆ
+-------------------------------------------------------------------------------
+
+OK = Zrezygnuj z zarządzania.
+Anuluj = Zamknij to okno.
+
+-------------------------------------------------------------------------------
+INFORMACJE O BOHATERZE
+-------------------------------------------------------------------------------
+
+Rola boatera: <value=occupation>
+Punkty Ruchu: <value=movement>
+Dzienna Regeneracja Many: <value=mana>
+Dzienny dodatkowy przychód złota: <value=estates>
+Kryształy Smoczej Krwi: <value=dragonblood>
+Tygodniowy przyrost istot z artefaktów: T<value=artifactsummons_tier>:<value=artifactsummons> 
+Tygodniowe Przywołanie Istot: <value=summons>
+Tygodniowy przyrost (Zarządzanie): T1:<value=tier1> T2:<value=tier2> T3:<value=tier3> T4:<value=tier4> T5:<value=tier5> T6:<value=tier6> T7:<value=tier7>
+
+-------------------------------------------------------------------------------
+USTAWIENIA MAPY
+-------------------------------------------------------------------------------
+
+Zarządzanie: <value=governance>
+Przebudowa Miast: <value=conversion>
+Maksymalna ilość miast na frakcję: <value=maxtowns>
+Maksymalna ilość siedlisk na frakcję: T1:<value=t1d> T2:<value=t2d> T3:<value=t3d> 
+Maksymalna ilość posterunków na frakcję: <value=t4d>

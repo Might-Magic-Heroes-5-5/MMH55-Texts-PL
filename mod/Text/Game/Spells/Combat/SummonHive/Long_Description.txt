@@ -1,0 +1,1 @@
+﻿Tworzy gniazdo os na wybranym polu. Gniazdo będzie atakować wrogie stworzenia rojami os na poziomie zaawansowanym do końca walki lub do momentu, gdy gniazdo zostanie zaatakowane i zniszczony (Gniazdo nie będzie atakować Nieumarłych, Żywiołaków i Jednostek Mechanicznych). Gniazdo uniemożliwia sąsiednim wrogim strzelcom ostrzał.

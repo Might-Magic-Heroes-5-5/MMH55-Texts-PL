@@ -1,0 +1,2 @@
+﻿Czy chcesz teleportować bohatera do tego miasta?<br><br>
+<color=orange>(W garnizonie miasta nie może znajdować się inny bohater. W innym wypadku teleportacja nie powiedzie się, a bohater straci wszystkie punkty ruchu i 25 pkt. many.)

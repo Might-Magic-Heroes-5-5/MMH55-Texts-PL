@@ -1,0 +1,1 @@
+﻿Wybraniec Chaosu: Szczęście wszystkich oddziałów bohatera zostaje zwiększone o 1 na początku każdej bitwy, a na poziomie 20 bohater otrzymuje dodatkowo +1 Szczęście na stałe. Ponadto, wrogi bohater nie może korzystać w walce ze zdolności Taktyka.

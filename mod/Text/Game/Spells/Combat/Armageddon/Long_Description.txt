@@ -1,0 +1,1 @@
+﻿Zadaje obrażenia od Ognia wszystkim stworzeniom i machinom wojennym na polu bitwy oraz dodatkowe obrażenia fizyczne istotom w miejscu uderzenia.<br><color_default>Formuła dla dodatkowych obrażeń fizycznych jest taka sama jak w przypadku zaklęcia Błyskawica.

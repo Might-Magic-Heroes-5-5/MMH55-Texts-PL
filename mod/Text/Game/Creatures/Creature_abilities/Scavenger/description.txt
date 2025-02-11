@@ -1,0 +1,1 @@
+﻿(Umiejętność Specjalna) Ta istota może pożreć zwłoki wrogich istot leżące na polu bitwy w jej zasięgu ruchu, przywracając sobie w ten sposób Punkty Życia (ze wskrzeszeniem). Odzyskane Punkty Życia są równe 20% całkowitego zdrowia utraconego przez poległą istotę.

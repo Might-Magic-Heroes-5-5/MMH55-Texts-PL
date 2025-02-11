@@ -1,0 +1,1 @@
+﻿Bohater przyswaja zaklęcie Cierpienie, a każdy zwykły jego atak wywołuje na celu efekt zaklęcia Cierpienie, tak jakby było one rzucone przez bohatera.

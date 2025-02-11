@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> kradnie <value=damage> pkt. many <value=target>.

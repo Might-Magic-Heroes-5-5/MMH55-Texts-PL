@@ -1,0 +1,2 @@
+﻿Obrażenia: <color=green><value=damage><color=white><br>
+Zabici: <color=red><value=kills><color=white>

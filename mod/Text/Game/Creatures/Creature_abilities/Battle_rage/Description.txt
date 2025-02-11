@@ -1,0 +1,1 @@
+﻿Gdy ta istota otrzyma obrażenia, jej Atak zwiększa się tymczasowo o 8, a Inicjatywa o 2. Efekt utrzymuje się przez 2 tury.

@@ -1,0 +1,1 @@
+﻿Ta istota zawsze atakuje dwa razy - raz przed kontratakiem i drugi raz po kontrataku przeciwnika (lub sukcesywnie dwa razy, jeśli nie posiada kontrataku).

@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszenie Targowiska<br>
+<color_bright>Silos zasobów zapewnia ci dodatkowy +1 klejnot każdego dnia.

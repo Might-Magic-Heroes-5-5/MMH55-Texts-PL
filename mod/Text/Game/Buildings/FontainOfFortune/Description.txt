@@ -1,0 +1,6 @@
+﻿+33% szans na +3 Szczęście
++33% szans na +2 Szczęście
++33% szans na  -1 Szczęście
++100% szans na 33 pkt. many
+
+<color_default>Niektóre artefakty mogą zostać tutaj rozpuszczone.

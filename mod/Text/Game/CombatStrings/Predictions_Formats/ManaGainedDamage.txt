@@ -1,0 +1,1 @@
+﻿Odzyskasz <value=mana_amount> pkt. many. Obrażenia: <value=damage> (Szansa na zabicie: <value=kills>).

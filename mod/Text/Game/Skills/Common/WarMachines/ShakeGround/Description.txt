@@ -1,0 +1,2 @@
+﻿Bohater nabywa zaklęcie Trzęsienie Ziemi i możliwość rzucania go z efektem wstrząsu, zadając obrażenia i ogłuszając wszystkie stworzenia znajdujące się za murem twierdzy. Zadawane obrażenia to 120+12*Moc. Efekt ogłuszenia to zmniejszenie Gotowości Bojowej o 0,1. Uderzane są również przyjazne oddziały.<br><br><color=orange>Uczeń Sylanny<color_default><br>
+Bohater zostaje wyznawcą Smoczego Boga Ziemi i odkrywa 10 Kryształów Smoczej Krwi.

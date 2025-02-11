@@ -1,0 +1,11 @@
+﻿Szybkie Porady:
+
+-Do generowania map używaj tylko MMH55_Utility.exe i MMH55_Editor.exe.
+-Od RC15 wszystkie ustawienia doświadczenia mogą być użyte.
+-Od RC15 siła potworów jest zrebalansowana (średni=stary trudny)
+-Trzymaj się wskazanego rozmiaru mapy i liczby graczy z szablonu.
+-MMH55_utility.exe wymusi większy rozmiar dla map wodnych, działa to dobrze.
+-MapyARMG nie będą działać w LAN lub Hotseat, jeśli skrypty nie są aktywowane.
+-Użyj narzędzia Mapmixer do aktywacji skryptów.
+-Przetwarzaj mapy wodne za pomocą mapmixera, w przeciwnym razie mapy wodne będą bardzo nudne.
+-Wizualizacje dla wszystkich szablonów można znaleźć w instrukcji .pdf.

@@ -1,0 +1,1 @@
+﻿Magia Siedmiu Miast: Wiedza bohatera zwiększa się o +1 na każde 7 poziomów, dodatkowo doświadczenie zdobyte po walkce zwiększa się o 2% na poziom bohatera.

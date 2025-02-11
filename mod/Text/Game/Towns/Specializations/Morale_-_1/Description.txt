@@ -1,0 +1,1 @@
+﻿Wszystkie istoty atakujące to miasto otrzymują karę -1 do Morale.

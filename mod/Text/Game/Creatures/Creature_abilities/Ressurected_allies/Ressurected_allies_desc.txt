@@ -1,0 +1,1 @@
+﻿(Umiejętność Specjalna) Istota ta może wskrzesić sojuszniczą istotę, która zginęła w trakcie walki, pod warunkiem, że w miejscu jej śmierci nie znajdują się obecnie inne jednostki. Liczba Punktów Życia odnowionych za pomocą Wskrzeszenia to Ilość istot × 80.

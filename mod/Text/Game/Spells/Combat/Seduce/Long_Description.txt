@@ -1,0 +1,1 @@
+﻿Pozwala kontrolować wrogie oddziały, które nie są całkowicie odporne na Kontrolę Umysłu. Czas trwania kontroli wynosi 2 tury, jeśli oddział jest równie cenny (w doświadczeniu), ale jest redukowany lub zwiększany maksymalnie do 4 tur w zależności od różnicy wartości sił oddziałów kontrolującego i kontrolowanego. Sukkub nie może wykonywać żadnych akcji na czas trwania uwodzenia.

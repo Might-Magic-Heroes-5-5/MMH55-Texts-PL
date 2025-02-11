@@ -1,0 +1,1 @@
+﻿Ponury Żniwiarz: Bohater otrzymuje +2 Ataku, a na początku każdego tygodnia dodatkowe Zjawy, Upiory i Banshee będą dostępne do rekrutacji we wszystkich posiadanych miastach Nekropolii. Ilość ta jest równa 0,08*poziomu bohatera. Dodatkowe jednostki nie dołączą przed poziomem 7 bohatera.

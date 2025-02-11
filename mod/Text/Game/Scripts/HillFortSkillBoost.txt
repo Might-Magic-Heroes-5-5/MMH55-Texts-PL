@@ -1,0 +1,4 @@
+﻿Poligony ulepszające istoty zostały zamknięte na stałe, ale Kwatermistrz nadal jest skłonny udzielić ci kilku zaawansowanych szkoleń bojowych.
+ 
+OK = +2 Atak
+Anuluj = +2 Obrona

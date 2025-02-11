@@ -1,0 +1,1 @@
+﻿Ta jednostka przywraca zdrowie w ilości równej 15% wielkości oddziału. Ilość ta przypada na bitwę, a nie na turę. Gdy całkowita ilość zostanie wykorzystana, jednostka przestaje się regenerować.

@@ -1,0 +1,1 @@
+﻿<color=yellow>Siła Czarów bohatera zwiększa się o <value=param>.

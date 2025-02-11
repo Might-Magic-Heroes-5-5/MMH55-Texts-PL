@@ -1,0 +1,1 @@
+﻿Atak bohatera zwiększa obrażenia zadawane przez istoty w jego armii oraz Balistę poprzez zwiększenie ich współczynnika Ataku.

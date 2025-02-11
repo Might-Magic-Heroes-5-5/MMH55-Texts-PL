@@ -1,0 +1,1 @@
+﻿Podróżnik: Punkty ruchu bohatera są zwiększane o 1% za każde dwa poziomy bohatera. Bohater zyskuje także +250 doświadczenia po każdej bitwie.

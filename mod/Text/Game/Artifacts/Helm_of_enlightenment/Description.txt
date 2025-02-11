@@ -1,0 +1,4 @@
+﻿+3 Wiedza<br>
++10% Zdobywanego Doświadczenia<br><br><color=purple>
+Szaty Oświecenia<color_default><br>
+Bohater otrzymuje codziennie pewną ilość doświadczenia za noszenie. Ilość ta jest równa ilości dni które upłynęły * 10.

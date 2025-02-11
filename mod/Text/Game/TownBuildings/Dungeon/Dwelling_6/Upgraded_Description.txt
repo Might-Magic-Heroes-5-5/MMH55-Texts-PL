@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Aula Cienia.<br>
+<color_bright>Pałac Cienia pozwala rekrutować Matrony Cienia i Damy Cienia.

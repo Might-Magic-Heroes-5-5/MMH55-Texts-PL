@@ -1,0 +1,1 @@
+﻿Bohater przyswaja zaklęcie Kula Ognia, a czary oparte na żywiole Ognia wyniszczają pancerz wrogich istot (Kula Ognia, Ściana Ognia i Armageddon).<br><color_default>Jednostki trafione tymi zaklęciami otrzymują karę -50% do Obrony, która trwa 1 turę i nie kumuluje się.

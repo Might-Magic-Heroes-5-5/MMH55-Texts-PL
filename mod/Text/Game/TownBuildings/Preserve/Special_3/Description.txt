@@ -1,0 +1,1 @@
+﻿Przyznaje Druidom +1 Siły Czarów (kumuluje się z wieloma miastami, nie wymaga wizyty w mieście) i przyznaje +2 Szczęścia dla każdej armii broniącej tego miasta.

@@ -1,0 +1,1 @@
+﻿<value=source_color>Śmiercionośny Miecz zadaje <value=damage> pkt. obrażeń <value=target> (zabito <value=dead>).

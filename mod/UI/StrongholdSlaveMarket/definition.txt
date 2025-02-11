@@ -1,0 +1,1 @@
+﻿<body>Targ Niewolników pozwala na sprzedaż jednostek za złoto. Cena sprzedaży zależy od liczby targowisk w królestwie.

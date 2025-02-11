@@ -1,0 +1,1 @@
+﻿Klasa: Piastun Ognia<br>Specjalizacja: Mistyk<br><br><body_bright>Bohater zaczyna z +1 Szczęście oraz traci mniej punktów ruchu podczas korzystania z zdolności Tajemny Rytuał. Koszt ruchu jest zmniejszony o 2 za każdy odzyskany punkt many.<br><br><color=orange>Zaczyna z Tajemny Rytuał.

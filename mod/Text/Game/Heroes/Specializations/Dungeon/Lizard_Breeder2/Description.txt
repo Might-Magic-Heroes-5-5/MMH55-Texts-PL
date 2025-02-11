@@ -1,0 +1,1 @@
+﻿Hodowca Jaszczurów: Oddział Mrocznych Jeźdźców dołącza do armii bohatera na początku bitwy, jego ilość jest równa 25% Mrocznych Jeźdźców, Posępnych Jeźdźców i Czarnych Jeźdźców, które bohater posiada już w swojej armii. Ponadto, obrażenia zdolności Jaszczurze Ukąszenie zostają zwiększone do 1,20 + 0,01 * poziom bohatera (zamiast 0,5).

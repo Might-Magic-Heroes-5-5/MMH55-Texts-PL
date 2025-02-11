@@ -1,0 +1,1 @@
+﻿Ta istota zadaje obrażenia wszystkim wrogom, którzy stoją w pobliżu celu ataku, a obrażenia dzielone są po równo między sąsiadującymi istotami. Efekt nie działa w przypadku kontrataku.

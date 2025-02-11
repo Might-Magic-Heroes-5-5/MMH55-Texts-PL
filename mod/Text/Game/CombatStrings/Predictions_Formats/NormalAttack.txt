@@ -1,0 +1,1 @@
+﻿Atak. Obrażenia: <value=damage> (Szansa na zabicie: <value=kills>). <value=retaliate>

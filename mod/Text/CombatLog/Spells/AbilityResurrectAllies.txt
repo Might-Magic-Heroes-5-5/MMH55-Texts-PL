@@ -1,0 +1,1 @@
+﻿<value=source_color>(Wskrzeszenie Sojuszników) Archanioł przywraca <value=target> do życia  (wskrzeszono <value=dead>).

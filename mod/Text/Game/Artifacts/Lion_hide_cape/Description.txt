@@ -1,0 +1,5 @@
+﻿+2 Wiedza<br>
++2 Morale<br><br><color=purple>
+Duch Lwa<color_default><br>
++6 Atak (3/3)<br>
+*Premia jest stosowana po zamknięciu ekranu ekwipunku.

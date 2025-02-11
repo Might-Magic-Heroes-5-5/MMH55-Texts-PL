@@ -1,0 +1,1 @@
+﻿Jeśli liczba tych stworzeń spadnie poniżej 20% ich pierwotnej liczby, zmieniają stronę po której walczą.

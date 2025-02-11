@@ -1,0 +1,1 @@
+﻿Twój bohater nie może przyswoić zaklęcia <value=spell>.<br><br>Wymagana zdolność: <value=skill>.

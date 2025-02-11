@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszony Posterunek Centaurów.<br>
+<color_bright>Obóz Centaurów pozwala rekrutować Centaurów Koczowników i Centaurów Grasantów.

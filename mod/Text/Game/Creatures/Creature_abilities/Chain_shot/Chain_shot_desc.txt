@@ -1,0 +1,1 @@
+﻿Ta istota zadaje obrażenia wybranemu celowi i trzem innym celom, które znajdują się najbliżej wybranego. Każdy sukcesywnie trafiony wróg otrzymuje połowę poprzednio zadanych obrażeń. Rykoszet nie działa na istoty Demoniczne.

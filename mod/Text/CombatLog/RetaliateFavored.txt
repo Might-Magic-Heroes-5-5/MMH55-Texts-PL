@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> kontratakuje w ulubionego wroga (<value=target>), zadając <value=font><value=damage> pkt. obrażeń (zabito <value=dead>).

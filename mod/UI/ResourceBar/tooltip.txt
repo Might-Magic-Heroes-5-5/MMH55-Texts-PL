@@ -1,0 +1,2 @@
+﻿<center><tooltip_default><tooltip_title><value=name><tooltip_default><value=strings>
+<br><br><color_default>Użyj zdolności Zarządzanie miastem, aby sprawdzić dodatkowe dochody dla poszczególnych bohaterów.

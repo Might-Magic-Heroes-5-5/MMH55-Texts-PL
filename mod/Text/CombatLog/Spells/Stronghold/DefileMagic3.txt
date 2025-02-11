@@ -1,0 +1,1 @@
+﻿<value=target_color>Plugawienie Magii: <value=target> zużył(a) dwa razy więcej many do rzucenia zaklęcia.

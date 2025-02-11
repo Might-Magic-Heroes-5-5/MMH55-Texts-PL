@@ -1,0 +1,1 @@
+﻿Klasa: Zaklinacz<br>Specjalizacja: Katalizator<br><br><body_bright>Koszt many zaklęć wzmocnionych zmniejsza się o 20% + 0,25% na poziom bohatera.<br><br><color=orange>Zaczyna z Wzmocnione Zaklęcia.

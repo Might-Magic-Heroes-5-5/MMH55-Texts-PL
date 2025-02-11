@@ -1,0 +1,1 @@
+﻿Raz na walkę ta jednostka może uzdrowić i wskrzesić siebie i docelowy oddział Drzewców. Docelowy oddział otrzymuje 5 pkt. życia na Nimfy, a oddział Nimf jest w zamian leczony o 30 pkt. życia na Drzewca.

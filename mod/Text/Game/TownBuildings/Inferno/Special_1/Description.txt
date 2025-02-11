@@ -1,0 +1,1 @@
+﻿Zwiększa się o 5% liczba jednostek przywołanych ze zdolności Brama (kumuluje się z wieloma miastami)<br><br>Władcy Demonów otrzymują +1 Obrony, a Czarownicy +1 Wiedzy (kumuluje się z wieloma miastami i nie wymaga wizyty w mieście).<br><br>Wrodzy bohaterowie otrzymują -2 do szczęścia przy oblężeniu miasta.

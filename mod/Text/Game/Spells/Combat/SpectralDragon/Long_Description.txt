@@ -1,0 +1,1 @@
+﻿Przywołuje na pole bitwy Widmowego Smoka, który walczy po stronie bohatera. Tylko jeden smok może być przywołany w tym samym czasie. Atak, Obrona, PŻ, Inicjatywa i Szybkość Smoka zależą od Siły Czarów i poziomu bohatera. Gotowość Bojowa bohatera jest resetowana do 0,33 po użyciu.

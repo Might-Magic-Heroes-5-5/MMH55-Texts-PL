@@ -1,0 +1,1 @@
+﻿<value_name>Zniżka dla SI: <value_value><value=EE_discount> dni

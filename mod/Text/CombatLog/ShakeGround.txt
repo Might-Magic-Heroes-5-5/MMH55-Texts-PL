@@ -1,0 +1,1 @@
+﻿<value=source_color>Trzęsienie Ziemi zadaje <value=damage> obrażeń wszystkim jednostkom. <value=dead> zabitych jednostek.

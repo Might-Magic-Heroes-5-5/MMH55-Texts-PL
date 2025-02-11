@@ -1,0 +1,1 @@
+﻿Podnosi minimalne obrażenia celu w kierunku jego maksymalnych obrażeń. Jeśli cel jest pod wpływem zaklęcia Osłabienie, zostanie oczyszczony. Efekt nie może przekroczyć 100%.

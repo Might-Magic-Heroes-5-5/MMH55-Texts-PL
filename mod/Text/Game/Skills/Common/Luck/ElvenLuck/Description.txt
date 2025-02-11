@@ -1,0 +1,1 @@
+﻿Za każdym razem, gdy aktywowana jest premia do szczęścia, jednostka zadaje x1,66 obrażeń zamiast x1,5.

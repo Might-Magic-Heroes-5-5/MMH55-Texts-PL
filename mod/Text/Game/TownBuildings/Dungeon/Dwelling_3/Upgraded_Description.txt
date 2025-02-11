@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszony Labirynt.<br>
+<color_bright>Gigantyczny Labirynt pozwala rekrutować Minotaurów Strażników i Minotaurów Nadzorców.

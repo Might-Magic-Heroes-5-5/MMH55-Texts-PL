@@ -1,0 +1,1 @@
+﻿<value=source_color>Ognista Tarcza odbija <value=damage> pkt. obrażeń w <value=target>.

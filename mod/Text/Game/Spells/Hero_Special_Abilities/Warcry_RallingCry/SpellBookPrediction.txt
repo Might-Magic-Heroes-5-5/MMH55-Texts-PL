@@ -1,0 +1,1 @@
+﻿Zwiększa Morale o <value=enchant>.<br>Zwiększa szał armii bohatera o <value=army_rp>.

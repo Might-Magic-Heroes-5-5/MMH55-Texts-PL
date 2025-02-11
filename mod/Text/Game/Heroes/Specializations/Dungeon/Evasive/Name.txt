@@ -1,0 +1,1 @@
+﻿Klasa: Czarnoksiężnik<br>Specjalizacja: Tancerz Cienia<br><br><body_bright>Armia bohatera otrzymuje mniej obrażeń od ataków z dystansu, redukcja obrażeń wynosi 15% + 0,5% na poziom bohatera.<br><br><color=orange>Zaczyna z Magia Zniszczenia.

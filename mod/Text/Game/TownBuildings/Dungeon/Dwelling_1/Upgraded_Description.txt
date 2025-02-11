@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Szkoła Zwiadowców.<br>
+<color_bright>Szkoła Zabójców pozwala rekrutować Zabójców i Prześladowców.

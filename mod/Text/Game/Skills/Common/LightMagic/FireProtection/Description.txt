@@ -1,0 +1,1 @@
+﻿Bohater zyskuje +4 Obrony, a wszystkie jednostki pod kontrolą bohatera otrzymują tylko 50% obrażeń od wszystkich zaklęć ognia i są odporne na uszkodzenia pancerza będące efektem działania zdolności Mistrz Ognia.

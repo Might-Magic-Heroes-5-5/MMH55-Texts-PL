@@ -1,0 +1,1 @@
+﻿Teleportuje wskazaną sojuszniczą istotę w inne miejsce pola bitwy. (Wymagany jest poziom mistrzostwa na poziomie Eksperckim, aby teleportować jednostki za mury miasta podczas oblężenia.)

@@ -1,0 +1,1 @@
+﻿Bohater uczy się Runy Smoczej Siły i zwiększa Morale jednostki o 2 na dwie tury po rzuceniu na nie Runy.

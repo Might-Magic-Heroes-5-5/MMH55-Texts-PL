@@ -1,0 +1,1 @@
+﻿Talenty definiujące klasę bohatera oraz jej Zdolności, których bohater nauczył się w trakcie gry.

@@ -1,0 +1,1 @@
+﻿Pozwala jednostkom z Twierdzy w armii bohatera osiągnąć pierwszy poziom szału podczas walki, dając im odpowiednie premie. punkty szału absorbują 25% wszystkich obrażeń zadawanych przez wrogie jednostki, aż do wyczerpania całego szału.

@@ -1,0 +1,1 @@
+﻿Połowa istot we wszystkich siedliskach umiera (Zostanie conajmniej jedna). Przyrost populacji nowych istot zmniejszony jest o połowę (zawsze pojawi się co najmniej jedna istota).

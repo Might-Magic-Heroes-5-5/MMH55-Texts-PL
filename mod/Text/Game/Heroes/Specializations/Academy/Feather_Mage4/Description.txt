@@ -1,0 +1,1 @@
+﻿Rozmawiający z Wiatrem: Tury bohatera w walce będą następowały szybciej w zależności od jego poziomu. Inicjatywa bohatera będzie wynosić 11,5 + 0,025 * poziom bohatera (zamiast 11).

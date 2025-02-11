@@ -1,0 +1,1 @@
+﻿Obrażenia Zaklęcia: <value=damage>.<br>Zwiększa Szał armii bohatera o <value=army_rp>.

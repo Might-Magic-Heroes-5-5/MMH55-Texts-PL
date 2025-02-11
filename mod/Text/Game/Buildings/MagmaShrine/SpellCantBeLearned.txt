@@ -1,0 +1,1 @@
+﻿Zaklęcie runiczne <value=spell> jest niemożliwe do nauczenia. Wymaga <value=skill>.

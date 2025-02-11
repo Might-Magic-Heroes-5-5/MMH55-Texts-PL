@@ -1,0 +1,1 @@
+﻿Zadaje obrażenia od ziemi wszystkim jednostkom w obszarze docelowym (5 pól w kształcie krzyża).

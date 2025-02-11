@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Wieża Magów.<br>
+<color_bright>Wieża Arcymagów pozwala rekrutować Arcymagów i Magów Bitewnych.

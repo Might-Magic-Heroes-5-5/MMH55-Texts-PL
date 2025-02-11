@@ -1,0 +1,4 @@
+﻿+1 Strzał z Balisty<br>
++1 Strzał z Katapulty<br>
++50% Mocy Leczenia z Namiotu Pierwszej Pomocy<br>
++4 Atak do wszystkich przyjaznych, strzelających stworzeń, jeśli w pobliżu znajduje się wózek z amunicją.

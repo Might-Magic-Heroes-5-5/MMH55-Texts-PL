@@ -1,0 +1,2 @@
+﻿Istnieje pewna szansa, że podczas ataku wręcz ta jednostka oprócz zadawania zwykłych obrażeń użyje jednego z następujących czarów: Spowolnienie, Osłabienie lub Cierpienie. (Zaklęcie nie działa na Nieumarłych, Jednostki Mechaniczne i  Żywiołaki. Szansa jest oparta na własnych PŻ istoty, biorąc pod uwagę cały oddział. Jeśli PŻ celu jest niższe po trafieniu, szanse są równe 40% + (5% * (PŻ/PŻ Celu)). Jeśli PŻ celu jest wyższe lub równe po trafieniu, szanse są równe 40% - (5% * (PŻ Celu/PŻ)).
+ 

@@ -1,0 +1,1 @@
+﻿Bohater uczy się zaklęcia Przyspieszenie i otrzymuje grupowe efekty do zaklęć Prawa Moc i Przyspieszenie. Dodaje +4 do efektywnej siły zaklęcia Słowo Światła.<br><color_default>Grupowe zaklęcia działają na wszystkie wrogie cele z efektem słabszym o 33% i kosztują cztery razy więcej many, ale zawsze są rzucane tak szybko, jak gdyby bohater posiadał Ekspercki Talent Magiczny.

@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> przekazuje <value=damage> pkt. many do <value=target> od wrogiego bohatera.

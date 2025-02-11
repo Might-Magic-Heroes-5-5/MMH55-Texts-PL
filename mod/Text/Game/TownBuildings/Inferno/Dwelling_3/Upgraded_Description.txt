@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Psiarnia.<br>
+<color_bright>Kojec Cerberów pozwala rekrutować Cerbery i Ogniste Ogary.

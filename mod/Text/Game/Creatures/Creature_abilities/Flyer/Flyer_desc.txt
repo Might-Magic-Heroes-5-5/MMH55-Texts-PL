@@ -1,0 +1,1 @@
+﻿Istota ta może przemieścić się na dowolne pole w zasięgu jej ruchu bez względu na znajdujące się na drodze przeszkody.

@@ -1,0 +1,1 @@
+﻿Przywołuje statek. Bohater musi stać na brzegu, a w pobliżu musi znajdować się niezajęta łódź, aby zaklęcie się powiodło.<color_default><br>Zaklęcie to nie wymaga nauki zdolności magicznych.

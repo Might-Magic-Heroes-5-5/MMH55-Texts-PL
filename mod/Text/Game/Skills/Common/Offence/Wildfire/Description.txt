@@ -1,0 +1,1 @@
+﻿Balista pod dowództwem bohatera ignoruje 50% obrony przeciwnika i zadaje dodatkowe obrażenia od ognia. Wartość na strzał jest równa poziomowi bohatera. Zniszczona Balista zostanie przywrócona do armii bohatera po walce.

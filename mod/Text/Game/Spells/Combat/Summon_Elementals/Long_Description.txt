@@ -1,0 +1,1 @@
+﻿Przywołuje oddział żywiołaków, by walczyły dla bohatera. Typ przywoływanych żywiołaków zależy od zdolności, które bohater poznał dzięki Magii Przywołania. Domyślnie są to żywiołaki ziemi, jeśli nie poznał żadnych zdolności.

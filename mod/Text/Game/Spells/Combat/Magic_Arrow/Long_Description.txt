@@ -1,0 +1,1 @@
+﻿Wystrzeliwuje starożytną strzałę, która zadaje obrażenia wybranej wrogiej jednostce.

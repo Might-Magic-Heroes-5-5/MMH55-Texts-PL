@@ -1,0 +1,1 @@
+﻿Zwiększa Atak wszystkich istot w armii bohatera o 3, a ich Punkty Życia o 2.

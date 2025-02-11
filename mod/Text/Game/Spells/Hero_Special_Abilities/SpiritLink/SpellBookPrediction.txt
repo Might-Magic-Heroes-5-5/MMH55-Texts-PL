@@ -1,0 +1,1 @@
+﻿Ilość otrzymanej many jest równa (sqrt(zadane obrażenia+6))/12

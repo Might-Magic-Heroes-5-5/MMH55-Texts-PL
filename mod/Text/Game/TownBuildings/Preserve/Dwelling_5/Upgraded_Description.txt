@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Polana Jednorożców.<br>
+<color_bright>Ogród Jednorożców pozwala rekrutować Srebrne Jednorożce i Białe Jednorożce.

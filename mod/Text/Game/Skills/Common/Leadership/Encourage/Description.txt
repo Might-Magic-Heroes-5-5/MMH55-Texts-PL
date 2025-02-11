@@ -1,0 +1,1 @@
+﻿Specjalna zdolność bojowa, która zachęca jego oddziały na polu bitwy, sprawiając, że ich tury następują szybciej. Gotowość Bojowa celu jest zwiększona o 0,4, ograniczona do 1. Gotowość Bojowa bohatera po użyciu resetuje się do 0,1.

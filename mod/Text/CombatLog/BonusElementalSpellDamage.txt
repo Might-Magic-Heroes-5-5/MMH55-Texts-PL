@@ -1,0 +1,1 @@
+﻿<value=source_color>Trafiając w (<value=target>) zaklęciem (<value=spell>), <value=source> zadaje <value=damage> pkt. obrażeń od żywiołów.

@@ -1,0 +1,1 @@
+﻿Siła Czarów bohatera jest zwiększona o 2, a jeśli ktokolwiek rzuci zaklęcie Magii Mroku, jego siła jest niższa o 15%.

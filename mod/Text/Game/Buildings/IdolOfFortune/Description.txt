@@ -1,0 +1,8 @@
+﻿Dzień 1: +1 Szczęścia
+Dzień 2: +1 Morale
+Dzień 3: +1 Szczęścia
+Dzień 4: +1 Morale
+Dzień 5: +1 Szczęścia
+Dzień 6: +1 Morale
+Dzień 7: +1 Szczęścia i Morale
+Wszystkie dni: +30 Many

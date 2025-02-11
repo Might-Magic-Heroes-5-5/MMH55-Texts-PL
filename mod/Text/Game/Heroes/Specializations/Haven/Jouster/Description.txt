@@ -1,0 +1,1 @@
+﻿Dowódca Kawalerii: Kawalerzyści, Paladyni i Czempioni w armii bohatera otrzymują dodatkową premię do obrażeń równą +1% za każdy poziom bohatera. Umiejętność Odwet bohatera również zadaje +1% więcej obrażeń za każdy poziom bohatera.

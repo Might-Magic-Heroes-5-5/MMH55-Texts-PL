@@ -1,0 +1,1 @@
+﻿<color=yellow>Świątynia nagradza cię oddziałem <value=num> <value=upgtype>.

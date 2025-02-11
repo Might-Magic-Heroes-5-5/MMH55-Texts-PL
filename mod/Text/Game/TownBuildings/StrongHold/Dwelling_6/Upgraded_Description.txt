@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszony Klif Wiwern.<br>
+<color_bright>Wieża Wiwern pozwala rekrutować Jadowite Wiwerny i Pao Kai.

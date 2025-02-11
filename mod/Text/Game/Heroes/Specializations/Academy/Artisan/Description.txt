@@ -1,0 +1,1 @@
+﻿Mistrz Gremlinów: Wszystkie Gremliny, Gremliny Dowódcy i Gremlin Sabotażyści w armii bohatera zyskują +1 do swojego Ataku i Obrony za każde dwa poziomy bohatera, zaczynając od pierwszego poziomu.

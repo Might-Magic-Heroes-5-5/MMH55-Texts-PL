@@ -1,0 +1,1 @@
+﻿<color=yellow>W miastach pojawia się pewna ilość nowych rekrutów: <value=num>.

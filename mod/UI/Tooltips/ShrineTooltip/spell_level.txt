@@ -1,0 +1,1 @@
+﻿<tooltip_bright>Naucz się zaklęcia <value=spell_level> poziomu.

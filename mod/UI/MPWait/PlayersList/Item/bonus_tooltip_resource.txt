@@ -1,0 +1,6 @@
+﻿<color=red>Koszmar<color_default><br>
+* Bohaterowie SI nie mogą być obrabowane po bitwie.
+* Wszyscy gracze SI połączą się w drużynę przeciwko graczowi ludzkiemu, czas w którym to nastąpi jest zmniejszony na mapach z wieloma graczami SI.
+* Jeśli jest wielu ludzkich graczy, będą oni walczyć przeciwko graczom SI.
+* Bohaterowie SI nigdy nie uciekają przed walką i walczą na śmierć i życie.
+* Miejsca bitew mają +10% przyrostu.

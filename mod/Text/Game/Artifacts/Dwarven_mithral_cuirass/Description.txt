@@ -1,0 +1,8 @@
+﻿+3 Atak<br>
++3 Obrona<br>
+Przyznaje przyjaznym istotom niewrażliwość na Implozję<br>
+<br><color=purple>
+Pancerz Krasnoludzkich Królów<color_default><br>
++4 Obrona (2/4)<br>
++8 Obrona (4/4)<br>
+*Premia jest stosowana po zamknięciu ekranu ekwipunku.

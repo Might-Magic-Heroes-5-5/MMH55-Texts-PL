@@ -1,0 +1,1 @@
+﻿Paragon: Bohater zaczyna z +2 Wiedzy, a efekt zaklęcia Przyspieszenie jest zwiększany o 0,15% za każdy poziom bohatera.

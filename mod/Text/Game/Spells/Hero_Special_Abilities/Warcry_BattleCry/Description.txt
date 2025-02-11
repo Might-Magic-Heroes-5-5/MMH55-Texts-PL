@@ -1,0 +1,1 @@
+﻿Bohater inspiruje jeden przyjazny oddział Orków do szarży. Przez jedną turę docelowy oddział otrzyma +3 Szybkość i zwiększony Atak (równy 1 + Poziom/5). Przyznaje również niewielką ilość szału wszystkim jednostkom z Twierdzy w armii.

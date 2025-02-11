@@ -1,0 +1,1 @@
+﻿Ukrywa artefakty na mapie i neutralni bohaterowie mogą z nich korzystać powyżej Normalnego poziomu trudności. Artefakty są zastępowane obozowiskami. Obozowiska zwiększają twój ruch i manę. Regeneracja many jest zmniejszona o połowę.

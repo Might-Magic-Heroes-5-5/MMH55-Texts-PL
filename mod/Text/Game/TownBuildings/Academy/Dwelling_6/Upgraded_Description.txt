@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszony Srebrny Pawilon.<br>
+<color_bright>Złoty Pawilon pozwala rekrutować Rakszase Radże i Rakszase Kszatrije.

@@ -1,0 +1,1 @@
+﻿Łańcuch błyskawic zadaje poważne obrażenia od elektryczności stojącym w pobliżu stworzeniom (maks. 4) poczynając od tego, które zostało wybrane za cel. Każde następne stworzenie otrzymuje połowę obrażeń zadanych poprzedniemu (Łańcuch może uderzyć w jednostki sojusznicze). 

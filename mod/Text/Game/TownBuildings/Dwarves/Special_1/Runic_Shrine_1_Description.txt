@@ -1,0 +1,2 @@
+﻿<color_bright>Pozwala odwiedzającemu bohaterowi poznać znaki runiczne pierwszego i drugiego kręgu oraz zwiększa Siłę Czarów wszystkich krasnoludzkich bohaterów ze zdolnością Znajomość Runów o 1 (nie kumuluje się z wieloma miastami i wymaga odwiedzenia miasta)<br><br>
+<color=0099FF>Zarządzanie<color_default><br>Gubernator miasta zyskuje 1 Wiedzy.

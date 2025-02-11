@@ -1,0 +1,7 @@
+﻿+2 Morale<br>
++10 Wiedza obliczona dla wszystkich aktywnych artefaktów<br>
++10 Obrona obliczona dla wszystkich aktywnych artefaktów<br><color_default>
+(Wpływa na wszystkie artefakty aktywne na tym bohaterze dające zasoby, oddziały lub wskrzeszające stworzenia)<br><br><color=purple>
+Duch Lwa<color_default><br>
++6 Atak (3/3)<br>
+*Premia jest stosowana po zamknięciu ekranu Ekwipunku.

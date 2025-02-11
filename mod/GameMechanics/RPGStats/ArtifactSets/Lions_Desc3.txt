@@ -1,0 +1,1 @@
+﻿Za każdym razem, gdy jednostka w armii bohatera ulega efektowi Morale, bohater przesuwa się do przodu o 5 procent na pasku inicjatywy. (Jeśli jest to negatywne morale, bohater zostaje przesunięty do tyłu). Ataki Rycerza (a także Kontratak) zmniejszają Morale przeciwnika o 2. Paladyni otrzymują 4 do Obrony.

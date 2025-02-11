@@ -1,0 +1,1 @@
+﻿Ta istota przy trafieniu nakłada na cel truciznę. Wynikające z jej działania obrażenia są proporcjonalne do liczby istot, które (w danej chwili) wykonały atak. Jeden Zabójca bądź Prześladowca liczy się jako 1 punkt obrażeń przez 3 tury, natomiast jedna Mantykora liczy się jako 8 punkty obrażeń przez następne 3 tur.

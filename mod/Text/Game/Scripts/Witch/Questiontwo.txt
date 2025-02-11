@@ -1,0 +1,1 @@
+﻿Rozczarowana twoją nieprzypadkową odmową wiedźma zastanawia się przez chwilę i składa ci kolejną ofertę, jednak tym razem jednak chce <value=gold> sztuk złota w zamian za swoje usługi. Czy chciałbyś przyswoić <value=mastery> wiedzę w zdolności <value=skill>?

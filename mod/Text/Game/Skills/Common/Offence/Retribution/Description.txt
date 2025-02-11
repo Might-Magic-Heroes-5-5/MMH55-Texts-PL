@@ -1,0 +1,1 @@
+﻿Obrażenia zadawane przez istoty w armii bohatera zwiększą się, jeśli ich Morale jest wyższe niż zero (+3% za każdy punkt Morale; Maksymalna wartość to 15%). Atak bohaterów Nekropolii zwiększa się o 3, jako że Nieumarli nie podlegają efektom Morale.

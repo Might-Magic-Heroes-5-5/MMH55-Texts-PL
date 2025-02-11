@@ -1,0 +1,1 @@
+﻿Powoduje, że wszystkie jednostki działają częściej w walce. Jeśli jednostki są pod wpływem zaklęcia Spowolnienie, oba efekty pozostaną aktywne, a o wyniku zadecyduje różnica w sile rzucających.

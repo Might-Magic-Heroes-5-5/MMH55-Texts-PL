@@ -1,0 +1,1 @@
+﻿To jest mapa losowa MMH5.5 bazująca na szablonie 3P-Belt-Mu stworzona przez Zaawansowany Generator Map Losowych v2.1 z ustawieniami: rozmiar normalny, z podziemiami, bez wody, z średnimi potworami. Mapa jest stworzona dla 3 graczy, startowe zasoby to 1568763139

@@ -1,0 +1,1 @@
+﻿<color=green>Gdy twój klejnot się rozpuścił, zostało przywołanych <value=num> <value=upgtype>.

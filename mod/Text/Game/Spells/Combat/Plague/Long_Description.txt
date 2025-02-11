@@ -1,0 +1,1 @@
+﻿Rzuca zarazę na wybrany oddział wroga, który otrzymuje obrażenia od ziemi za każdym razem, gdy podejmuje jakieś działanie.<br><color_default>Zaklęcie nie działa na Nieumarłych, Żywiołaki i Jednostki Mechaniczne. 

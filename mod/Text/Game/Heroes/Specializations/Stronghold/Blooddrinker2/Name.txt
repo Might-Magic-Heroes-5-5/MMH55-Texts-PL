@@ -1,0 +1,1 @@
+﻿Klasa: Renegat<br>Specjalizacja: Fanatyk<br><br><body_bright>Fanatyk: Bohater zyskuje stałą premię +1 do Ataku, a każdy zabity oddział wroga (przyzwane oddziały również) zwiększa Atak wszystkich jednostek w jego armii o +1 za każde 9 poziomów bohatera (Na czas trwania bitwy).<br><br><color=orange>Zaczyna z Sztuki Walki.

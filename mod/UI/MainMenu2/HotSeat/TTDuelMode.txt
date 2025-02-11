@@ -1,0 +1,1 @@
+﻿Rozegraj pojedynki pomiędzy dwoma bohaterami w idealnie równych warunkach. Aby grać przeciwko SI aktywuj autowalkę dla jednego gracza.

@@ -1,0 +1,1 @@
+﻿Punkty Życia kryształu: <value=health>.<br>Zadane obrażenia przy zniszczeniu: <value=damage>.

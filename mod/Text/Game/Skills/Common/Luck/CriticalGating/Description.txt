@@ -1,0 +1,1 @@
+﻿Bohater może teraz wzywać przez bramy Diabły, Arcydiabły i Arcydemony i istnieje szansa, że każdy oddział z bram przyzwie 10% więcej posiłków. Szansa jest równa Szczęściu bohatera * 20% i zero, jeśli Szczęście nie jest dodatnie.

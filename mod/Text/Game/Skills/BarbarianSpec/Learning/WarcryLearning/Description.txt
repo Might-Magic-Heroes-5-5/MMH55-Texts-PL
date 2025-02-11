@@ -1,0 +1,1 @@
+﻿Bohater zyskuje +2 Wiedzy oraz pozwala bohaterowi uczyć innych bohaterów przyswojonych do tej pory Okrzyków (muszą spełniać odpowiednie wymagania), jak i również uczyć się nowych od nich lub od bohaterów wroga w czasie bitwy, nawet jeśli nie spełnia odpowiednich wymagań.

@@ -1,0 +1,1 @@
+﻿<value=source_color><value=damage> obrażenia zostają pochłonięte przez Punkty Szału (stracono <value=dead> punktów)

@@ -1,0 +1,4 @@
+﻿Jasnowidz jest zapalonym kolekcjonerem starożytnych artefaktów, ale podejrzewa, że niektóre z przedmiotów krążących po tych ziemiach mogą być tylko zaczarowanymi falsyfikatami. Jeśli przyniesiesz mu odpowiednią liczbę określonych artefaktów, będzie mógł je wykorzystać w swoich badaniach.
+
+Jasnowidz obecnie poszukuje <color=white><value=qty> <value=type><color_default> i zaoferuje ci różne nagrody, jeśli wykonasz jego zadanie.
+

@@ -1,0 +1,1 @@
+﻿Krwawy Cyklop zmniejsza Szczęście atakowanej istoty o 3. Ponadto, w czasie ataku Cyklop nie tylko trafia w swój cel, ale również w każdą jednostkę stojącą bezpośrednio za nim.

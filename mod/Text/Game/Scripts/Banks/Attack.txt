@@ -1,0 +1,1 @@
+﻿<color=yellow>Atak bohatera zwiększa się o <value=param>.

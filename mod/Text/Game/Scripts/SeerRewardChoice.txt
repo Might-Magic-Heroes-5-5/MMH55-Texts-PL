@@ -1,0 +1,4 @@
+﻿Wybierz swoją nagrodę:
+
+OK = <value=qty_a> <value=type_a>.
+Anuluj = <value=qty_b> <value=type_b>.

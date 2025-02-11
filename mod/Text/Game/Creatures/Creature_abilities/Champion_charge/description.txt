@@ -1,0 +1,1 @@
+﻿Jeśli stworzenia te przejdą przynajmniej 2 pola, nim zaatakują, zadadzą również połowę obrażeń stworzeniom stojącym na linii ataku tuż za głównym celem.

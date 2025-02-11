@@ -1,0 +1,1 @@
+﻿<color_default>Ataki wywołują kulę ognia z <value=damage> obrażeń

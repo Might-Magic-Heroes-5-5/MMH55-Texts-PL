@@ -1,0 +1,2 @@
+﻿+15% pkt. ruchu przy poruszaniu się po lądzie<br><br>
+<color=red>Ciasne Dopasowanie<br><color_default>Bohater traci 500 punktów ruchu podczas zdejmowania tego artefaktu.

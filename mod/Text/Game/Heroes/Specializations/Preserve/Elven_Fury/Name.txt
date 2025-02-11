@@ -1,0 +1,1 @@
+﻿Klasa: Mściciel<br>Specjalizacja: Agresor<br><br><body_bright>Bohater zaczyna z +1 Ataku i zwiększa go o +1 na każde 7 poziomów.<br><br><color=orange>Zaczyna z Magia Mroku. 

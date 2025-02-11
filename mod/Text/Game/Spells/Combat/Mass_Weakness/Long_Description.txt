@@ -1,0 +1,1 @@
+﻿Osłabia ofensywę wszystkich wrogich jednostek o ilość zależną od Siły Czarów. Jeśli cele są pod wpływem zaklęcia Prawa Moc, oba efekty pozostaną aktywne, a o wyniku zadecyduje różnica w sile rzucających.

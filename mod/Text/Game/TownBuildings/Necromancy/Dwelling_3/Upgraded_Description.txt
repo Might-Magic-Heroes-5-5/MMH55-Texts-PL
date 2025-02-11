@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Zrujnowana Wieża.<br>
+<color_bright>Nawiedzona Wieża pozwala rekrutować Widma i Poltergeisty.

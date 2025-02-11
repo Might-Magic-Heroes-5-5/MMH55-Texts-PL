@@ -1,0 +1,1 @@
+﻿Klasa: Renegat<br>Specjalizacja: Zakłócacz<br><br><body_bright>Specjalizuje się w znajdowaniu Słabych Punktów wroga, dzięki czemu zaklęcie nie tylko zmniejsza obronę celu, ale także zadaje obrażenia. Zadawane obrażenia zależą od poziomu bohatera. Obrażenia to = 30+30*ceil(poziom/2), gdzie ceil() to funkcja zaokrąglania w górę.<br><br><color=orange>Zaczyna z Mistrz Bólu.

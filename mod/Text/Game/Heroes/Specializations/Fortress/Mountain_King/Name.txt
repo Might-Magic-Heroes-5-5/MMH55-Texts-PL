@@ -1,0 +1,1 @@
+﻿Klasa: Kapłan Runów<br>Specjalizacja: Król Kamiennych Auli<br><br><body_bright>Wszystkie jednostki w armii bohatera pozostają cały czas pod działaniem efektu Runy Magicznej Kontroli (odświeżanej na początku tury stworzeń).

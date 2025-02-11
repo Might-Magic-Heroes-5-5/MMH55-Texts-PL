@@ -1,0 +1,1 @@
+﻿Bohater otrzymuje +2 Obrony. Ponadto, wszystkie nieumarłe oddziały pod kontrolą bohatera zostają wzmocnione zaklęciami lodu, które zwracają atakującemu 10% wszystkich obrażeń zadanych w walce wręcz.

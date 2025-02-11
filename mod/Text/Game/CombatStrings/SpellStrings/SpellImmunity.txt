@@ -1,0 +1,1 @@
+﻿Ta istota (<value=target>) jest odporna na zaklęcie <value=spell>.

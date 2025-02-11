@@ -1,0 +1,1 @@
+﻿Zwiększa Obronę istoty o 2 za każde pole, które przeszła w trakcie swojej tury. Efekt ten trwa aż do następnej akcji, którą wykona.

@@ -1,0 +1,1 @@
+﻿Czy chcesz przebudować ten budynek w siedlisko twojej frakcji?<br><br>Koszt:<br>Złoto: <value=gold>, Drewno: <value=wood>, Ruda: <value=ore>

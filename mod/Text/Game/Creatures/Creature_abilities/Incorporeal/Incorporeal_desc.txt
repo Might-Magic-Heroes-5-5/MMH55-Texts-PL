@@ -1,0 +1,1 @@
+﻿Ta jednostka jest niematerialna, więc każdy niemagiczny atak w jej stronę ma tylko 50% szans na zadanie obrażeń. Umiejętność nie jest w pełni losowa, po dwukrotnym chybieniu kolejne fizyczne uderzenie zawsze trafi, natomiast po dwukrotnym trafieniu kolejne fizyczne uderzenie zawsze będzie chybione.

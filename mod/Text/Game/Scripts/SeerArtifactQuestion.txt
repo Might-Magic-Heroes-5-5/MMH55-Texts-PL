@@ -1,0 +1,1 @@
+﻿Jasnowidz jest zainteresowany pewnymi artefaktami (<color=white><value=qty> <value=type>)<color_default> w twoim posiadaniu. Czy chcesz oddać mu artefakty w zamian za nagrodę?

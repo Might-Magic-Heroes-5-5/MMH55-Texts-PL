@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszone Namioty Wojowników.<br>
+<color_bright>Pawilon Wojenny pozwala rekrutować Rębaczy i Podżegaczy.

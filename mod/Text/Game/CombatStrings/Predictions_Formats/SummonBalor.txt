@@ -1,0 +1,1 @@
+﻿Przywołaj <value=amount_of_summoned> Czarcich Lordów z grupy umarłych.

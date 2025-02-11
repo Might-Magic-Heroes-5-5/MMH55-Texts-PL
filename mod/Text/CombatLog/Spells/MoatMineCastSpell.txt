@@ -1,0 +1,1 @@
+﻿<value=source_color><value=mine> trafia w <value=target> zaklęciem <value=spell>.

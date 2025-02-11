@@ -1,0 +1,1 @@
+﻿Agresor: Bohater otrzymuje +1 Ataku i zwiększa go o +1 na każde 7 poziomów.

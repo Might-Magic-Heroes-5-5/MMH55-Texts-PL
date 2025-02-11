@@ -1,0 +1,2 @@
+﻿+4 Do wszystkich atrybutów<br>
+Wszystkie koszty Bramy Miejskiej są ignorowane (Jeśli założony)

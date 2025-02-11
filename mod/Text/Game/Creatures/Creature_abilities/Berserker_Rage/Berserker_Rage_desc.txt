@@ -1,0 +1,1 @@
+﻿(Umiejętność Specjalna) Istota ta może użyć zdolności, która sprawia, że Atak tych stworzeń zwiększa się o wartość Obrony, natomiast ich Obrona spada do zera i atakują one automatycznie najbliższy cel bez kontrataku. Jeśli jednak w zasięgu ruchu tych stworzeń nie ma żadnych wrogów, zaatakują one zamiast tego najbliższą sojuszniczą jednostkę.

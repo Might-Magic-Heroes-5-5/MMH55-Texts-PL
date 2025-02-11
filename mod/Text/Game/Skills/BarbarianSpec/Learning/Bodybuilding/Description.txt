@@ -1,0 +1,1 @@
+﻿Bohater zyskuje +2 Obrony i zwiększa ją dodatkowo o 1 za każde 10 poziomów. Bohater otrzymuje również jednorazową premię +10% PŻ dla wszystkich jednostek w swojej armii na najbliższą walkę.

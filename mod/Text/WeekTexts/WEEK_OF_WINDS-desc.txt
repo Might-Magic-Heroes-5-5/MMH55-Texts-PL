@@ -1,0 +1,1 @@
+﻿Liczba punktów ruchu wszystkich bohaterów podczas poruszania się po morzu jest zwiększona o 50%.

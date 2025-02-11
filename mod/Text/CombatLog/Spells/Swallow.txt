@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> odzyskuje pkt. życia, w procesie połykając <value=target>.

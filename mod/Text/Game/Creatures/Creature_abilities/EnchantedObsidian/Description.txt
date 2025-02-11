@@ -1,0 +1,1 @@
+﻿Ta jednostka jest absolutnie odporna na wszystkie zaklęcia z wyjątkiem tych, które zadają obrażenia. Każde zaklęcie, które zadaje obrażenia magiczne, leczy 25% swoich obrażeń w PŻ.

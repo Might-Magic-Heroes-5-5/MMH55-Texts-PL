@@ -1,0 +1,1 @@
+﻿Sprawia, że wszystkie wrogie oddziały działają mniej w walce. Jeśli cel znajduje się pod wpływem zaklęcia Przyspieszenie, oba efekty pozostaną aktywne, a o wyniku zadecyduje różnica w sile rzucających.

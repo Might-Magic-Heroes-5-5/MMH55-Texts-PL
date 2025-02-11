@@ -1,0 +1,3 @@
+﻿<color_default>Ulepszenie Cytadeli<br>
+<color_bright>Zamek dodaje dwie wieże strzelnicze, wzmacnia obronę miasta i podwaja bazowy przyrost stworzeń<br><br>
+<color=0099FF>Zarządzanie<color_default><br>Przyznaje gubernatorowi tego miasta premię do obrony +3. 

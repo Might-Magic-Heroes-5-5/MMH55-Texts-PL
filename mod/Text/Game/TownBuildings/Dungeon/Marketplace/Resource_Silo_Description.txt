@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszone Targowisko.<br>
+<color_bright>Magazyn Zasobów dostarcza dziennie 1 jednostkę kryształu.

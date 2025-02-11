@@ -1,0 +1,1 @@
+﻿Minimalne obrażenia są zwiększane o <value=enchant>% w kierunku maksymalnych przez <value=duration> tur.

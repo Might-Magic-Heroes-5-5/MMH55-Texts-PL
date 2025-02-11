@@ -1,0 +1,1 @@
+﻿<value=source_color>Uderzając biczem, <value=source> rzuca <value=spell> na <value=target>.

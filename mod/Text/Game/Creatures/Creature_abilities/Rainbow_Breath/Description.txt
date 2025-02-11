@@ -1,0 +1,1 @@
+﻿Ta istota może losowo zaatakować wszystkich przeciwników w wybranym kierunku, w promieniu 3 pól od jej celu. Liczba trafionych celów zależy od Szczęścia istoty: 1 + (losowo(1-10) + Szczęście) ÷ 2, zaokrąglając w dół, i gdzie najwyższy możliwy wynik dla tego równania to 5.

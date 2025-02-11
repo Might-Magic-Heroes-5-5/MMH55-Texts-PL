@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Chatka Wieśniaka.<br>
+<color_bright>Domostwo Wieśniaka pozwala rekrutować Szeregowych i Milicjantów.

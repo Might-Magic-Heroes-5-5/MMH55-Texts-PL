@@ -1,0 +1,1 @@
+﻿<body_bright>Odporność na magię: <value=target_color><value=target> odpiera zaklęcie <value=spell>.

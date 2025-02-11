@@ -1,0 +1,1 @@
+﻿<left>Twój bohater otrzymuje <value=exp> PD.

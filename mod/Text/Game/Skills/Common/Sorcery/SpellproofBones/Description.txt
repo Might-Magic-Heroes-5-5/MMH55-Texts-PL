@@ -1,0 +1,1 @@
+﻿Ilość obrazeń zadawanych istotom w armii bohatera za pomocą magii jest mniejsza o kolejne 20%.

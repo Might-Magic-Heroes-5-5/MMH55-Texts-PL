@@ -1,0 +1,1 @@
+﻿<value=target_color> Paląca Aura zadaje <value=damage> pkt. obrażeń <value=target> (zabito <value=dead>).

@@ -1,0 +1,1 @@
+﻿Daje bohaterowi tymczasową kontrolę nad wybraną wrogą jednostką. Jednostka, na którą działa to zaklęcie nie może kontratakować (Wymagany jest poziom ekspercki, aby kontrolować istoty 7 poziomu).<br><color_default>Zaklęcie nie działa na Nieumarłych, Żywiołaki i Jednostki Mechaniczne.

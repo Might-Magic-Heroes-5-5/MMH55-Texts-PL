@@ -1,0 +1,1 @@
+﻿Zwiększa inicjatywę o <value=initiative_bonus>% i Morale, Atak i Obronę o <value=enchant> na <value=duration> tur.

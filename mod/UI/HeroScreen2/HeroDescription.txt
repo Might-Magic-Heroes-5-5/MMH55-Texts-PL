@@ -1,0 +1,1 @@
+﻿<value=HeroClass><br>Poziom <value=HeroLevel><br><br>Doświadczenie:

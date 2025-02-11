@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszony Grobowiec.<br>
+<color_bright>Mauzoleum pozwala rekrutować Arcyliszów i Liszmistrzów.

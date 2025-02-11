@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Gęstwina Drzewców.<br>
+<color_bright>Altana Drzewców pozwala rekrutować Enty i Dzikie Drzewce.

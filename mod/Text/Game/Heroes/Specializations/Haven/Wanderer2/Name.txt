@@ -1,0 +1,1 @@
+﻿Klasa: Elementalista<br>Specjalizacja: Podróżnik<br><br><body_bright>Podróżnik: Punkty ruchu bohatera są zwiększane o 1% za każde dwa poziomy bohatera. Bohater zyskuje także +250 doświadczenia po każdej bitwie.<br><br><color=orange>Zaczyna z Lepsza Magia Światła.

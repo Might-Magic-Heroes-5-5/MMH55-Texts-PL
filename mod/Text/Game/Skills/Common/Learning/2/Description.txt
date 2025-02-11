@@ -1,0 +1,1 @@
+﻿Bohater zyskuje +2 Wiedzy i zwiększa losowy atrybut o 1 za każde 5 poziomów, wliczając w to już zdobyte poziomy. Bohater zdobywa również o 10% więcej doświadczenia.

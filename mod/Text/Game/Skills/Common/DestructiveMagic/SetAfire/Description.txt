@@ -1,0 +1,1 @@
+﻿Zaklęcia ognia rzucane przez bohatera podpalają wrogów, zadając celowi dodatkowe 66% bazowych obrażeń od zaklęć przez następne 2 tury.

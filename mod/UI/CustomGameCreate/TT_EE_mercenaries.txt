@@ -1,0 +1,9 @@
+﻿Pozwala ustawić jak często neutralni bohaterowi wspomagają neutralne armie. Neutralni Bohaterowie mają ten sam poziom co bohater. Nie jest zalecane włączenie neutralnych bohaterów dla map MMH5.5, ponieważ wielkość neutralnych odziałów jest większa.
+
+Normalny: Brak
+
+Trudny: ~25% oddziałów
+
+Heroiczny: ~50% oddziałów
+
+Niemożliwy: ~90% oddziałów

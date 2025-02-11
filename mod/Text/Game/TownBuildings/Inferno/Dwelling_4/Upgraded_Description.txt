@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszony Dwór Pokus.<br>
+<color_bright>Dwór Grzechu pozwala rekrutować Władczynie Sukkubów i Uwodzicielskie Sukkuby.

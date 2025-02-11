@@ -1,0 +1,1 @@
+﻿Namierzona przyjazna jednostka Twierdzy otrzymuje liczbę punktów szału równą 15 * poziom bohatera.

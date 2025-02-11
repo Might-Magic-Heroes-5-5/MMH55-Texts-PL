@@ -1,0 +1,1 @@
+﻿Zwiększa gotowość bojową celu o <value=enchant>% (nie może przekroczyć wartości 1,0).

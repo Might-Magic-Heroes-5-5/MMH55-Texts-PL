@@ -1,0 +1,1 @@
+﻿Bohater zyskuje +2 ataku oraz atak istot w armii bohatera zwiększa się, gdy znajdują się blisko siebie na polu bitwy.<br><color_default>Maksymalna wartość premii wynosi 10 i zależy od różnicy w Ataku między stworzeniami.

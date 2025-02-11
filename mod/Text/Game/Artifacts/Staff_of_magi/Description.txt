@@ -1,0 +1,9 @@
+﻿+2 Siła Czarów<br>
+-50% Odporność na magię dla wrogich istot<br><color_default>
+(Nie wpływa na odporności)<br><br><color=purple>
+Sar-Issus<color_default><br>
++50% Siła Czarów i many dla przyjaznych istot (2/4)<br>
++100% Siła Czarów i many dla przyjaznych istot(4/4)<br>
+*Premia jest stosowana po zamknięciu ekranu ekwipunku.<br><br><color=orange>
+Zadanie<color_default><br>
+Przynieś wszystkie 4 artefakty Sar-Issus do Astrologa, a otrzymasz unikalną nagrodę.

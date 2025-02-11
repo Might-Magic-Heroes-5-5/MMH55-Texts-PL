@@ -1,0 +1,3 @@
+﻿+2 Atak<br>
++2 Many po każdej walce<br><br>
+Przyznaje krasnoludzkim bohaterom <value=spell_name>.

@@ -1,0 +1,1 @@
+﻿Strzelając z bliskiej odległości (5 pól od celu lub mniej), kusznik zadaje większe obrażenia, ponieważ obrona celu jest nieskuteczna.

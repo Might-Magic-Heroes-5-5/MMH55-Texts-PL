@@ -1,0 +1,1 @@
+﻿<color=yellow>Odczytano <value=amount> z <value=total> dysków Shantiri.

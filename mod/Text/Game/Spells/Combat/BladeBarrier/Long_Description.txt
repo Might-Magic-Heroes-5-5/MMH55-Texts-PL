@@ -1,0 +1,1 @@
+﻿Tworzy tymczasowo długą na trzy pola barierę we wskazanym miejscu. Bariera ta otrzymuje tylko 25% obrażeń od ataków magicznych i dystansowych, a przy ataku wręcz odbija całość zadanych jej obrażeń. Bariera uniemożliwia wykonanie ataków dystansowych strzelcom znajdującym się na polach przyległych do bariery.

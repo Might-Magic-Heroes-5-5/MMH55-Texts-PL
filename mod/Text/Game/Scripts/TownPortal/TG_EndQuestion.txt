@@ -1,0 +1,11 @@
+﻿-----------------------------------------------------------------------------
+REZYGNACJA GUBERNATORA MIASTA
+-----------------------------------------------------------------------------
+
+Bohater ustępuje ze swojego stanowiska, tracąc wszystkie związane z tym bonusy oraz odzyskując możliwość swobodnego ruchu.
+
+Czy zgadzasz się na rezygnację <value=fine>?
+
+OK = Ustąp ze stanowiska.
+Anuluj = Pozostań na stanowisku.
+

@@ -1,0 +1,5 @@
+﻿-1 Morale dla wrogich istot<br><br><color=purple>
+Odzież Pirata<color_default><br>
++6 Atak (3/6)<br>
++12 Atak (6/6)<br>
+*Premia jest stosowana po zamknięciu ekranu ekwipunku.

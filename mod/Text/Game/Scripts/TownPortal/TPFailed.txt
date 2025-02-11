@@ -1,0 +1,1 @@
+﻿<color=red>Portal Miasta nie powiódł się. Sprawdź, czy garnizon miasta nie jest zablokowany.

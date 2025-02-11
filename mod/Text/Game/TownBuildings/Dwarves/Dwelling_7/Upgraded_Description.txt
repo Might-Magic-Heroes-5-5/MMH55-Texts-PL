@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Szczelina Lawy.<br>
+<color_bright>Rozpadlina Lawy pozwala rekrutować Magmowe Smoki i Wulkaniczne Smoki.

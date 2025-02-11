@@ -1,0 +1,1 @@
+﻿<h4>Wybierz istotę, którą chcesz szkolić (<body_bright><value=remain><body> istot do wyszkolenia)

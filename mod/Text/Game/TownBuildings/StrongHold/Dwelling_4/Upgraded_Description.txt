@@ -1,0 +1,4 @@
+﻿<color_default>Ulepszony Dom Duchów.<br>
+<color_bright>Dom Kości pozwala rekrutować Córy Nieba i Córy Ziemi.
+
+

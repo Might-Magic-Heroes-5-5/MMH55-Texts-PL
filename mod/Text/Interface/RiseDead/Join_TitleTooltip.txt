@@ -1,0 +1,1 @@
+﻿Nekromanci mogą ożywiać martwe jednostki wroga i przyłączać je do swojej armii, wykorzystując specjalny zasób zwany Energią Mroku. Tworzy ona wspólną pulę dla wszystkich bohaterów i odnawia się na początku tygodnia. Ilość Energii zależy od liczby bohaterów Nekropolii i ich poziomów.

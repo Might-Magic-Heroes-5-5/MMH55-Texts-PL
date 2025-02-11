@@ -1,0 +1,1 @@
+﻿Jako ekspert w dziedzinie górnictwa, bohater jest w stanie wykopać zasoby wszędzie i produkuje jeden losowy zasób każdego dnia. Zasób ten może być dowolnego typu, z wyjątkiem złota. Jeśli bohater posiada 20 lub więcej Wiedzy, wykopuje 2 zasoby dziennie. Dodatkowo, wykopanie Łzy Asha gdzieś w pobliżu jej aktualnej lokalizacji ma znacznie większe szanse na sukces.

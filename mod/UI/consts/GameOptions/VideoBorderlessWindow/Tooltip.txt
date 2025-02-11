@@ -1,0 +1,1 @@
+﻿Usuwa obramowanie z okna gry w trybie okna.

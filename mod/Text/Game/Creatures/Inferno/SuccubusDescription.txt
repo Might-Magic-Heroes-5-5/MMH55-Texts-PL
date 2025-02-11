@@ -1,0 +1,1 @@
+﻿Sukkub materializuje kule ognia, które ciska w swoich wrogów. Wszystkie jednostki nieprzyjaciela muszą być gotowe na deszcz płomieni, gdy podczas bitwy napotkają takowego.

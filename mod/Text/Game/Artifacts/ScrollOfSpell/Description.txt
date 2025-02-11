@@ -1,0 +1,3 @@
+﻿+2 Wiedza<br>
+Przyznaje Zalęcie <value=spell_name>
+<br><color_default>Wodzowie nie mogą rzucać zaklęcia, ale otrzymują premię do Wiedzy.

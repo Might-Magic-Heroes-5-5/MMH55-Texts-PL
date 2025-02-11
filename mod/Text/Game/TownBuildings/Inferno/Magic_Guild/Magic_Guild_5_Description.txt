@@ -1,0 +1,4 @@
+﻿<color_bright>Pozwala odwiedzającemu bohaterowi nauczyć się zaklęć przechowywanych w środku. Dodaje 2 zaklęcia z piątego kręgu.<br><br>
+<color=green>Brama Miejska<color_default><br>Pozwala wszystkim bohaterom na Teleportację do tego miasta z dowolnego miejsca na mapie.<br><br>
+<color=orange>Żywiołaki Ognia<color_default><br>Ten budynek może przyzywać Żywiołaki Ognia i dodawać je do garnizonu miasta co tydzień. Ilość Żywiołaków Ognia zależy od ilości zebranych przez bohaterów kryształów Smoczej Krwi (A) i poziomu doświadczenia tych bohaterów (B). Wzór = Pierwiastek(sum(A*B))/12 * (3+poziom gildii), w którym suma(A*B) nie może przekroczyć 600. Suma wynosi zero, jeśli nie zebrano żadnych kryształów.<br><br>
+<color=0099FF>Zarządzanie<color_default><br>Przyznaje gubernatorowi tego miasta premię do Siły Czarów +5.

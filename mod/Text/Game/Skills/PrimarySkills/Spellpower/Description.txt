@@ -1,0 +1,1 @@
+﻿Siła Czarów bohatera zwiększa skuteczność (czas trwania, obrażenia, itp) zaklęć rzucanych przez bohatera; dokładna relacja zależy od zaklęcia.

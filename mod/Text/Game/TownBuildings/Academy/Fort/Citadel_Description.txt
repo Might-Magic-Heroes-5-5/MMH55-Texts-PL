@@ -1,0 +1,3 @@
+﻿<color_default>Ulepszony Fort.<br>
+<color_bright>Cytadela zwiększa tygodniowy przyrost istot o 50%, dodaje wieżę strzelniczą i pole minowe broniące miasto podczas oblężenia.<br><br>
+<color=0099FF>Zarządzanie<color_default><br>Gubernator miasta zyskuje 2 Obrony.

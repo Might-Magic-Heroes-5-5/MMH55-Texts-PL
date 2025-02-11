@@ -1,0 +1,1 @@
+﻿Umiejętność Odwet zadaje o 50% więcej obrażeń bazowych, które kumulują się do potrójnych obrażeń, jeśli bohater posiada zdolność Sztuki Walki.

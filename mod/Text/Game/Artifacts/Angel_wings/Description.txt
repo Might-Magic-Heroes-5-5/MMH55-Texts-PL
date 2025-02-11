@@ -1,0 +1,5 @@
+﻿+3 Morale<br>
++3 Szczęście<br>
++25% Dystans ruchu na dzień z wyjątkiem podróży po drogach<br>
+Przyznaje zdolność latania i całkowitego ignorowania kar za teren.<br><br><color=red>
+Lewitowanie<color_default><br>Logistyka i Znajdowanie drogi nie mają zastosowania.

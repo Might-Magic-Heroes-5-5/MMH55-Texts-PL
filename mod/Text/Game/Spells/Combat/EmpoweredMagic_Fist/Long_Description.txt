@@ -1,0 +1,1 @@
+﻿Przywołuje magiczną pięść, zadającą nie-żywiołowe fizyczne obrażenia wskazanej jednostce wroga. To zaklęcie ignoruje działanie odporności na magię, osłonę i ochronę przed magią. 

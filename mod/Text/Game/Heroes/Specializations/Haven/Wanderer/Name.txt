@@ -1,0 +1,1 @@
+﻿Klasa: Rycerz<br>Specjalizacja: Podróżnik<br><br><body_bright>Punkty ruchu bohatera są zwiększane o 1% za każde dwa poziomy bohatera. Bohater zyskuje również +250 doświadczenia po każdej walce.<br><br><color=orange>Zaczyna z Lepsza Obrona.

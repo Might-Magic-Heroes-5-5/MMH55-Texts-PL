@@ -1,0 +1,1 @@
+﻿<value=target_color>(Spętanie Duszy) <value=target> odzyskuje <value=damage> pkt. many z cierpienia <value=source>.

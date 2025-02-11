@@ -1,0 +1,1 @@
+﻿Wszystkie zaklęcia zadające obrażenia rzucane przez bohatera zadają o 30% więcej obrażeń +1% obrażeń za każdy poziom bohatera, ale koszt many jest podwojony.

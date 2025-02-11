@@ -1,0 +1,1 @@
+﻿Teleportuje jednostki z najbliższego miasta do bohatera za cenę 1 many za jednostkę.<color_default><br>To zaklęcie wymaga 5 poziomu bohatera, aby się go nauczyć. Nie są wymagane żadne umiejętności magiczne.

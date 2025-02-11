@@ -1,0 +1,1 @@
+﻿Dwie trzecie istot we wszystkich siedliskach umiera (Zostanie minimum jedna). Przyrost populacji nowych istot zmniejszony jest do jednej trzeciej.

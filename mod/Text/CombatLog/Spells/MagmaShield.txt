@@ -1,0 +1,1 @@
+﻿<value=source_color>Tarcza Magmowa odbija <value=damage> pkt. obrażeń w <value=target>.

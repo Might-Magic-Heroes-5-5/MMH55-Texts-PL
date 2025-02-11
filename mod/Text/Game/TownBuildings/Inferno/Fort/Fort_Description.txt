@@ -1,0 +1,2 @@
+﻿<color_bright>Fort dodaje mury obronne dookoła miasta.<br><br>
+<color=0099FF>Zarządzanie<color_default><br>Gubernator miasta zyskuje 1 Obrony.

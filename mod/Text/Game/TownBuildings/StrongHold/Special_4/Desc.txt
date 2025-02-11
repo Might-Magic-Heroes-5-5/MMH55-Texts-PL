@@ -1,0 +1,2 @@
+﻿Wodzowie otrzymują 50 punktów szału do armii na początku każdej walki. Szamani i Czarownicy zyskują +1 Wiedzy na stałe (kumuluje się z wieloma miastami).<br><br>
+<color=0099FF>Zarządzanie<color_default><br>Przyznaje gubernatorowi tego miasta premię do ataku +2.

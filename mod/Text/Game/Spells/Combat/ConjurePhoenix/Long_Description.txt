@@ -1,0 +1,1 @@
+﻿Przywołuje na pole bitwy feniksa, który walczy po stronie bohatera. Tylko jeden feniks może być przywołany w tym samym czasie. Atak, Obrona, PŻ, Inicjatywa i Szybkość Feniksa zależą od Siły Czarów rzucającego. Feniks jest odporny na magię.

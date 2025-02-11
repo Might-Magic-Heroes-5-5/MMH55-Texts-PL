@@ -1,0 +1,1 @@
+﻿Ta istota uzyskuje premię +5 do swojej Obrony, jeśli pozostaje w pozycji początkowej podczas walki.

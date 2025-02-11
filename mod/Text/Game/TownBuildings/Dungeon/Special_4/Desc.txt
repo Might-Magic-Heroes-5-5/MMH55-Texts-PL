@@ -1,0 +1,1 @@
+﻿Sprzedaje artefakty i nieznacznie zwiększa dzienny dochód w złocie za każdy zakupiony artefakt, wzrost wynosi 25, 50 lub 100 odpowiednio dla artefaktów drugorzędnych, głównych i reliktów.

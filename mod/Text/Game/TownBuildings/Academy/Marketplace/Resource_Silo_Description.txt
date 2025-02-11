@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszone Targowisko.<br>
+<color_bright>Magazyn zasobów dostarcza dziennie 1 jednostkę rtęci.

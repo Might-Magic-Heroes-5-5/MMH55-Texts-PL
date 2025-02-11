@@ -1,0 +1,1 @@
+﻿Pozwala ożywić część zabitych istot przeciwnika (niebędących wcześniej nieumarłymi) jako nieumarłych.

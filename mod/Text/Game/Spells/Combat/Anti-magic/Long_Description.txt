@@ -1,0 +1,1 @@
+﻿Usuwa zarówno pozytywne, jak i negatywne magiczne efekty z wybranego oddziału oraz czyni go odpornym na działanie kolejnych efektów zaklęć. To zaklęcie może być użyte na wrogie i sojusznicze oddziały.

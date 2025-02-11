@@ -1,0 +1,1 @@
+﻿<value=source_color>Trzęsienie ziemi zadaje <value=damage> pkt. obrażeń w mury miejskie (zburzono <value=dead>).

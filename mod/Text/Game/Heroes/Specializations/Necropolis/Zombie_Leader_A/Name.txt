@@ -1,0 +1,1 @@
+﻿Klasa: Rycerz Śmierci<br>Specjalizacja: Władca Zombie<br><br><body_bright>Wszystkie Zombie, Ropiejący Zombie i Gnijące Zombie w armii bohatera zawsze będą działać natychmiast po tym, jak bohater zacznie swoją turę, skutecznie zwiększając ich inicjatywę do takiej samej jak bohatera (10) i czyniąc je odpornymi na Spowolnienie.<br><br><color=orange>Zaczyna z Nekromancja.

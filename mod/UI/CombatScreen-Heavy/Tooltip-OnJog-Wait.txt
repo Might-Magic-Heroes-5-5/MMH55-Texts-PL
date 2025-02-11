@@ -1,0 +1,1 @@
+﻿Czekaj - Opóźnia gotowość bojową tej istoty o 50%. <hotkey=input_Combat_Wait>

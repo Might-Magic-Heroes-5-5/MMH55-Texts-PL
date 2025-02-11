@@ -1,0 +1,1 @@
+﻿Obniża maksymalne obrażenia wszystkich wrogich jednostek w kierunku ich minimalnych obrażeń. Jeśli jednostki są pod wpływem zaklęcia Boska Siła, zostaną oczyszczone. Efekt nie może przekroczyć 100%.

@@ -1,0 +1,1 @@
+﻿Potężny ryk bohatera znacznie zwiększy szał wszystkich Orków w jego armii i ma szansę sprawić, że wybrany wróg ucieknie w popłochu i zresetuje swoją Gotowość Bojową do zera. Szansa na przestraszenie celu wynosi 50% + 5% * (poziom bohatera - Poziom Jednostki). Ten Okrzyk nie działa na jednostki odporne na efekty kontroli umysłu.

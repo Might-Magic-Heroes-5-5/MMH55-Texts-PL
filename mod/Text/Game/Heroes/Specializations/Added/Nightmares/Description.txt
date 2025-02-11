@@ -1,0 +1,1 @@
+﻿Demoniczny Hodowca: Na początku walki bohater rzuca Wampiryzm na przyjazny oddział Piekielnych Rumaków, Zmór lub Koszmarów (ignorując oddziały złożone z jednej jednostki). Zaklęcie nie wymaga many, a Gotowość Bojowa bohatera zostaje zresetowana do losowej wartości pomiędzy 0,7 a 0,8 po rzuceniu zaklęcia, ale zdolność Bystry Umysł nie ma na tego bohatera żadnego wpływu.

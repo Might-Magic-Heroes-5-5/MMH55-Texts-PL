@@ -1,0 +1,2 @@
+﻿<h4> Bohaterowie Twierdzy mogą tutaj ulepszać swoje talizmany, aby zdobywać nowe zaklęcia przygodowe.<br>
+<body_bright>Bohater <value=hero_name> posiada <value=talisman_level>.

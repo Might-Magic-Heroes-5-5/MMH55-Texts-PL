@@ -1,0 +1,2 @@
+﻿<color_default>Ulepszona Zagroda Niedźwiedzi.<br>
+<color_bright>Zagroda Czarnych Niedźwiedzi pozwala rekrutować Niedźwiedzich Rycerzy i Niedźwiedzich Wojowników.
