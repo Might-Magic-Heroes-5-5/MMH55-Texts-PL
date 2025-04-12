@@ -1,1 +1,1 @@
-﻿Istota ta zmniejsza Morale sąsiadujących z nią istot o 3 (nie działa na istoty, których Morale jest zawsze neutralne).
+﻿Morale wszystkich wrogów znajdujących się na sąsiadujących z tą jednostką polach zostaje obniżone o 2 (nie dotyczy jednostek, których morale jest zawsze neutralne).

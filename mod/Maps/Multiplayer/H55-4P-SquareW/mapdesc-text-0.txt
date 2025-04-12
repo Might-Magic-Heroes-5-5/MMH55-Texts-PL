@@ -1,1 +1,1 @@
-﻿To jest mapa losowa MMH5.5 bazująca na szablonie 4P-Square-H/Lu-(All) stworzona przez Zaawansowany Generator Map Losowych v1.30 z ustawieniami: olbrzymi rozmiar, bez podziemi, z wodą, z bardzo silnymi potworami. Jest to mapa dla 4 graczy, startowe zasoby to 1445857852
+﻿Oto losowa mapa MMH5.5 bazująca na szablonie 4P-Square-H/Lu-(All) stworzona przez Zaawansowany Generator Map Losowych v1.30 z ustawieniami: olbrzymi rozmiar, bez podziemi, z wodą, z bardzo silnymi potworami. Jest to mapa dla 4 graczy, startowe zasoby to 1445857852

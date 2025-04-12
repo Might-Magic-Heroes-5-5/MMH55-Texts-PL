@@ -1,1 +1,1 @@
-﻿Bohater zyskuje +2 Wiedzy i Serce Ciemności, artefakt, którego bohater może użyć do przeprowadzania wskrzeszeń na zmarłych "żywych" jednostkach po bitwach.<br><color_default> Bohaterowie Nekropolii i Akademii zyskują tylko premię do Wiedzy.
+﻿Bohater uderza w wybrane jednostki klątwą, która obniża ich atak.<br><color_default>Efekt jest taki sam jak zaklęcia Cierpienie na minimalnym poziomie, a więc obniża atak o -4 + -0,15 za każdy punkt Siły Czarów.

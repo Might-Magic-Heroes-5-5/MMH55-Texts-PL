@@ -1,1 +1,1 @@
-﻿To jest mapa losowa MMH5.5 bazująca na szablonie 4P-Chain-XL-(All) stworzona przez Zaawansowany Generator Map Losowych v1.30 z ustawieniami: wielki rozmiar, bez podziemi, z wodą, z silnymi potworami. Jest to mapa dla 4 graczy, startowe zasoby to 1445865247
+﻿Oto losowa mapa MMH5.5 bazująca na szablonie 4P-Chain-XL-(All) stworzona przez Zaawansowany Generator Map Losowych v1.30 z ustawieniami: wielki rozmiar, bez podziemi, z wodą, z silnymi potworami. Jest to mapa dla 4 graczy, startowe zasoby to 1445865247

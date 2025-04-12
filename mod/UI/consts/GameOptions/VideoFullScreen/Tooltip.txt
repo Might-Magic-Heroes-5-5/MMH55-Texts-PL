@@ -1,0 +1,1 @@
+﻿Gra w trybie pełnoekranowym (gra w oknie jeśli jest odznaczone). W trybie okna rozmiar okna gry można zmienić za pomocą myszy, przeciągając granice ekranu.

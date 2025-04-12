@@ -1,4 +1,4 @@
-$directory = "$PSScriptRoot\MMHH55-Texts-PL\"
+$directory = "$PSScriptRoot\MMH55-Texts-PL\"
 Write-Output "Processing directory..."
 
 # - UTF-8 is used by this repository so github can show diff during PRs

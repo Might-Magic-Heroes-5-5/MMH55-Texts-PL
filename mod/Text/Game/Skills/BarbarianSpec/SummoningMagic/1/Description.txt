@@ -1,1 +1,1 @@
-﻿Poziom mistrzostwa wszystkich zaklęć Magii Przywołania od pierwszego do czwartego kręgu, rzucanych przez przeciwnika, jest obniżony o 1 (Ekspercki do Zaawansowanego, itd.). Również Siła Czarów zostaje obniżona o 15% za każdy poziom mistrzostwa kończący się w efekcie poniżej poziomu żadnego.
+﻿Poziom mistrzostwa wszystkich zaklęć Magii Przywołania od czwartego do piątego kręgu, rzucanych przez przeciwnika, jest obniżony o 1. Również Siła Czarów zostaje obniżona o 15% za każdy poziom mistrzostwa kończąc w efekcie poniżej minimalnego poziomu.

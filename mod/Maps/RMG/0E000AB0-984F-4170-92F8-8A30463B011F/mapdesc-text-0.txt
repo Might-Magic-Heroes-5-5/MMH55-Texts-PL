@@ -1,1 +1,1 @@
-﻿To jest mapa losowa MMH5.5 bazująca na szablonie 2P-Ladder-L stworzona przez Zaawansowany Generator Map Losowych v2.1 z ustawieniami: rozmiar duży, bez podziemi, bez wody, z bardzo silnymi potworami. Mapa jest stworzona dla 2 graczy, startowe zasoby to 1591191346
+﻿Oto losowa mapa MMH5.5 bazująca na szablonie 2P-Ladder-L stworzona przez Zaawansowany Generator Map Losowych v2.1 z ustawieniami: rozmiar duży, bez podziemi, bez wody, z bardzo silnymi potworami. Mapa jest stworzona dla 2 graczy, startowe zasoby to 1591191346

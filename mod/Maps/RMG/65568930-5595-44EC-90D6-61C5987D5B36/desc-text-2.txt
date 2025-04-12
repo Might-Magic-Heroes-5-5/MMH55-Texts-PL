@@ -1,1 +1,1 @@
-﻿To jest mapa losowa MMH5.5 bazująca na szablonie 4P-Stair-H/Lu-(All) stworzona przez Zaawansowany Generator Map Losowych v1.30 z ustawieniami: wielki rozmiar, bez podziemi, bez wody, z silnymi potworami. Jest to mapa dla 4 graczy, startowe zasoby to 1445857979
+﻿Oto losowa mapa MMH5.5 bazująca na szablonie 4P-Stair-H/Lu-(All) stworzona przez Zaawansowany Generator Map Losowych v1.30 z ustawieniami: wielki rozmiar, bez podziemi, bez wody, z silnymi potworami. Jest to mapa dla 4 graczy, startowe zasoby to 1445857979
