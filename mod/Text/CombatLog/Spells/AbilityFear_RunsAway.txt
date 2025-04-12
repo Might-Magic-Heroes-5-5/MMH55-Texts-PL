@@ -1,1 +1,1 @@
-﻿<value=target_color><body_bright><value=target> ucieka pod wpływem strachu.
+﻿<value=target_color>Efekt strachu: <body_bright> <value=target> ucieka i opóźnia turę o <value=damage>% ATB.

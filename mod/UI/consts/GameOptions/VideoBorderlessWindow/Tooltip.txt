@@ -1,1 +1,2 @@
-﻿Usuwa obramowanie z okna gry w trybie okna.
+﻿Tryb okna: Usuwa obramowanie, ale uniemożliwia zmianę rozmiaru.
+Tryb pełnoekranowy: Wymusza tryb okna z bieżącą wartością rozdzielczości głównego monitora.

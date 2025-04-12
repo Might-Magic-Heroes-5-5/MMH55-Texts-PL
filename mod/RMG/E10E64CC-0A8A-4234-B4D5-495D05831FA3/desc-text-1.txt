@@ -1,1 +1,1 @@
-﻿To jest mapa losowa MMH5.5 bazująca na szablonie 2P-Epic-Mu stworzona przez Zaawansowany Generator Map Losowych v2.0 z ustawieniami: rozmiar normalny, z podziemiami, bez wody, z bardzo silnymi potworami. Mapa jest stworzona dla 2 graczy, startowe zasoby to 1565476239
+﻿Oto losowa mapa MMH5.5 bazująca na szablonie 2P-Epic-Mu stworzona przez Zaawansowany Generator Map Losowych v2.0 z ustawieniami: rozmiar normalny, z podziemiami, bez wody, z bardzo silnymi potworami. Mapa jest stworzona dla 2 graczy, startowe zasoby to 1565476239

@@ -1,0 +1,2 @@
+﻿Wybierz rozdzielczość ekranu obsługiwaną przez twoją kartę graficzną i monitor (im wyższa wartość, tym lepsza jakość obrazu, ale kosztem wydajności).
+Ta opcja nie jest zalecana, gdy gra toczy się w trybie okienkowym. Jeśli lista zawiera puste wartości, wróć do menu głównego (gdzie możesz wybrać „Opcje”) i wróć tutaj ponownie.

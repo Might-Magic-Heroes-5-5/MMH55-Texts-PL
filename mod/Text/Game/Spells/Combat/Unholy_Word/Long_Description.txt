@@ -1,1 +1,1 @@
-﻿Zadaje bezbożne obrażenia wszystkim żywym jednostkom na polu bitwy z wyjątkiem Nieumarłych, Żywiołaków, Orków i Jednostek Piekielnych. (Mroczne Elfy nie są odporne)
+﻿Zadaje nieświęte obrażenia wszystkim żywym jednostkom na polu bitwy oraz Żywiołakom z wyjątkiem Nieumarłych, Orków i Jednostek Piekielnych. (Mroczne Elfy nie są odporne)

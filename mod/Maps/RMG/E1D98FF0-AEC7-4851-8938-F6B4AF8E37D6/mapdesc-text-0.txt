@@ -1,1 +1,1 @@
-﻿To jest mapa losowa MMH5.5 bazująca na szablonie 2P-Box-M/Su stworzona przez Zaawansowany Generator Map Losowych v2.0 z ustawieniami: rozmiar mały, z podziemiami, bez wody, z średnimi potworami. Mapa jest stworzona dla 2 graczy, startowe zasoby to 1565476359
+﻿Oto losowa mapa MMH5.5 bazująca na szablonie 2P-Box-M/Su stworzona przez Zaawansowany Generator Map Losowych v2.0 z ustawieniami: rozmiar mały, z podziemiami, bez wody, z średnimi potworami. Mapa jest stworzona dla 2 graczy, startowe zasoby to 1565476359

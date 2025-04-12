@@ -1,1 +1,1 @@
-﻿Bohater przyswaja zaklęcie Cierpienie, a każdy zwykły jego atak wywołuje na celu efekt zaklęcia Cierpienie, tak jakby było one rzucone przez bohatera.
+﻿Bohater zyskuje +2 Wiedzy i Mroczne Serce, artefakt, którego bohater może użyć do wskrzeszania "żywych" istot poległych w walce.<br><color_default> Bohaterowie Nekropolii i Akademii zyskują tylko premię do Wiedzy.

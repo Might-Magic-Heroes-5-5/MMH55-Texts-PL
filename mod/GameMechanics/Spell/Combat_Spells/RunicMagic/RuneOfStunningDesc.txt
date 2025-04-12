@@ -1,1 +1,1 @@
-﻿Wybrane istoty będą miały szansę wywołać jeden raz efekt Wyładowanie podczas ataku (trafiona wroga istota utraci zgromadzoną gotowość bojową).
+﻿Wybrana istota będzie miała szansę ogłuszyć wroga za pomocą swojego normalnego ataku. Jeśli ogłuszenie się nie powiedzie, runa pozostanie aktywna, dopóki się nie powiedzie. Efekt jest taki sam jak w przypadku umiejętności Ogłuszenie, ale działa również z dystansu i jest zależny od atutu Szczęście Żołnierza.

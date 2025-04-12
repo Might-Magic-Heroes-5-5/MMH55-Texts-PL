@@ -1,1 +1,1 @@
-﻿To jest mapa losowa MMH5.5 bazująca na szablonie 5P-Ultima-Hu stworzona przez Zaawansowany Generator Map Losowych v2.0 z ustawieniami: rozmiar wielki, z podziemiami, bez wody, z bardzo silnymi potworami. Mapa jest stworzona dla 5 graczy, startowe zasoby to 1565474870
+﻿Oto losowa mapa MMH5.5 bazująca na szablonie 5P-Ultima-Hu stworzona przez Zaawansowany Generator Map Losowych v2.0 z ustawieniami: rozmiar wielki, z podziemiami, bez wody, z bardzo silnymi potworami. Mapa jest stworzona dla 5 graczy, startowe zasoby to 1565474870

@@ -1,1 +1,1 @@
-﻿To jest mapa losowa MMH5.5 bazująca na szablonie 6P-Epic-XLu-(HPASDN) stworzona przez Zaawansowany Generator Map Losowych v1.30 z ustawieniami: wielki rozmiar, z podziemiami, z wodą, z bardzo silnymi potworami. Jest to mapa dla 6 graczy, startowe zasoby to 1445857666
+﻿Oto losowa mapa MMH5.5 bazująca na szablonie 6P-Epic-XLu-(HPASDN) stworzona przez Zaawansowany Generator Map Losowych v1.30 z ustawieniami: wielki rozmiar, z podziemiami, z wodą, z bardzo silnymi potworami. Jest to mapa dla 6 graczy, startowe zasoby to 1445857666

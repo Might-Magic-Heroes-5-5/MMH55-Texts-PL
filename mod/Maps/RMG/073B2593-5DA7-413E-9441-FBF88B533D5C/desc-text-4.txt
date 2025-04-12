@@ -1,1 +1,1 @@
-﻿To jest mapa losowa MMH5.5 bazująca na szablonie 5P-Belt-H/Lu stworzona przez Zaawansowany Generator Map Losowych v2.0 z ustawieniami: rozmiar duży, z podziemiami, bez wody, z silnymi potworami. Mapa jest stworzona dla 5 graczy, startowe zasoby to 1565621574
+﻿Oto losowa mapa MMH5.5 bazująca na szablonie 5P-Belt-H/Lu stworzona przez Zaawansowany Generator Map Losowych v2.0 z ustawieniami: rozmiar duży, z podziemiami, bez wody, z silnymi potworami. Mapa jest stworzona dla 5 graczy, startowe zasoby to 1565621574
