@@ -19,6 +19,6 @@ USTAWIENIA MAPY
 
 Zarządzanie: <value=governance>
 Przebudowa Miast: <value=conversion>
-Maksymalna ilość miast na frakcję: <value=maxtowns>
-Maksymalna ilość siedlisk na frakcję: T1:<value=t1d> T2:<value=t2d> T3:<value=t3d> 
-Maksymalna ilość posterunków na frakcję: <value=t4d>
+Maksymalna liczba miast na frakcję: <value=maxtowns>
+Maksymalna liczba siedlisk na frakcję: T1:<value=t1d> T2:<value=t2d> T3:<value=t3d> 
+Maksymalna liczba posterunków na frakcję: <value=t4d>

@@ -1,5 +1,5 @@
 ﻿+1 Obrona<br>
 +1 Siła Czarów<br><br>
-Wskrzesza po walce pewną ilość przyjaznych istot 5 poziomu. Ilość ta jest równa 30% + 1%*W wszystkich poległych lub alternatywnie 130 + 10*W wszystkich utraconych PŻ (w zależności od tego, które z nich skutkuje większą liczbą wskrzeszonych stworzeń). Wskrzeszenie wymaga 12 many. <color_default>W = Wiedza bohatera, a ilość jest zaokrąglana w dół. Nieumarli, Żywiołaki i Jednostki Mechaniczne nie mogą zostać wskrzeszone.
+Wskrzesza po walce pewną liczbę przyjaznych istot 5 poziomu. Liczba ta jest równa 30% + 1%*W wszystkich poległych lub alternatywnie 130 + 10*W wszystkich utraconych PŻ (w zależności od tego, które z nich skutkuje większą liczbą wskrzeszonych stworzeń). Wskrzeszenie wymaga 12 many. <color_default>W = Wiedza bohatera, a liczba jest zaokrąglana w dół. Nieumarli, Żywiołaki i Jednostki Mechaniczne nie mogą zostać wskrzeszone.
 <br><color=purple>Szaty Świętego<color_default><br>
 -2 Koszt Many wskrzeszenia na artefakt (3/7)

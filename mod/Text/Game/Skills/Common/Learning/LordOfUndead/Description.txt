@@ -1,1 +1,1 @@
-﻿Bohater zyskuje +2 Wiedzy, wskrzesza o 5% więcej istot z nekromancjii oraz zarabia 0,5 złota dziennie za każdego Szkieleta w swojej armii. Bohaterowie Nekropolii wzywają również dodatkową ilość Szkieletów co tydzień. Ilość ta jest równa Wiedzy.
+﻿Bohater zyskuje +2 Wiedzy, wskrzesza o 5% więcej istot z nekromancjii oraz zarabia 0,5 złota dziennie za każdego Szkieleta w swojej armii. Bohaterowie Nekropolii wzywają również dodatkową liczbę Szkieletów co tydzień. Liczba ta jest równa Wiedzy.
