@@ -1,6 +1,6 @@
-$sourceDirectory = "$PSScriptRoot\mod\"
-$tempDirectory = "$PSScriptRoot\Temp\"
-$zipFile = "$PSScriptRoot\MMH55-PL-TEXT.zip"
+$sourceDirectory = Join-Path $PSScriptRoot "mod"
+$tempDirectory = Join-Path $PSScriptRoot "Temp"
+$zipFile = Join-Path $PSScriptRoot "MMH55-PL-TEXT.zip"
 
 Write-Output "Processing directory..."
 
@@ -31,8 +31,8 @@ Get-ChildItem -Path $sourceDirectory -Filter "*.txt" -Recurse | ForEach-Object {
 Write-Output "Conversion complete!"
 
 # Create the .pak archive
-Compress-Archive -Path "$tempDirectory\*" -DestinationPath $zipFile -Force
-Rename-Item -Path $zipFile -NewName "MMH55-PL-TEXT.pak" -Force
+Compress-Archive -Path (Join-Path $tempDirectory "*") -DestinationPath $zipFile -Force
+Rename-Item -Path $zipFile -NewName "MMH55-Texts-PL.pak" -Force
 
 # Clean up Temp directory
 Remove-Item -Path $tempDirectory -Recurse -Force
