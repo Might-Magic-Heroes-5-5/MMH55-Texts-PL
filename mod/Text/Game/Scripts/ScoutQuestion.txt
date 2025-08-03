@@ -1,4 +1,4 @@
-﻿Chciałbyś wysłać zwiadowców (rodzime stworzenia poziomu 1) do budynku, aby zbadać siłę stworzeń strzegących skarbów. Szansa na to, że zwiadowca nie przeżyje tej misji wynosi <value=chance>%
+﻿Chciałbyś wysłać zwiadowców (rodzime stworzenia poziomu 1) do budynku, aby zbadać siłę stworzeń strzegących skarbów. Ryzyko, że zwiadowca nie przeżyje tej misji wynosi <value=chance>%
 -------------------------------------------------------------------------------
 
 OK = Zwiad
