@@ -2,10 +2,10 @@
 
 Witamy w nowej wersji kampanii dla Might & Magic: Heroes 5.5. Prosimy o zwrócenie uwagi na poniższe kwestie, aby upewnić się, że nie napotkasz żadnych problemów, jeśli planujesz rozegrać wszystkie kampanie:
 
-1. Zawsze graj używając MMH55.exe lub MMH55_64.exe, nie używaj steam launchera, załaduje on niewłaściwy exe i spowoduje błędy SI.
+1. Zawsze graj używając MMH55.exe lub MMH55_64.exe, nie używaj Steama do uruchamiania, załaduje on niewłaściwy exe i spowoduje błędy SI.
 
-2. Wszystkie Twoje wyposażone artefakty będą przenoszone pomiędzy misjami z wyjątkiem artefaktów ruchu, skillbooków, worków ze złotem, różdżek, zwojów i łez ash'y. Niewyposażone artefakty zostaną utracone.
+2. Wszystkie Twoje wyposażone artefakty będą przenoszone pomiędzy misjami z wyjątkiem artefaktów ruchu, ksiąg umiejętności, worków ze złotem, różdżek, zwojów i łez Ashy. Niewyposażone artefakty zostaną utracone.
 
-3. Limity poziomów bohaterów są wyższe. Domyślny rozmiar pola bitwy to 14x12 zamiast 12x10, a neutralne oddziały będą mieszane we wszystkich misjach. 
+3. Limity poziomów bohaterów są wyższe. Domyślny rozmiar pola bitwy to 14x12 zamiast 12x10, a neutralne oddziały będą mieszane we wszystkich misjach.
 
 4. Punkty handlowe oferują na sprzedaż mikstury many i mikstury ruchu. Zaawansowane funkcje RMG, takie jak konwersja miasta, zarządzanie, wrota wymiarów i kontrola kopalni są wyłączone, ponieważ są sprzeczne z oryginalną fabułą i celami.

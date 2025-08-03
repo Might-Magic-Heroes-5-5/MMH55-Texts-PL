@@ -1,7 +1,7 @@
 ﻿+1 Siła Czarów<br>
 +1 Wiedza<br>
 Przyznaje zdolność do nauki dowolnych zaklęć 4 poziomu, jeśli bohater posiada zdolność Tajemna Wszechwiedza.<color_default><br>
-+2 Siła Czarówjeśli bohater posiada Zaawansowane Oświecenie<br>
++2 Siła Czarów jeśli bohater posiada Zaawansowane Oświecenie<br>
 +2 Wiedza jeśli bohater posiada Zaawansowane Oświecenie<br>
 +3 Siła Czarów jeśli bohater posiada Eksperckie Oświecenie<br>
 +3 Wiedza jeśli bohater posiada Eksperckie Oświecenie

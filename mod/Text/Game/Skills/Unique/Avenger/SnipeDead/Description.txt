@@ -1,1 +1,1 @@
-﻿Zwiększa obrażenia o +3, jakie bohater zadaje atakując wrogie jednostki na polu bitwy, z premią +3. Jeśli zaatakowana jednostka znajduje się na liście ulubionych wrogów bohatera, to zostanie zadane trafienie krytyczne, podwajające obrażenia i zabijające przynajmniej jedną jednsotkę.
+﻿Zwiększa obrażenia o +3, jakie bohater zadaje atakując wrogie jednostki na polu bitwy, z premią +3. Jeśli zaatakowana jednostka znajduje się na liście ulubionych wrogów bohatera, to zostanie zadane trafienie krytyczne, podwajające obrażenia i zabijające przynajmniej jedną jednostkę.

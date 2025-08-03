@@ -1,1 +1,1 @@
-﻿Poskramiacz Wiwern: Wiwerny, Jadowite Wiwerny i Pao Kai w armii bohatera będą mogły działać natychmiast po rozpoczęciu walki. Wszystkie Wyverny i ich ulepszenia w armii bohatera zyskują +2 do swoich PŻ za każdy poziom bohatera, zaczynając od pierwszego poziomu.
+﻿Poskramiacz Wiwern: Wiwerny, Jadowite Wiwerny i Pao Kai w armii bohatera będą mogły działać natychmiast po rozpoczęciu walki. Wszystkie Wiwerny i ich ulepszenia w armii bohatera zyskują +2 do swoich PŻ za każdy poziom bohatera, zaczynając od pierwszego poziomu.

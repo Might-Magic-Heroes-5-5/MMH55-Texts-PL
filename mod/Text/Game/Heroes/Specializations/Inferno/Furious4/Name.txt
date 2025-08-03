@@ -1,1 +1,1 @@
-﻿Klasa: Strażnik Piekieł<br>Specializacja: Aura Szybkości<br><br><body_bright>Inicjatywa wszystkich jednostek w armii bohatera zostaje zwiększona o 2,5% + 0,25% na poziom bohatera.<br><br><color=orange>Zaczyna z Magia Zniszczenia.
+﻿Klasa: Strażnik Piekieł<br>Specjalizacja: Aura Szybkości<br><br><body_bright>Inicjatywa wszystkich jednostek w armii bohatera zostaje zwiększona o 2,5% + 0,25% na poziom bohatera.<br><br><color=orange>Zaczyna z Magia Zniszczenia.

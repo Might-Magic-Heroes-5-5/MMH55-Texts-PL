@@ -1,1 +1,1 @@
-﻿W czasie ataku na wybraną istotę zostaje nałożona na niego klątwa, która zmniejsza liczbę zadawanych przez nią obrażeń. Kazdy kolejny atak odnawia czas trwania klątwy.
+﻿W czasie ataku na wybraną istotę zostaje nałożona na niego klątwa, która zmniejsza liczbę zadawanych przez nią obrażeń. Każdy kolejny atak odnawia czas trwania klątwy.

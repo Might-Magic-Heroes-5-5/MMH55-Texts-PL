@@ -2,19 +2,19 @@
 KONTRAKT GUBERNATORA
 -------------------------------------------------------------------------------
 
-Korzyści: 
+Korzyści:
 
 - Bohater otrzymuje dzienne doświadczenie zależne od poziomu miasta i bohatera.
 - Miejskie Siedliska otrzymują zwiększony przyrost o pewien %. Procent ten zależy od poziomu bohatera. Jeśli poziom bohatera jest zbyt niski, przyrost nie zostanie zwiększony.
 - Bohater otrzymuje różne bonusy do atrybutów z budynków miasta.
-- Jeśli miasto posiada Gildię Magów 5 poziomu bohater może użyć zdolności Portal Miasta i teleportować sie do tego miasta. Bohater nie może opuścić swojego stanowiska i teleportować się do innych miast.
+- Jeśli miasto posiada Gildię Magów 5 poziomu bohater może użyć zdolności Portal Miasta i teleportować się do tego miasta. Bohater nie może opuścić swojego stanowiska i teleportować się do innych miast.
 - Jeżeli bohater posiada artefakty z zestawu Regalia Legionu, dodatkowe istoty będą dodane do siedlisk miejskich zamiast do armii bohatera, a w zamian siła tych artefaktów zwiększa się tak, jakby bohater miał Wiedzę wyższą o 5.
 
 Obowiązki:
 
 - Bohater musi pozostawać w zasięgu 50 pól od miasta. Poza tym promieniem bohater traci coraz więcej punktów ruchu im dalej znajduje się od miasta, a wszystkie bonusy gwarantowane przez miasto zostają utracone. Gubernator poniżej 5 poziomu traci ruch także w tym zasięgu.
 - Skuteczność Kryształów Smoczej Krwi bohatera jest ograniczona do 10. Nadmiar zgromadzonych Kryształów stanie się funkcjonalny po rezygnacji ze stanowiska.
-- Bohater może zrezygnować z bycia Gubernatorem stojąc w mieście. Bohater jest zobowiązany do zarządzania miastem przez okres co najmniej jednego miesiąca. Jeżeli chce zrezygnować wcześniej musi zapłacić grzywnę na rzecz mieszkańców miasta równą liczbie dni poza biurem × Poziom bohatera × 100. 
+- Bohater może zrezygnować z bycia Gubernatorem stojąc w mieście. Bohater jest zobowiązany do zarządzania miastem przez okres co najmniej jednego miesiąca. Jeżeli chce zrezygnować wcześniej musi zapłacić grzywnę na rzecz mieszkańców miasta równą liczbie dni poza biurem × Poziom bohatera × 100.
 
 -------------------------------------------------------------------------------
 

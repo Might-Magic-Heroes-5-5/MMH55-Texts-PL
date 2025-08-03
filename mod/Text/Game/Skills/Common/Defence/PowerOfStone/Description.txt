@@ -1,1 +1,1 @@
-﻿Bohater otrzymuje zaklęcie Grupowe Odbicie Pocisku i Odpornośc na Magię na poziomie eksperta<br><color_default>Po użyciu dowolnego zaklęcia grupowego gotowość bojowa bohatera spada do wartości 0,24.
+﻿Bohater otrzymuje zaklęcie Grupowe Odbicie Pocisku i Odporność na Magię na poziomie eksperta<br><color_default>Po użyciu dowolnego zaklęcia grupowego gotowość bojowa bohatera spada do wartości 0,24.
