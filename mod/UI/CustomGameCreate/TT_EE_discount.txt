@@ -1,1 +1,1 @@
-﻿Daje przeciwnikom SI zniżkę na wszystkie zakupy przez określoną ilość dni. To ustawienie nie jest wyłączone trybie Swobodnej Gry.
+﻿Daje przeciwnikom SI zniżkę na wszystkie zakupy przez określoną liczbę dni. To ustawienie nie jest wyłączone trybie Swobodnej Gry.

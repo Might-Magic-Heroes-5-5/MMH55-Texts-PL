@@ -1,1 +1,1 @@
-﻿Targ Niewolników pozwala sprzedawać stworzenia z twojej armii. Cena zależy od ilości posiadanych targów. Możesz zarabiać mając więcej niż jeden targ. Wszyscy bohaterowie Twierdzy ze zdolnością Logistyka zyskują również 50% więcej przyrostu co tydzień (nie kumuluje się z wieloma miastami).
+﻿Targ Niewolników pozwala sprzedawać stworzenia z twojej armii. Cena zależy od liczby posiadanych targów. Możesz zarabiać mając więcej niż jeden targ. Wszyscy bohaterowie Twierdzy ze zdolnością Logistyka zyskują również 50% więcej przyrostu co tydzień (nie kumuluje się z wieloma miastami).

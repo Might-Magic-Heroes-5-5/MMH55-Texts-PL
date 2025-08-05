@@ -1,1 +1,1 @@
-﻿Bohater zyskuje +2 Siły Czarów, a na początku każdego tygodnia do armii bohatera dołączają dodatkowe Dżiny, Dżiny Królewskie i Dżiny Wizjonerzy, pod warunkiem, że mają już niektórych z nich w swojej armii. Ich ilość jest równa 0,33 * poziom bohatera.
+﻿Bohater zyskuje +2 Siły Czarów, a na początku każdego tygodnia do armii bohatera dołączają dodatkowe Dżiny, Dżiny Królewskie i Dżiny Wizjonerzy, pod warunkiem, że mają już niektórych z nich w swojej armii. Ich liczba jest równa 0,33 * poziom bohatera.

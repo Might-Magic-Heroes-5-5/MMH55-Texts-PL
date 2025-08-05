@@ -1,1 +1,1 @@
-﻿<color=yellow>Do garnizonów miast przyzwana została pewna ilość istot: <value=num>.
+﻿<color=yellow>Do garnizonów miast przyzwana została pewna liczba istot: <value=num>.

@@ -1,3 +1,3 @@
 ﻿+5 Siła Czarów<br>
 -1 Morale<br><br><color=orange>
-Mumie<color_default><br>Spal ten artefakt w Świątyni, a przyzwie on oddział Mumii. Wielkość oddziału jest równa 3*ilość tygodni, które upłynęły.
+Mumie<color_default><br>Spal ten artefakt w Świątyni, a przyzwie on oddział Mumii. Wielkość oddziału jest równa 3*liczba tygodni, które upłynęły.

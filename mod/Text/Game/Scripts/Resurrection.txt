@@ -1,1 +1,1 @@
-﻿<color=green>Wskrzeszona została pewna ilość <value=upgtype>: <value=num>.
+﻿<color=green>Wskrzeszona została pewna liczba <value=upgtype>: <value=num>.

@@ -1,1 +1,1 @@
-﻿(Umiejętność Specjalna) Ta istota może złożyć w ofierze Gobliny, by uzyskać Manę i zwiększyć swój Atak, Obronę i Morale o 1 punkt do końca walki za każdą ofiarę (maksymalnie do 5 razy). Ilość zyskanej many jest równa podwojonej ilości punktów życia poświęcanych goblinów.
+﻿(Umiejętność Specjalna) Ta istota może złożyć w ofierze Gobliny, by uzyskać Manę i zwiększyć swój Atak, Obronę i Morale o 1 punkt do końca walki za każdą ofiarę (maksymalnie do 5 razy). Ilość zyskanej many jest równa podwojonej liczbie punktów życia poświęcanych goblinów.

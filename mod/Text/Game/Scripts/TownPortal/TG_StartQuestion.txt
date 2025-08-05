@@ -14,7 +14,7 @@ Obowiązki:
 
 - Bohater musi pozostawać w zasięgu 50 pól od miasta. Poza tym promieniem bohater traci coraz więcej punktów ruchu im dalej znajduje się od miasta, a wszystkie bonusy gwarantowane przez miasto zostają utracone. Gubernator poniżej 5 poziomu traci ruch także w tym zasięgu.
 - Skuteczność Kryształów Smoczej Krwi bohatera jest ograniczona do 10. Nadmiar zgromadzonych Kryształów stanie się funkcjonalny po rezygnacji ze stanowiska.
-- Bohater może zrezygnować z bycia Gubernatorem stojąc w mieście. Bohater jest zobowiązany do zarządzania miastem przez okres co najmniej jednego miesiąca. Jeżeli chce zrezygnować wcześniej musi zapłacić grzywnę na rzecz mieszkańców miasta równą Ilość dni poza biurem × Poziom bohatera × 100. 
+- Bohater może zrezygnować z bycia Gubernatorem stojąc w mieście. Bohater jest zobowiązany do zarządzania miastem przez okres co najmniej jednego miesiąca. Jeżeli chce zrezygnować wcześniej musi zapłacić grzywnę na rzecz mieszkańców miasta równą liczbie dni poza biurem × Poziom bohatera × 100. 
 
 -------------------------------------------------------------------------------
 

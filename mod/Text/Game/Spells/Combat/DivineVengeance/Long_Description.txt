@@ -1,1 +1,1 @@
-﻿Zadaje wybranym jednostkom magiczne obrażenia o wysokości uzależnionej od ilości wrogów zabitych przez owe jednostki od początku walki.
+﻿Zadaje wybranym jednostkom magiczne obrażenia o wysokości uzależnionej od liczby wrogów zabitych przez owe jednostki od początku walki.

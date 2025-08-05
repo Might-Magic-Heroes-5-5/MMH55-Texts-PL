@@ -1,4 +1,4 @@
-$directory = "$PSScriptRoot\MMH55-Texts-PL\"
+$directory = Join-Path -Path $PSScriptRoot -ChildPath "MMH55-Texts-PL"
 Write-Output "Processing directory..."
 
 # - UTF-8 is used by this repository so github can show diff during PRs

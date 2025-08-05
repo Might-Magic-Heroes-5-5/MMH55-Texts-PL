@@ -1,1 +1,1 @@
-﻿Na stałe wskrzesza stworzenia we wskazanym sojuszniczym oddziale. Każde wykorzystanie tego zaklęcia zmniejsza ilość punktów życia tego oddziału, chyba że rzucający zaklęcie posiada dużą wartość Siły Czarów.
+﻿Na stałe wskrzesza stworzenia we wskazanym sojuszniczym oddziale. Każde wykorzystanie tego zaklęcia zmniejsza liczbę punktów życia tego oddziału, chyba że rzucający zaklęcie posiada dużą wartość Siły Czarów.

@@ -1,1 +1,1 @@
-﻿Ta istota może naprawiać przyjazne jednostki mechaniczne (Golemy) i machiny wojenne raz na walkę. Ilość naprawionych PŻ jest równa 2 na Gremlina (Umiejętność Specjalna). Ta zdolność wymaga, aby na początku walki w oddziale znajdowało się co najmniej 20 Gremlinów.
+﻿Ta istota może naprawiać przyjazne jednostki mechaniczne (Golemy) i machiny wojenne raz na walkę. Liczba naprawionych PŻ jest równa 2 na Gremlina (Umiejętność Specjalna). Ta zdolność wymaga, aby na początku walki w oddziale znajdowało się co najmniej 20 Gremlinów.

@@ -1,5 +1,5 @@
 ﻿+4 Obrona (Jeśli założony)<br><br>
-Wzmacnia armię bohatera o rodzime stworzenia 6 poziomu na początku każdego tygodnia, pod warunkiem, że niektóre z nich są już obecne. Ilość zależy od Wiedzy bohatera W/6 (lub 1).
+Wzmacnia armię bohatera o rodzime stworzenia 6 poziomu na początku każdego tygodnia, pod warunkiem, że niektóre z nich są już obecne. Liczba zależy od Wiedzy bohatera W/6 (lub 1).
 <br><color=orange>Legion Regalii<br><color_default>
 Ofiaruj wszystkie 7 artefaktów Legionu Regalii na Ołtarzu Ofiarnym, aby otrzymać unikalną nagrodę.
 <br><color=yellow>Plecak<color_default><br>

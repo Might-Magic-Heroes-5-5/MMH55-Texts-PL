@@ -1,5 +1,5 @@
 ﻿+2 Siła Czarów<br>
 +2 Wiedza<br>
--50% do ilości przywołanych żywiołaków przez wrogich bohaterów<br>
+-50% do liczby przywołanych żywiołaków przez wrogich bohaterów<br>
 -50% do PŻ przywołanego wrogiego Roju, Feniksa i Bariery Ostrzy<br>
 Przyznaje umiejętność Wygnanie.
