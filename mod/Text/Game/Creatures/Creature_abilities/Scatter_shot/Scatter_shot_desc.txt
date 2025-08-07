@@ -1,1 +1,1 @@
-﻿(Umiejętność Specjalna) Istota ta może ostrzelić wybrany obszar (3 × 3 pola), zadając obrażenia wszystkim znajdującym się w nim stworzeniom. Ilość zadanych obrażeń każdej istocie jest o połowę mniejsza niż w wypadku normalnego strzału.
+﻿(Umiejętność Specjalna) Istota ta może ostrzelać wybrany obszar (3 × 3 pola), zadając obrażenia wszystkim znajdującym się w nim stworzeniom. Ilość zadanych obrażeń każdej istocie jest o połowę mniejsza niż w wypadku normalnego strzału.

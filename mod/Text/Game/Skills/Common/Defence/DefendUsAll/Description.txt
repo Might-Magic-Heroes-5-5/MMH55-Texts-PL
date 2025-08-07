@@ -1,1 +1,1 @@
-﻿Obrona bohatera zwiększa się o 2, a od poziomu 10 jeden Wojownik, Rębacz lub Podżegacz dołaczy do armii bohatera każdego dnia (pod warunkiem, że bohater posiada już co najmniej jedną z tych istot w swojej armii).
+﻿Obrona bohatera zwiększa się o 2, a od poziomu 10 jeden Wojownik, Rębacz lub Podżegacz dołączy do armii bohatera każdego dnia (pod warunkiem, że bohater posiada już co najmniej jedną z tych istot w swojej armii).

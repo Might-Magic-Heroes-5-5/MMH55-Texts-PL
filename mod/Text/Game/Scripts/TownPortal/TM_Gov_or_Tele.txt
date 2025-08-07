@@ -5,7 +5,7 @@ NASTĘPNA CZYNNOŚĆ
 OK = Mianuj tego bohatera na Gubernatora.
 Anuluj = Użyj Portalu Miasta (25 Many, 10% Punktów Ruchu).
 
-*Bohater może telportować się tylko do miast posiadających Gildię Magów 5 poziomu. Naciśnij OK a potem Anuluj jeśli nie chcesz nic robić.
+*Bohater może teleportować się tylko do miast posiadających Gildię Magów 5 poziomu. Naciśnij OK a potem Anuluj jeśli nie chcesz nic robić.
 
 -------------------------------------------------------------------------------
 INFORMACJE O BOHATERZE

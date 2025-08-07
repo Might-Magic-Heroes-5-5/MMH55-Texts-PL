@@ -1,1 +1,1 @@
-﻿Pozwala dostosować planowanie ruchów SI. Niemożliwy to 'najmądrzejsze' ustawienie, ale może spodować znaczne spadki szybkości gry na dużych mapach. Dla map XL nie zaleca się przekraczania ustawienia 'hard'. Zmniejsz to ustawienie, jeśli tury trwają zbyt długo.
+﻿Pozwala dostosować planowanie ruchów SI. Niemożliwy to 'najmądrzejsze' ustawienie, ale może spowodować znaczne spadki szybkości gry na dużych mapach. Dla map XL nie zaleca się przekraczania ustawienia 'hard'. Zmniejsz to ustawienie, jeśli tury trwają zbyt długo.

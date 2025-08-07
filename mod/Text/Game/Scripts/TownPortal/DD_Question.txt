@@ -5,4 +5,4 @@ OK = Odwiedź miasto i odnów manę
 Anuluj = Tylko odnów manę
 
 -------------------------------------------------------------------------------
-Aby zakończyć wizytę, należy oddalić się o jedno polę od Wrót lub ponownie odwiedzić obiekt. Wizyta zostanie zakończona, jeśli bohater spróbuje przejść do garnizonu miasta lub wrogi bohater zbliży się na odległość 8 pól do bohatera lub odwiedzanego miasta.
+Aby zakończyć wizytę, należy oddalić się o jedno pole od Wrót lub ponownie odwiedzić obiekt. Wizyta zostanie zakończona, jeśli bohater spróbuje przejść do garnizonu miasta lub wrogi bohater zbliży się na odległość 8 pól do bohatera lub odwiedzanego miasta.
