@@ -1,7 +1,8 @@
-﻿+1 Atak<br>
+﻿(lewa ręka)<br>
++1 Atak<br>
 +50% Szansy na zdobycie losowego zasobu po każdej bitwie<br>
 <br><color=purple>
-Odzież Pirata<color_default><br>
+Strój Pirata<color_default><br>
 +6 Atak (3/6)<br>
 +12 Atak (6/6)<br>
 *Premia jest stosowana po zamknięciu ekranu ekwipunku.

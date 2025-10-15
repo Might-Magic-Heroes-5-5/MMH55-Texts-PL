@@ -1,1 +1,3 @@
-﻿Wszystkie sojusznicze oddziały znajdujące się na sąsiednich polach otrzymują tylko 50% obrażeń od strzałów nie opartych na magii.
+﻿Wszystkie sojusznicze stworzenia znajdujące się na sąsiednich polach otrzymują mniej obrażeń od niemagicznych ataków dystansowych. Redukcja obrażeń wynosi 2% za każdą jednostkę w oddziale, ale nie więcej niż 50%.
+
+

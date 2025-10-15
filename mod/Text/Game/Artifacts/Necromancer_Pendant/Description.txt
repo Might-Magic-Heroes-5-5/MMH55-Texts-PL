@@ -1,5 +1,5 @@
-﻿+5% Dla umiejętności Nekromancji<br>
--10% Koszty Mrocznej Energii<br>
+﻿+5% do umiejętności Nekromancji<br>
+-10% koszty Mrocznej Energii<br>
 Zapewnia przyjaznym jednostkom odporność na Rozkład<br><br><color=purple>
 Objęcia Śmierci<color_default><br>
 +6 Siła Czarów (3/6)<br>

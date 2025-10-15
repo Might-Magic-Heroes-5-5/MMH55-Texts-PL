@@ -1,1 +1,1 @@
-﻿Jednostka jest odporna na natychmiastowo zabijające zdolności takie jak Zimna Śmierć, Szkodliwy Dotyk, Miecz Śmierci i Bezbłędny Strzał.
+﻿Jednostka jest odporna na natychmiastowo zabijające zdolności takie jak Zimna Śmierć, Uścisk Śmierci i Śmiercionośne Ostrze.

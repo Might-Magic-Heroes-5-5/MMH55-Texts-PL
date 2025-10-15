@@ -1,1 +1,1 @@
-﻿+<value=value> PŻ.
+﻿<color_default>+<value=value> PŻ

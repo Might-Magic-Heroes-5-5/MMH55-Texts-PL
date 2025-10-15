@@ -1,1 +1,1 @@
-﻿Zadaje obrażenia od ognia wszystkim oddziałom znajdującym się na wskazanym obszarze.
+﻿Zadaje obrażenia od ognia wszystkim oddziałom znajdującym się na wskazanym obszarze (3x3 pola).

@@ -1,1 +1,1 @@
-﻿Zadaje obrażenia od Zimna wszystkim oddziałom otaczającym miejsce rzucenia zaklęcia.
+﻿Zadaje obrażenia od Zimna wszystkim oddziałom otaczającym miejsce rzucenia zaklęcia (3x3 pola, bez centralnego pola).

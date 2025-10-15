@@ -1,1 +1,1 @@
-﻿Brak <value=value>.
+﻿﻿<color_default>Brak <value=value>

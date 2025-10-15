@@ -1,0 +1,1 @@
+﻿Niemagiczne obrażenia od pocisków zmniejszone o <damage> %.

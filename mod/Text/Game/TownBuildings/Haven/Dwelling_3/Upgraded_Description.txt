@@ -1,2 +1,2 @@
 ﻿<color_default>Ulepszone Koszary.<br>
-<color_bright>Garnizon pozwala rekrutować Piechurów i Fanatyków.
+<color_bright>Garnizon pozwala rekrutować Zbrojnych i Fanatyków.

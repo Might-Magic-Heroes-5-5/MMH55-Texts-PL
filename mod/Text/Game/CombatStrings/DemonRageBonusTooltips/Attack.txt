@@ -1,1 +1,1 @@
-﻿+<value=value> Ataku.
+﻿﻿<color_default>+<value=value> ataku

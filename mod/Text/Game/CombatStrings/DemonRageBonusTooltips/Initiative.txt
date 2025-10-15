@@ -1,1 +1,1 @@
-﻿+<value=value> Inicjatywy.
+﻿<color_default>+<value=value> inicjatywy 

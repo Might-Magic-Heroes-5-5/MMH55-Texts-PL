@@ -1,1 +1,1 @@
-﻿<combat_flying_signs><color_negative>Częściowy opór!
+﻿<combat_flying_signs><color_negative>Częściowa odporność!
