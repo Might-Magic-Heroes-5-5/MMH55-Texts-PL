@@ -1,1 +1,1 @@
-﻿Bohater zyskuje +2 Wiedzy i Mroczne Serce, artefakt, którego bohater może użyć do wskrzeszania "żywych" istot poległych w walce.<br><color_default> Bohaterowie Nekropolii i Akademii zyskują tylko premię do Wiedzy.
+﻿Bohater zyskuje +2 Wiedzy i Mroczne Serce, artefakt, którego może użyć do wskrzeszania "żywych" istot poległych w walce.<br><color_default> Bohaterowie Nekropolii i Akademii zyskują tylko premię do Wiedzy.

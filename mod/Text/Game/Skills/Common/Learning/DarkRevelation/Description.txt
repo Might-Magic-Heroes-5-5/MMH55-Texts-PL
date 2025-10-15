@@ -1,1 +1,1 @@
-﻿Bohater uczy się Runy Egzorcyzmu, zyskuje +2 Wiedzy i otrzymuje darmowy poziom bohatera w górę.
+﻿Bohater uczy się Runy Egzorcyzmu, zyskuje +2 Wiedzy i otrzymuje darmowy awans na kolejny poziom.

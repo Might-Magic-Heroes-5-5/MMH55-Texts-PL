@@ -1,1 +1,1 @@
-﻿<value_name>3x3 Tryb
+﻿<value_name>Tryb 3x3

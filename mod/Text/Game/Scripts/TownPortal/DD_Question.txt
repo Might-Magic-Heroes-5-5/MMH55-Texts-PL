@@ -1,4 +1,4 @@
-﻿Wrota Wymiarów pozwolą Ci odwiedzić dowolne z Twoich miast bez zmiany lokacji bohatera. Jeśli miasto posiada Gildię Magów mana zostanie natychmiast przywrócona.
+﻿Wrota Wymiarów pozwolą Ci odwiedzić dowolne z Twoich miast bez zmiany lokacji bohatera. Jeśli miasto posiada Gildię Magów, mana zostanie natychmiast przywrócona.
 -------------------------------------------------------------------------------
 
 OK = Odwiedź miasto i odnów manę

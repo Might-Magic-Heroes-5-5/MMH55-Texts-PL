@@ -1,1 +1,1 @@
-﻿Poziom mistrzostwa wszystkich zaklęć Magii Przywołania, rzucanych przez przeciwnika, jest obniżony o 2. Również Siła Czarów zostaje obniżona o 15% za każdy poziom mistrzostwa kończąc w efekcie poniżej minimalnego poziomu.
+﻿Poziom mistrzostwa wszystkich zaklęć Magii Przywołania, rzucanych przez przeciwnika, jest obniżony o 2. Również Siła Czarów zostaje obniżona o 15% za każdy poziom mistrzostwa, gdy poziom mistrzostwa czaru spadnie ostatecznie poniżej minimalnego poziomu.

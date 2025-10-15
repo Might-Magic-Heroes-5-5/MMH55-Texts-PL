@@ -1,1 +1,1 @@
-﻿+<value=value> Szybkości.
+﻿﻿<color_default>+<value=value> prędkości

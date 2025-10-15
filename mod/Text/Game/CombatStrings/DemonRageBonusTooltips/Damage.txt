@@ -1,1 +1,1 @@
-﻿+<value=value> Obrażeń.
+﻿<color_default>+<value=value> obrażeń

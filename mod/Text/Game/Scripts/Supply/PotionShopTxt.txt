@@ -1,1 +1,1 @@
-﻿Sprzedaje Mikstury Many i Ruchu oraz pozwala na wymianę zasobów po obniżonej stawce.
+﻿Sprzedaje Mikstury Many i Ruchu oraz pozwala na wymianę zasobów po obniżonej cenie.

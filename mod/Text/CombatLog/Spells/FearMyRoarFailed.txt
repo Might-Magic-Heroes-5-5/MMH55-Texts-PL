@@ -1,1 +1,1 @@
-﻿<value=source_color><value=target> rży przed drykiem <value=source>.
+﻿<value=source_color>Ryk oddziału <value=source> nie działa na <value=target>.

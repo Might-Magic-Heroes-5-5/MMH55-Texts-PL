@@ -1,1 +1,1 @@
-﻿Klasa i specjalizacja bohatera, a także biografia, przedstawiająca ich chwalebną przeszłość.
+﻿Klasa i specjalizacja bohatera, a także biografia, przedstawiająca jego/jej chwalebną przeszłość.

@@ -1,1 +1,1 @@
-﻿Po oddaniu strzału, wszyscy strzelcy przesuwają się w tył po pasku inicjatywy o 30% mniej. Łowcy, Strażnicy oraz Druidzi otrzymują 1 Szczęścia.
+﻿Po oddaniu strzału, wszyscy strzelcy przesuwają się w tył po pasku inicjatywy o 30% mniej. Łowcy, Mściciele oraz Druidzi otrzymują 1 Szczęścia.

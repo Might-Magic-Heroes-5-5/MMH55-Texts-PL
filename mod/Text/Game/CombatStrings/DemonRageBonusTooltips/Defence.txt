@@ -1,1 +1,1 @@
-﻿+<value=value> Obrony.
+﻿﻿<color_default>+<value=value> obrony

@@ -1,1 +1,1 @@
-﻿Obrażenia zadane tej jednostce są zmniejszone o 10% za każde pole, który atakujący przeszedł, aby uderzyć. Redukcja obrażeń jest ograniczona do 80%.
+﻿Obrażenia zadane tej jednostce są zmniejszone o 10% za każde pole, które atakujący przeszedł, aby uderzyć. Redukcja obrażeń jest ograniczona do 80%.
